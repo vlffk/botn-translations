@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: polish\n"
-"POT-Creation-Date: 2020-01-13 21:04\n"
-"PO-Revision-Date: 2020-01-13 21:04\n"
+"POT-Creation-Date: 2020-01-17 17:56\n"
+"PO-Revision-Date: 2020-01-17 17:56\n"
 "Language-Team: \n"
 "Language: pl-PL\n"
 "MIME-Version: 1.0\n"
@@ -802,7 +802,7 @@ msgstr "Schwytaj żeńskiego Foxena, jeśli jeszcze tego nie zrobiłeś, a nast�
 #: /Game/Dialogue/Fern/SexScenes/FernMilk_01.Default__FernMilk_01_C.SessionData.Lines(6).Lines
 msgctxt ",2087D4A34628AB4B8A51C4827BDC8AA0"
 msgid "Fern hope this pleases mastah greatly..."
-msgstr "Paproć ma nadzieję, że to się bardzo pan podoba...""
+msgstr "Paproć ma nadzieję, że to się bardzo pan podoba...\""
 
 #. Key:	20A752DD41AFEBDD2A4852BD029B894E
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(2).LinesToFemale
@@ -858,7 +858,7 @@ msgstr "Człowieku, zobacz, jaki brudny jesteś. Nie, nie, to się nie nada."
 #: /Game/Dialogue/Fern/DefaultP3/FernDefault03_R02.Default__FernDefault03_R02_C.SessionData.Lines(2).Lines
 msgctxt ",22721E7243A0F89426773BB6C47E987A"
 msgid "We can have a lot of fun with my flower body! I have wanted to make love with you Master..."
-msgstr "Czeka nas mnóstwo uciech z moim kwiecistym ciałem! Pragnęłam się z tobą kochać, panie...""
+msgstr "Czeka nas mnóstwo uciech z moim kwiecistym ciałem! Pragnęłam się z tobą kochać, panie...\""
 
 #. Key:	22A642E14AB14A866F4A749782B623B0
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_BodySexToy.Default__MirruDefault01_BodySexToy_C.SessionData.LinesToFemale(3).LinesToFemale
@@ -1103,7 +1103,7 @@ msgstr "Daj Paproci całe mleczko... hiss! Rośnie szybciej im więcej mleczka."
 #: /Game/Dialogue/Romy/Default/RomyDefault01_RL.Default__RomyDefault01_RL_C.ResponseData(4).ResponseData.BreederPrompt
 msgctxt ",2DF7474B4ED132A075973ABFA667399C"
 msgid "I want to hear your music."
-msgstr "Chcę usłyszeć twoją muzykę.""
+msgstr "Chcę usłyszeć twoją muzykę.\""
 
 #. Key:	2E18B0B24CC860D3136F0CA493EDDD3B
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R04.Default__FaleneDefault01_R04_C.SessionData.Lines(0).Lines

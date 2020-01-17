@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: german\n"
-"POT-Creation-Date: 2020-01-12 20:36\n"
-"PO-Revision-Date: 2020-01-12 20:36\n"
+"POT-Creation-Date: 2020-01-17 17:55\n"
+"PO-Revision-Date: 2020-01-17 17:55\n"
 "Language-Team: \n"
 "Language: de-DE\n"
 "MIME-Version: 1.0\n"
@@ -837,7 +837,8 @@ msgstr "Lüstling: Verliert 35% weniger Lust währrend der Vermehrung."
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(22).LinesToMale
 msgctxt ",21A08FF347BC7DE708B258BAD0F4BEF3"
 msgid "You will only catch wild @MONSTER_RACE@, which have roughly the intelligence of animals."
-msgstr "Du wirst nur wilde @MONSTER_RACE@ fangen, welche ungefähr die Intelligenz von Tieren haben."
+msgstr "You will only catch wild @MONSTER_RACE@, which have roughly the intelligence of animals."
+
 #. Key:	2232F66F4BB565CC2A75538123292067
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(19).LinesToMale
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(19).LinesToMale
@@ -6449,6 +6450,6 @@ msgstr "Ach ich dummerchen, ich vergesse immer mich vorzustellen."
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(24 - Value).TraitIcons.HelpText
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(24 - Value).TraitIcons.HelpText
 msgctxt ",FFEB9256402DB5ADDFEED38770F40285"
-msgid "Busty: Hat sehr große Brüste geerbt."
-msgstr "Vollbusig: "
+msgid "Busty: Inherited very large breasts."
+msgstr ""
 

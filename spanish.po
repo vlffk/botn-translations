@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: spanish\n"
-"POT-Creation-Date: 2020-01-12 21:15\n"
-"PO-Revision-Date: 2020-01-12 21:15\n"
+"POT-Creation-Date: 2020-01-17 17:57\n"
+"PO-Revision-Date: 2020-01-17 17:57\n"
 "Language-Team: \n"
 "Language: es-ES\n"
 "MIME-Version: 1.0\n"
@@ -172,7 +172,7 @@ msgstr "Déjame adivinar, quieren nuevos edificios para su salvaje @MONSTER_RACE
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_R07.Default__CamillaDefault01_R07_C.SessionData.LinesToFemale(0).LinesToFemale
 msgctxt ",0522652344116C917836F4A1A78C8815"
 msgid "Don't waste your beautiful tall body on me human. Just wait for Falene to come back, or go suck on Amber's tits."
-msgstr "No desperdicies tu hermoso cuerpo en mí humano. Solo espera a que Falene regrese, o ve a chupar las tetas de Amber "."
+msgstr "No desperdicies tu hermoso cuerpo en mí humano. Solo espera a que Falene regrese, o ve a chupar las tetas de Amber \"."
 
 #. Key:	052657834F6DBDBBC49BDAADA6E5E88A
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_RL.Default__NeelaDefault01_RL_C.ResponseData(2).ResponseData.BreederPrompt

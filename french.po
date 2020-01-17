@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: french\n"
-"POT-Creation-Date: 2020-01-12 20:35\n"
-"PO-Revision-Date: 2020-01-12 20:35\n"
+"POT-Creation-Date: 2020-01-17 17:55\n"
+"PO-Revision-Date: 2020-01-17 17:55\n"
 "Language-Team: \n"
 "Language: fr-FR\n"
 "MIME-Version: 1.0\n"
@@ -1460,7 +1460,7 @@ msgstr "Capture un mâle Vulwarg si ce n'est pas déjà fait, puis reviens me vo
 #: /Game/Dialogue/Emissary/Default/EmissaryGreeting01.Default__EmissaryGreeting01_C.SessionData.Lines(7).Lines
 msgctxt ",3C944B624D25292479528987C3078CBF"
 msgid "For from Her and through Her and to Her are all things. To Her be glory forever."
-msgstr "De par Elle et à travers Elle et pour Elle sont toutes choses. A Elle la gloire pour l'éternité.
+msgstr "De par Elle et à travers Elle et pour Elle sont toutes choses. A Elle la gloire pour l'éternité."
 
 #. Key:	3CA687014A0A2E686C1525BCF1F25CAE
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(30 - Value).TraitIcons.HelpText

@@ -1,13 +1,13 @@
-# japanese Japanese (Japan) translation.
+﻿# japanese Japanese (Japan) translation.
 # Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: japanese\n"
-"POT-Creation-Date: 2020-01-26 18:54\n"
-"PO-Revision-Date: 2020-02-03 22:53+0900\n"
+"POT-Creation-Date: 2020-02-07 21:37\n"
+"PO-Revision-Date: 2020-02-07 21:37\n"
 "Language-Team: \n"
-"Language: ja_JP\n"
+"Language: ja-JP\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -6802,3 +6802,4 @@ msgstr "あっ、ワタシったらバカね、まだ自己紹介してないじ
 msgctxt ",FFEB9256402DB5ADDFEED38770F40285"
 msgid "Busty: Inherited very large breasts."
 msgstr "巨乳: 遺伝的に、非常に大きな乳房を持つ。"
+

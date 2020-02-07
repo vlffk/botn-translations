@@ -1,11 +1,11 @@
-# russian Russian (Russia) translation.
+﻿# russian Russian (Russia) translation.
 # Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: russian\n"
-"POT-Creation-Date: 2020-01-26 18:55\n"
-"PO-Revision-Date: 2020-01-26 18:55\n"
+"POT-Creation-Date: 2020-02-07 21:37\n"
+"PO-Revision-Date: 2020-02-07 21:37\n"
 "Language-Team: \n"
 "Language: ru-RU\n"
 "MIME-Version: 1.0\n"
@@ -6802,3 +6802,4 @@ msgstr "Ой, я глупышка, так и не представилась."
 msgctxt ",FFEB9256402DB5ADDFEED38770F40285"
 msgid "Busty: Inherited very large breasts."
 msgstr "Большегрудая: Ну очень большая грудь."
+

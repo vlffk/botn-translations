@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: french\n"
-"POT-Creation-Date: 2020-01-26 18:52\n"
-"PO-Revision-Date: 2020-01-26 18:52\n"
+"POT-Creation-Date: 2020-02-07 21:36\n"
+"PO-Revision-Date: 2020-02-07 21:36\n"
 "Language-Team: \n"
 "Language: fr-FR\n"
 "MIME-Version: 1.0\n"
@@ -1110,7 +1110,7 @@ msgstr "Mère a reigné pendant 788 ans humain et la loi veut que les souverains
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_SellMonsters.Default__EmissaryDefault01_SellMonsters_C.SessionData.Lines(0).Lines
 msgctxt ",2BA86FB140866995E4F323B86DA72C9A"
 msgid "The Goddess is pleased and will grant you Her favor."
-msgstr "La Déesse t'accorderas Sa faveur car Elle est satisfaite." 
+msgstr "La Déesse t'accorderas Sa faveur car Elle est satisfaite."
 
 #. Key:	2BCA631C4BEC509E1B1DAC824001A31A
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_YourMusic_RL.Default__RomyDefault01_YourMusic_RL_C.ResponseData(1).ResponseData.BreederPrompt

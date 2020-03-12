@@ -18,14 +18,14 @@ msgstr ""
 #: /Game/Dialogue/Fern/DefaultP3/FernDefault03_R02.Default__FernDefault03_R02_C.SessionData.Lines(1).Lines
 msgctxt ",0009BEE346934010A7F79C8CF23B20D5"
 msgid "This is my final form, and it feels so amazing. I smell beautiful too!"
-msgstr ""
+msgstr "Dit is mijn laatste vorm, het voelt geweldig. En ik ruik ook fantastisch!"
 
 #. Key:	0061A5124B098F61DE991D81AB884112
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01_Meow.Default__CassieDefault01_Meow_C.SessionData.LinesToFemale(3).LinesToFemale
 #: /Game/Dialogue/Cassie/Default/CassieDefault01_Meow.Default__CassieDefault01_Meow_C.SessionData.LinesToFemale(3).LinesToFemale
 msgctxt ",0061A5124B098F61DE991D81AB884112"
 msgid "This little leather tool belt can barely contain my butter stick!"
-msgstr ""
+msgstr "Mijn boter stok past amper in deze kleine leren gereedschapsriem!"
 
 #. Key:	01386D9C478E6BE9974F00942E5EA1E0
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_RL.Default__MirruDefault01_RL_C.ResponseData(0).ResponseData.BreederPrompt
@@ -39,21 +39,21 @@ msgstr ""
 #: /Game/Dialogue/AmberMae/Default/AmberMaeDefault01_SuckJugs.Default__AmberMaeDefault01_SuckJugs_C.SessionData.Lines(3).Lines
 msgctxt ",014BFFCA4F173DACEC2A00A8398888F4"
 msgid "Aye, yer not leaving 'til you suck every last drop!"
-msgstr ""
+msgstr "Aye, je komt niet weg tot je de laatste druppel hebt opgeslurpt."
 
 #. Key:	017CCB4443E3658AEA961E9EDC5B53BF
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFuta(4).LinesToFuta
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFuta(4).LinesToFuta
 msgctxt ",017CCB4443E3658AEA961E9EDC5B53BF"
 msgid "And I'm one of them! A blessed female Painted Elf to be exact!"
-msgstr ""
+msgstr "En ik ben een van ze! Een vrouwlijke gezegende Painted Elf om precies te zijn!"
 
 #. Key:	0180484249AE71470005A78484607A18
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_AboutMusic.Default__RomyDefault01_AboutMusic_C.SessionData.Lines(1).Lines
 #: /Game/Dialogue/Romy/Default/RomyDefault01_AboutMusic.Default__RomyDefault01_AboutMusic_C.SessionData.Lines(1).Lines
 msgctxt ",0180484249AE71470005A78484607A18"
 msgid "Ah I suppose you are like most @MONSTER_RACE@ then."
-msgstr ""
+msgstr "Ah je bent dus zoals de meeste @MONSTER_RACE@."
 
 #. Key:	01DB8D8A43F7EC40F07FB3A355D39722
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(2 - Value).TravelShrines.ShrineName
@@ -67,35 +67,35 @@ msgstr ""
 #: /Game/Dialogue/Neela/Default/NeelaGreeting01.Default__NeelaGreeting01_C.SessionData.Lines(0).Lines
 msgctxt ",01DE9F6A42AB1019681AE1B74E68632C"
 msgid "Well now, this is a rare sight."
-msgstr ""
+msgstr "Nou, dit is een zeldzame verschijning."
 
 #. Key:	028C9ACB45CFD05DB106DBA06B056886
 #. SourceLocation:	/Game/World/Overworld.Overworld:PersistentLevel.StarfallenMonolith.ManageActionMessage
 #: /Game/World/Overworld.Overworld:PersistentLevel.StarfallenMonolith.ManageActionMessage
 msgctxt ",028C9ACB45CFD05DB106DBA06B056886"
 msgid "Manage your Starfallen"
-msgstr ""
+msgstr "Beheer je Starfallen"
 
 #. Key:	02A5F6F34ADE67C0A32ECE8E542DCC88
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(26).LinesToMale
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(26).LinesToMale
 msgctxt ",02A5F6F34ADE67C0A32ECE8E542DCC88"
 msgid "Gently of course, to date there has never been an instance where a @MONSTER_RACE@ has intentionally harmed a human."
-msgstr ""
+msgstr "Teder natuurlijk, tot op heden is het nooit voorgekomen dat een @MONSTER_RACE@ opzettelijk een mens pijn heeft gedaan."
 
 #. Key:	02FA062A4ABF915F50D8B38C08105557
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_AboutLamias.Default__NeelaDefault01_AboutLamias_C.SessionData.Lines(2).Lines
 #: /Game/Dialogue/Neela/Default/NeelaDefault01_AboutLamias.Default__NeelaDefault01_AboutLamias_C.SessionData.Lines(2).Lines
 msgctxt ",02FA062A4ABF915F50D8B38C08105557"
 msgid "From what I remember, I was of Liasis descent. A race said to roam Sensual Sands long ago."
-msgstr ""
+msgstr "Van wat ik mij herinner, ben ik van Liasise afkomst. Een ras dat lang geleden over de Sensual Sands zwierf."
 
 #. Key:	02FDE6D44BCEE7E9CD0113AACDF9C4E2
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_RechargeSpiritForm_RL_T.Default__LeylannaDefault01_RechargeSpiritForm_RL_T_C.ResponseData(1).ResponseData.BreederPrompt
 #: /Game/Dialogue/Leylanna/Default/LeylannaDefault01_RechargeSpiritForm_RL_T.Default__LeylannaDefault01_RechargeSpiritForm_RL_T_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",02FDE6D44BCEE7E9CD0113AACDF9C4E2"
 msgid "This is getting weird..."
-msgstr ""
+msgstr "Dit begint raar te worden..."
 
 #. Key:	034A5C0F4CB9984BC7F902A4AE65BB8A
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R05.Default__CamillaDefault01_R05_C.SessionData.Lines(0).Lines
@@ -109,196 +109,196 @@ msgstr ""
 #: /Game/Characters/Procedural/Variants/Titan/Harvest/TitanHarvest.Default__TitanHarvest_C.Harvest.Description
 msgctxt ",035C033E4F7C9048462B63880FD96732"
 msgid "Titan body fluids."
-msgstr ""
+msgstr "Titan lichaamsvloeistoffen."
 
 #. Key:	035F52234F8DA96ED37A5AAC5DD88039
 #. SourceLocation:	/Game/Dialogue/Camilla/SexScenes/CamillaAdorableLump.Default__CamillaAdorableLump_C.SessionData.LinesToMale(4).LinesToMale
 #: /Game/Dialogue/Camilla/SexScenes/CamillaAdorableLump.Default__CamillaAdorableLump_C.SessionData.LinesToMale(4).LinesToMale
 msgctxt ",035F52234F8DA96ED37A5AAC5DD88039"
 msgid "Ahh, plant your delicious seed in my little body! Give me... ohhh... all of it!"
-msgstr ""
+msgstr "Ahh, plant je heerlijke zaad in mijn kleine lichaam! Geef me... ohhh... alles!"
 
 #. Key:	03BD054E4D9907C2DF497EA4DCC0D8C3
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(6).LinesToFemale
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(6).LinesToFemale
 msgctxt ",03BD054E4D9907C2DF497EA4DCC0D8C3"
 msgid "My name is Falene, the leading @MONSTER_RACE@ specialist in all of @WORLD_NAME@."
-msgstr ""
+msgstr "Mijn naam is Falene, de meest toonaangevende @MONSTER_RACE@ specialist in heel @WORLD_NAME@."
 
 #. Key:	03C3FCAE4B8424BCF5F580BC933E08E8
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01_RL_T.Default__FernDefault01_RL_T_C.ResponseData(0).ResponseData.BreederPrompt
 #: /Game/Dialogue/Fern/Default/FernDefault01_RL_T.Default__FernDefault01_RL_T_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",03C3FCAE4B8424BCF5F580BC933E08E8"
 msgid "Why did you call me master?"
-msgstr ""
+msgstr "Waarom heeft u mij geroepen meester?"
 
 #. Key:	03FDE484412EB5432BA89A9FF52176AD
 #. SourceLocation:	/Game/Dialogue/Cassie/SexScenes/CassieSplintersT.Default__CassieSplintersT_C.SessionData.Lines(3).Lines
 #: /Game/Dialogue/Cassie/SexScenes/CassieSplintersT.Default__CassieSplintersT_C.SessionData.Lines(3).Lines
 msgctxt ",03FDE484412EB5432BA89A9FF52176AD"
 msgid "Meow! It feels so good! I'm going to get kitty cum all over myself!"
-msgstr ""
+msgstr "Mauw! Het voeld te goed! Zometeen zit ik helemaal onder het katten zaad!"
 
 #. Key:	04205AC945DE4E603D9147AFE4BB7547
 #. SourceLocation:	/Game/Dialogue/Neela/SexScenes/NeelaSnakeCuddleT.Default__NeelaSnakeCuddleT_C.SessionData.Lines(0).Lines
 #: /Game/Dialogue/Neela/SexScenes/NeelaSnakeCuddleT.Default__NeelaSnakeCuddleT_C.SessionData.Lines(0).Lines
 msgctxt ",04205AC945DE4E603D9147AFE4BB7547"
 msgid "Ohh yes! Ahhh... penetrate my ancient vagina..."
-msgstr ""
+msgstr "Ohh ja! Ahhh... penetreer mijn ouroude vagina..."
 
 #. Key:	04744CA84CBAE9AB13EA1989A23A0DDC
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01.Default__FaleneDefault01_C.SessionData.Lines(0).Lines
 #: /Game/Dialogue/Falene/Default/FaleneDefault01.Default__FaleneDefault01_C.SessionData.Lines(0).Lines
 msgctxt ",04744CA84CBAE9AB13EA1989A23A0DDC"
 msgid "I will leave your ranch soon! But don't worry, you can find me in Hedon."
-msgstr ""
+msgstr "Binnenkort zal ik je veehouderij verlaten! Maar maak je geen zorgen, j ekan me in Hedon vinden."
 
 #. Key:	04809803498EAC7920E3F09D8A29F0BF
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernGreeting01.Default__FernGreeting01_C.SessionData.Lines(4).Lines
 #: /Game/Dialogue/Fern/Default/FernGreeting01.Default__FernGreeting01_C.SessionData.Lines(4).Lines
 msgctxt ",04809803498EAC7920E3F09D8A29F0BF"
 msgid "Timeeee for the fluidsssss?"
-msgstr ""
+msgstr "Tijd voooor de sssssappen?"
 
 #. Key:	0500B4944007820F3A7BB096A4E699AB
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieGreeting01.Default__CassieGreeting01_C.SessionData.Lines(6).Lines
 #: /Game/Dialogue/Cassie/Default/CassieGreeting01.Default__CassieGreeting01_C.SessionData.Lines(6).Lines
 msgctxt ",0500B4944007820F3A7BB096A4E699AB"
 msgid "Lemme know if y'all want new buildings for your wild @MONSTER_RACE@..."
-msgstr ""
+msgstr "Laat het me weten als je nieuwe gebouwen nodig hebt voor je wilde @MONSTER_RACE@..."
 
 #. Key:	0522652344116C917836F4A1A78C8815
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R07.Default__CamillaDefault01_R07_C.SessionData.LinesToFemale(0).LinesToFemale
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_R07.Default__CamillaDefault01_R07_C.SessionData.LinesToFemale(0).LinesToFemale
 msgctxt ",0522652344116C917836F4A1A78C8815"
 msgid "Don't waste your beautiful tall body on me human. Just wait for Falene to come back, or go suck on Amber's tits."
-msgstr ""
+msgstr "Verspil je lange beeldschone lichaam niet op mij mens. Wacht gewoon tot Falene terug komt, of ga aan Ambers tieten zuigen."
 
 #. Key:	052657834F6DBDBBC49BDAADA6E5E88A
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_RL.Default__NeelaDefault01_RL_C.ResponseData(2).ResponseData.BreederPrompt
 #: /Game/Dialogue/Neela/Default/NeelaDefault01_RL.Default__NeelaDefault01_RL_C.ResponseData(2).ResponseData.BreederPrompt
 msgctxt ",052657834F6DBDBBC49BDAADA6E5E88A"
 msgid "Tell me about Lamias."
-msgstr ""
+msgstr "Vertel me meer over Lamias."
 
 #. Key:	0559493D46F48B86A2683FB3AC087112
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_FutaBalls.Default__CamillaDefault01_FutaBalls_C.SessionData.Lines(0).Lines
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_FutaBalls.Default__CamillaDefault01_FutaBalls_C.SessionData.Lines(0).Lines
 msgctxt ",0559493D46F48B86A2683FB3AC087112"
 msgid "Sugar walls before balls!"
-msgstr ""
+msgstr "Kut voor kloten!"
 
 #. Key:	0629816F428092E0C5B0169DD3E8F968
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R02.Default__FaleneDefault01_R02_C.SessionData.Lines(8).Lines
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R02.Default__FaleneDefault01_R02_C.SessionData.Lines(8).Lines
 msgctxt ",0629816F428092E0C5B0169DD3E8F968"
 msgid "Blessed ones can be found everywhere in @WORLD_NAME@, and for reasons I'm trying to solve, the vast majority are female."
-msgstr ""
+msgstr "Gezegende kunnen overal in @WORLD_NAME@ gevonden worden, en voor redenen die ik nog moet uitvogelen, zijn de meeste vrouw."
 
 #. Key:	063FE1B64CA363E1B1CB09BFE7E6043C
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01.Default__CassieDefault01_C.SessionData.Lines(6).Lines
 #: /Game/Dialogue/Cassie/Default/CassieDefault01.Default__CassieDefault01_C.SessionData.Lines(6).Lines
 msgctxt ",063FE1B64CA363E1B1CB09BFE7E6043C"
 msgid "Heh... sometimes I just can't stop."
-msgstr ""
+msgstr "Heh... soms kan ik gewoon niet stoppen."
 
 #. Key:	0685B494422BDD14CE725297CA6A02B0
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_YourVoid.Default__NeelaDefault01_YourVoid_C.SessionData.LinesToMale(1).LinesToMale
 #: /Game/Dialogue/Neela/Default/NeelaDefault01_YourVoid.Default__NeelaDefault01_YourVoid_C.SessionData.LinesToMale(1).LinesToMale
 msgctxt ",0685B494422BDD14CE725297CA6A02B0"
 msgid "See, there is nowhere in @WORLD_NAME@ that I haven't slithered."
-msgstr ""
+msgstr "Kijk, er is nergens in @WORLD_NAME@ waar ik nog niet geglibberd heb."
 
 #. Key:	06DCC78B4F1DECA217645DA58B3BB2A4
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01_R02_R01.Default__FernDefault01_R02_R01_C.SessionData.Lines(0).Lines
 #: /Game/Dialogue/Fern/Default/FernDefault01_R02_R01.Default__FernDefault01_R02_R01_C.SessionData.Lines(0).Lines
 msgctxt ",06DCC78B4F1DECA217645DA58B3BB2A4"
 msgid "Fern help mastah! Fern harvest fluidssss for you!"
-msgstr ""
+msgstr "Fern helpt de meesteh! Fern oogst ssssappen voor jouw!"
 
 #. Key:	06F45D04453307E37897C89FC16861F0
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeGreeting01.Default__AmberMaeGreeting01_C.SessionData.Lines(8).Lines
 #: /Game/Dialogue/AmberMae/Default/AmberMaeGreeting01.Default__AmberMaeGreeting01_C.SessionData.Lines(8).Lines
 msgctxt ",06F45D04453307E37897C89FC16861F0"
 msgid "Well, I'm sure you best be get'n off!"
-msgstr ""
+msgstr "Nou, je kunt maar beter gaan!"
 
 #. Key:	070169104C3375DAB052E18982B50AE4
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(3).LinesToMale
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(3).LinesToMale
 msgctxt ",070169104C3375DAB052E18982B50AE4"
 msgid "This world is home to the @MONSTER_RACE@, an enigmatic race of human-monster hybrids."
-msgstr ""
+msgstr "Deze wereld is het thuis van de @MONSTER_RACE@, een raadselachtig ras van mens-monster hybrides."
 
 #. Key:	07F233504BDA1232640FB1846CBFE868
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01.Default__FernDefault01_C.SessionData.Lines(0).Lines
 #: /Game/Dialogue/Fern/Default/FernDefault01.Default__FernDefault01_C.SessionData.Lines(0).Lines
 msgctxt ",07F233504BDA1232640FB1846CBFE868"
 msgid "Mastah! Fern love you."
-msgstr ""
+msgstr "Meesteh! Fern houdt van je."
 
 #. Key:	07F5EE754EC13715610F3E8746D2A3D2
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_AboutLamias.Default__NeelaDefault01_AboutLamias_C.SessionData.Lines(0).Lines
 #: /Game/Dialogue/Neela/Default/NeelaDefault01_AboutLamias.Default__NeelaDefault01_AboutLamias_C.SessionData.Lines(0).Lines
 msgctxt ",07F5EE754EC13715610F3E8746D2A3D2"
 msgid "Honestly, I don't know much about my kind."
-msgstr ""
+msgstr "Eerlijk gezegd, weet ik niet veel van mijn soort."
 
 #. Key:	08236DA548D9257F9FE293A6ACBC8A84
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02_RL_T.Default__FernDefault02_RL_T_C.ResponseData(3).ResponseData.BreederPrompt
 #: /Game/Dialogue/Fern/DefaultP2/FernDefault02_RL_T.Default__FernDefault02_RL_T_C.ResponseData(3).ResponseData.BreederPrompt
 msgctxt ",08236DA548D9257F9FE293A6ACBC8A84"
 msgid "You may have my cum!"
-msgstr ""
+msgstr "Je mag mijn zaad hebben!"
 
 #. Key:	0968DD0D4744523D6AFCEABE502C530F
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R07.Default__FaleneDefault01_R07_C.SessionData.LinesToFemale(1).LinesToFemale
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R07.Default__FaleneDefault01_R07_C.SessionData.LinesToFemale(1).LinesToFemale
 msgctxt ",0968DD0D4744523D6AFCEABE502C530F"
 msgid "I'm so horny I can't stand it anymore! Spread 'em human because here I come!"
-msgstr ""
+msgstr "Ik ben zo geil dat ik er niet meer tegen kan! Spreid jezelf mens, want hier kom ik!"
 
 #. Key:	0A1E776A4877D11A8A4716A6FEE789C1
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(7).LinesToMale
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(7).LinesToMale
 msgctxt ",0A1E776A4877D11A8A4716A6FEE789C1"
 msgid "@MONSTER_RACE@ origins are ancient and unknown, but we desire one thing above all else..."
-msgstr ""
+msgstr "De oorsprong van @MONSTER_RACE@ is van ouds en onbekend, maar we verlangen naar een ding boven al het andere..."
 
 #. Key:	0AA608164C47369E28D0C6BFDB27289A
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_AboutKrakens.Default__MirruDefault01_AboutKrakens_C.SessionData.Lines(0).Lines
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_AboutKrakens.Default__MirruDefault01_AboutKrakens_C.SessionData.Lines(0).Lines
 msgctxt ",0AA608164C47369E28D0C6BFDB27289A"
 msgid "The most noble, mighty, and feared race beneath the waves we are!"
-msgstr ""
+msgstr "Wij zijn het meest nobele, machtige en gevreesde ras onder de golven!"
 
 #. Key:	0BB0A695454FD69DAA129F82F023EB23
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(1).LinesToFemale
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(1).LinesToFemale
 msgctxt ",0BB0A695454FD69DAA129F82F023EB23"
 msgid "A human! A super cute human, this is my lucky day. I've been waiting for this phenomenon for... huh. Well as long as I can remember!"
-msgstr ""
+msgstr "Een mens! Een super schattig mens, dit is mijn geluksdag. Ik heb gewacht op dit phenomeen voor... huh. Zo lang als ik mij kan herinneren!"
 
 #. Key:	0BBD00B64AD7488CC6A8008C2BAF8B41
 #. SourceLocation:	/Game/World/Overworld.Overworld:PersistentLevel.VulwargKennel.ManageActionMessage
 #: /Game/World/Overworld.Overworld:PersistentLevel.VulwargKennel.ManageActionMessage
 msgctxt ",0BBD00B64AD7488CC6A8008C2BAF8B41"
 msgid "Manage your Vulwargs"
-msgstr ""
+msgstr "Beheer je Vulwargs"
 
 #. Key:	0BD52B434C91C8F5172BC0BB8C1B00BA
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_Leylanna.Default__EmissaryDefault01_Leylanna_C.SessionData.Lines(0).Lines
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_Leylanna.Default__EmissaryDefault01_Leylanna_C.SessionData.Lines(0).Lines
 msgctxt ",0BD52B434C91C8F5172BC0BB8C1B00BA"
 msgid "Behold, she is a loving servant of the Goddess, praise be Her name."
-msgstr ""
+msgstr "Aanschouw, zij is een liefhebbende dienaar van de Godin, lof zij Haar naam."
 
 #. Key:	0C1F84244DE410EF33BD2B924829370C
 #. SourceLocation:	/Game/World/Overworld.Overworld:PersistentLevel.ThriaeHive.ManageActionMessage
 #: /Game/World/Overworld.Overworld:PersistentLevel.ThriaeHive.ManageActionMessage
 msgctxt ",0C1F84244DE410EF33BD2B924829370C"
 msgid "Manage your Thriae"
-msgstr ""
+msgstr "Beheer je Thriae"
 
 #. Key:	0CA6EE7548B8D90D10FC67A138E7F076
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R06.Default__FaleneDefault01_R06_C.SessionData.Lines(4).Lines

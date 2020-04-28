@@ -1,6 +1,6 @@
 ﻿# russian Russian (Russia) translation.
 # Copyright Epic Games, Inc. All Rights Reserved.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: russian\n"
@@ -25,7 +25,7 @@ msgstr "Это моя финальная форма, и в ней я чувст�
 #: /Game/Ranch/Upgrades/BovaurShed.Default__BovaurShed_C.Upgrade.DisplayName
 msgctxt ",002DAFE7433D240D0A5822A932016D65"
 msgid "Bovaur Shed"
-msgstr "Хлев"
+msgstr "Хлев Быкавров"
 
 #. Key:	0061A5124B098F61DE991D81AB884112
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01_Meow.Default__CassieDefault01_Meow_C.SessionData.LinesToFemale(3).LinesToFemale
@@ -53,7 +53,7 @@ msgstr "А-а, ты не уйдишь пока не выпьишь усё, да 
 #: /Game/Ranch/Upgrades/HarpyAviary.Default__HarpyAviary_C.Upgrade.Description
 msgctxt ",017B23B341D5CE5BB9CC0293262CBD91"
 msgid "This allows you to catch and store all variants of Harpies."
-msgstr "Это позволит тебе ловить и содержать любые варианты Гарпий."
+msgstr "Эта постройка позволяет содержать любые виды Гарпий."
 
 #. Key:	017CCB4443E3658AEA961E9EDC5B53BF
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFuta(4).LinesToFuta
@@ -207,7 +207,7 @@ msgstr "Карамельные губки превыше шаров"
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R02.Default__FaleneDefault01_R02_C.SessionData.Lines(8).Lines
 msgctxt ",0629816F428092E0C5B0169DD3E8F968"
 msgid "Blessed ones can be found everywhere in @WORLD_NAME@, and for reasons I'm trying to solve, the vast majority are female."
-msgstr "Благословлённых можно найти повсюду в @WORLD_NAME@, и по пока неизвестным мне причинам, подавляющее большинство из них - женщины."
+msgstr "Благословлённых можно найти повсюду в @WORLD_NAME@, и, по пока неизвестным мне причинам, подавляющее большинство из них женщины."
 
 #. Key:	063FE1B64CA363E1B1CB09BFE7E6043C
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01.Default__CassieDefault01_C.SessionData.Lines(6).Lines
@@ -473,7 +473,7 @@ msgstr "Однако, некоторые из них могут быть бол�
 #: /Game/Ranch/Upgrades/SylvanTreehouse.Default__SylvanTreehouse_C.Upgrade.DisplayName
 msgctxt ",10B218DC466D7C9E5D99159D3C8C2B49"
 msgid "Sylvan Treehouse"
-msgstr "Сильванский Домик на дереве"
+msgstr "Домик на дереве"
 
 #. Key:	10B6D2544B53FFD4CF0A1DA4375DF5B5
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_NoSpiritVariant.Default__LeylannaDefault01_NoSpiritVariant_C.SessionData.LinesToFemale(0).LinesToFemale
@@ -564,14 +564,14 @@ msgstr "У тебя набор столь плодородных губ и гр�
 #: /Game/Ranch/Upgrades/ThriaeHive.Default__ThriaeHive_C.Upgrade.Description
 msgctxt ",12AF2DD443EFD1CDF7E19291D7E49384"
 msgid "This allows you to catch and store all variants of Thriae."
-msgstr "Это позволит тебе ловить и содержать все варианты Фрий."
+msgstr "Эта постройка позволяет содержать любые виды Фрий."
 
 #. Key:	12D176A644633E97EDB77BAB882297E2
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_Forgot_RL.Default__ParvatiDefault01_Forgot_RL_C.ResponseData(3).ResponseData.BreederPrompt
 #: /Game/Dialogue/Parvati/Default/ParvatiDefault01_Forgot_RL.Default__ParvatiDefault01_Forgot_RL_C.ResponseData(3).ResponseData.BreederPrompt
 msgctxt ",12D176A644633E97EDB77BAB882297E2"
 msgid "Reverse Cowgirl!"
-msgstr ""
+msgstr "Наездница наоборот!"
 
 #. Key:	12D3C80246AEABBC7C78CD8D7A2FD415
 #. SourceLocation:	/Game/Dialogue/Mirru/SexScenes/MirruSnatchT.Default__MirruSnatchT_C.SessionData.Lines(2).Lines
@@ -641,7 +641,7 @@ msgstr "Ты... тот, кто делал приятно Маме-Ферн."
 #: /Game/Dialogue/Parvati/Default/ParvatiDefault01_FloatRhyme.Default__ParvatiDefault01_FloatRhyme_C.SessionData.Lines(3).Lines
 msgctxt ",1494AA5040692D75A2E458AE890541FA"
 msgid "Allow me to show you what She shared, if I may."
-msgstr "Позволь мне показать чем она поделилась, я пологаю."
+msgstr "Позволь мне показать чем она поделилась, если позволишь."
 
 #. Key:	1495FB154E5C773C51452295CAF9F467
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R02.Default__FaleneDefault01_R02_C.SessionData.Lines(10).Lines
@@ -704,7 +704,7 @@ msgstr "Моя вагина пульсирует..."
 #: /Game/Dialogue/Parvati/Default/ParvatiDefault01_Forgot.Default__ParvatiDefault01_Forgot_C.SessionData.Lines(2).Lines
 msgctxt ",18CAD01243ECA034DDADA1A0880C715D"
 msgid "You are in the presence of Pawsmaati, and I am kind."
-msgstr ""
+msgstr "Ты рядом с Лапосваати, я рада."
 
 #. Key:	18D7599649118CDCF2E1C78FFB34E034
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_ChangeSpiritForm.Default__LeylannaDefault01_ChangeSpiritForm_C.SessionData.Lines(0).Lines
@@ -816,7 +816,7 @@ msgstr "И тогда они спаривались со многими обит
 #: /Game/Dialogue/Leylanna/Default/LeylannaDefault01_RechargeSpiritForm.Default__LeylannaDefault01_RechargeSpiritForm_C.SessionData.Lines(2).Lines
 msgctxt ",1C9CDC1147105A3D3F0A43BB6C94695C"
 msgid "Alternatively, you can recharge your spirit form partially by engaging in sex with blessed ones."
-msgstr "Также, ты можешь восполнить энергию для спиритической формы просто занявшись сексом с Благословлёнными."
+msgstr "Также, ты можешь восполнить энергию для духовной формы просто занявшись сексом с Благословлёнными."
 
 #. Key:	1CF80140486F2A7F4E727D8E50B64B37
 #. SourceLocation:	/Game/Dialogue/Falene/SexScenes/FaleneBlowJob.Default__FaleneBlowJob_C.SessionData.LinesToFemale(7).LinesToFemale
@@ -900,7 +900,7 @@ msgstr "Я отбросила плотские желания и эмоции. �
 #: /Game/Dialogue/Parvati/Default/ParvatiDefault01_Forgot_RL.Default__ParvatiDefault01_Forgot_RL_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",1EDF51EB413B2D360FB8C6B5AD2E62ED"
 msgid "Butterfly!"
-msgstr ""
+msgstr "Полет бабочки!"
 
 #. Key:	1FA8B3E8448F66CB1045EAB3F54ADE2B
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01_Meow.Default__CassieDefault01_Meow_C.SessionData.LinesToFemale(5).LinesToFemale
@@ -949,7 +949,7 @@ msgstr "Вы только что стали новым жителем @WORLD_NAM
 #: /Game/Breeding/Positions/Test5.Default__Test5_C.SessionData.PositionName
 msgctxt ",20BEB0FA47066DBAB732F68642C6BAC3"
 msgid "Test5"
-msgstr ""
+msgstr "Test5"
 
 #. Key:	20FEDBA24B5C623E162B85A3D6ACF514
 #. SourceLocation:	/Game/Ranch/Upgrades/StarfallenMonolith.Default__StarfallenMonolith_C.Upgrade.DisplayName
@@ -1040,7 +1040,7 @@ msgstr "Это позволит тебе разводить и содержат�
 #: /Game/Ranch/Upgrades/SylvanTreehouse.Default__SylvanTreehouse_C.Upgrade.Description
 msgctxt ",235E743740D1DB78A77472BFB5D5C1A8"
 msgid "This allows you to catch and store all variants of Sylvan."
-msgstr "Это позволит тебе ловить и содержать все варианты Сильван."
+msgstr "Эта постройка позволяет содержать любые виды Сильван."
 
 #. Key:	236BBFF14A62BA287C86179E8ACDDCA9
 #. SourceLocation:	/Game/Dialogue/Fern/SexScenes/FernCum_01.Default__FernCum_01_C.SessionData.Lines(0).Lines
@@ -1222,7 +1222,7 @@ msgstr "Моя мать царствовала 788 лет человек, и п�
 #: /Game/Breeding/Positions/Surprise.Default__Surprise_C.SessionData.PositionName
 msgctxt ",2B7282574EF4D841A9B0AD9EB06296D5"
 msgid "Surprise"
-msgstr ""
+msgstr "Неожиданный секс"
 
 #. Key:	2BA86FB140866995E4F323B86DA72C9A
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_SellMonsters.Default__EmissaryDefault01_SellMonsters_C.SessionData.Lines(0).Lines
@@ -1355,7 +1355,7 @@ msgstr "Как только Альрауна выпьет достаточно �
 #: /Game/Dialogue/Neela/Default/NeelaDefault01_TheVoid.Default__NeelaDefault01_TheVoid_C.SessionData.Lines(1).Lines
 msgctxt ",3033B03F4617AF302335059B87E769FB"
 msgid "Space and time are different there, but this you already know as a breeder. The Void is where @MONSTER_RACE@ come from."
-msgstr "Время там идет по-другому, пространство не такое как тут, но это ты уже и так знаешь. Но именно из Пустоты приходят @MONSTER_RACE@."
+msgstr "Время там идет по-другому, пространство не такое как тут, но это ты уже и так знаешь. И именно из Пустоты приходят @MONSTER_RACE@."
 
 #. Key:	30642B1B484E9B1A506A4C8AA641CE01
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R06.Default__FaleneDefault01_R06_C.SessionData.Lines(3).Lines
@@ -1404,7 +1404,7 @@ msgstr "Это позволяет матери знать, когда потом
 #: /Game/Dialogue/Neela/Default/NeelaDefault01.Default__NeelaDefault01_C.SessionData.Lines(0).Lines
 msgctxt ",3214B32B4A49DA94E7D6779180228EC0"
 msgid "No, I do not enjoy standing here all day wearing this ridiculous helmet."
-msgstr "Нет, мне не нравится стоять здесь весь день в этом дурацком шлеме."
+msgstr "Мне так не нравится стоять здесь весь день в этом дурацком шлеме."
 
 #. Key:	322489D0449B3ABC5F1D12BCD6CAD220
 #. SourceLocation:	/Game/Dialogue/Cassie/SexScenes/CassieSplintersT.Default__CassieSplintersT_C.SessionData.Lines(6).Lines
@@ -1425,7 +1425,7 @@ msgstr "Ты такой приятный человек... ааах."
 #: /Game/Dialogue/Parvati/Default/ParvatiDefault01_Forgot.Default__ParvatiDefault01_Forgot_C.SessionData.Lines(4).Lines
 msgctxt ",325B057D42B7367B320C54941EEE0BA6"
 msgid "I will show again how to move your body beyond all measure."
-msgstr ""
+msgstr "Я снова покажу, как владеть своим телом без всяких границ."
 
 #. Key:	32E74CA64F7C6339A9D526A19496DD86
 #. SourceLocation:	/Game/Dialogue/Camilla/SexScenes/CamillaAdorableLump.Default__CamillaAdorableLump_C.SessionData.LinesToFemale(0).LinesToFemale
@@ -1677,7 +1677,7 @@ msgstr "Поймай самца Вульварга, если у тебя его 
 #: /Game/Dialogue/Parvati/Default/ParvatiDefault01_StartMIssionary.Default__ParvatiDefault01_StartMIssionary_C.SessionData.Lines(0).Lines
 msgctxt ",3B79840D47C6CCB278E40AB26C3546E7"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. Key:	3C197E81483FDB92C0B7DE83C29374D3
 #. SourceLocation:	/Game/Ranch/Upgrades/ThriaeHive.Default__ThriaeHive_C.Upgrade.DisplayName
@@ -1719,7 +1719,7 @@ msgstr "Я забираюсь в твой цветок."
 #: /Game/Dialogue/Parvati/Default/ParvatiDefault01_Forgot_RL.Default__ParvatiDefault01_Forgot_RL_C.ResponseData(4).ResponseData.BreederPrompt
 msgctxt ",3EAFC53348C0B793D4BF32A6B78F4E3F"
 msgid "Lifted!"
-msgstr ""
+msgstr "Удерживая!"
 
 #. Key:	3EDC6D7644348135F915AD8CFA2438CE
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02_RL_F.Default__FernDefault02_RL_F_C.ResponseData(0).ResponseData.BreederPrompt
@@ -1782,7 +1782,7 @@ msgstr "Пред тобой посланник Богини - твой Арха�
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R03.Default__FaleneDefault01_R03_C.SessionData.Lines(12).Lines
 msgctxt ",4021F6674834D5C495A7E59231DB4FA4"
 msgid "If you aren't in the mood, you can also catch them by rubbing @MONSTER_RACE@ semen on their skin, or feeding them @MONSTER_RACE@ milk."
-msgstr "Если ты не в настроении, ты также можете поймать их, нанеся сперму @MONSTER_RACE@ на их кожу или покормив их молоком @MONSTER_RACE@."
+msgstr "Если ты не в настроении, ты также можете поймать их, нанеся сперму @MONSTER_RACE@ на их кожу или покормив молоком @MONSTER_RACE@."
 
 #. Key:	4052D6DF434789A177EAA1A32665DC40
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02_RL_T.Default__FernDefault02_RL_T_C.ResponseData(0).ResponseData.BreederPrompt
@@ -1901,7 +1901,7 @@ msgstr "Не трать на меня свои прекрасные флюиды
 #: /Game/Dialogue/Parvati/Default/ParvatiDefault01_StartLifted.Default__ParvatiDefault01_StartLifted_C.SessionData.Lines(0).Lines
 msgctxt ",442AA41044275C5F5330F99CF2ECE542"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. Key:	44BC09AE4BDFA439FBFD8BAABD7A96D0
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(25 - Value).TraitIcons.DisplayName
@@ -2013,7 +2013,7 @@ msgstr "Стерильный"
 #: /Game/Dialogue/Parvati/Default/ParvatiDefault01_Forgot_RL.Default__ParvatiDefault01_Forgot_RL_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",47E16E8D474D1F2D115C12A6DEB45E2B"
 msgid "Oh wait I haven't learned anything yet!!!!!"
-msgstr ""
+msgstr "О, подожди, я еще ничему не научился!!!!!"
 
 #. Key:	47FF727144E602154C40FFB1396CB921
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_RL.Default__FaleneDefault01_RL_C.ResponseData(5).ResponseData.BreederPrompt
@@ -2244,7 +2244,7 @@ msgstr "*Чмок* *Лизь*"
 #: /Game/Dialogue/Neela/Default/NeelaDefault01_YourVoid.Default__NeelaDefault01_YourVoid_C.SessionData.LinesToFuta(2).LinesToFuta
 msgctxt ",4F601DAA48F980A712CFA1A4888DDCBC"
 msgid "I have experienced @MONSTER_RACE@ dick and vagina beyond comprehension."
-msgstr "Я познала член и влагалище @MONSTER_RACE@ и это за пределами понимания."
+msgstr "Я познала члены и влагалища всех возможных @MONSTER_RACE@."
 
 #. Key:	4F926E9345E810F3C912438E56312AC9
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaGreeting01.Default__LeylannaGreeting01_C.SessionData.Lines(2).Lines
@@ -2314,7 +2314,7 @@ msgstr "Выродок: Результат близкородственного 
 #: /Game/Ranch/Upgrades/BovaurShed.Default__BovaurShed_C.Upgrade.Description
 msgctxt ",51B5762D4545FEE2F7E8D895B66B031B"
 msgid "This allows you to catch and store all variants of Bovaur."
-msgstr "Это позволит тебе ловить и содержать все варианты Быкавров."
+msgstr "Эта постройка позволяет содержать любые виды Быкавров."
 
 #. Key:	51CEBDA94681ACB09279C2A598681796
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_YourMusic_ToneDeaf.Default__RomyDefault01_YourMusic_ToneDeaf_C.SessionData.Lines(1).Lines
@@ -2335,7 +2335,7 @@ msgstr "У Эмбер сиськи больше, чем у меня! Как же
 #: /Game/Dialogue/Parvati/Default/ParvatiDefault01_StartRCowgirl.Default__ParvatiDefault01_StartRCowgirl_C.SessionData.Lines(0).Lines
 msgctxt ",51FAB478484E006C8F04E28F37E5D4D3"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. Key:	5243F67240932D62D7FDFABA63222594
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(26 - Value).TraitIcons.DisplayName
@@ -2678,7 +2678,7 @@ msgstr "Кое-кто обожает тебя так сильно, что гот
 #: /Game/Ranch/Upgrades/NekoCondo.Default__NekoCondo_C.Upgrade.Description
 msgctxt ",61DD0F8342D2EFAE9232248215EADFB4"
 msgid "This allows you to catch and store all variants of Nekos."
-msgstr "Это позволит тебе ловить и содержать все варианты Неко."
+msgstr "Эта постройка позволяет содержать любые виды Неко."
 
 #. Key:	61DEC1574FD90C69A68E04B4E3BD4DDB
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_RL.Default__FaleneDefault01_RL_C.ResponseData(2).ResponseData.BreederPrompt
@@ -2846,7 +2846,7 @@ msgstr "Смыть грязь."
 #: /Game/Dialogue/Neela/Default/NeelaDefault01_PussyPortals.Default__NeelaDefault01_PussyPortals_C.SessionData.Lines(0).Lines
 msgctxt ",66E8E5AB4E2D126AFBE3A7858C3E70EF"
 msgid "Can you think of a better name? Just look at the damn things."
-msgstr "Ты можешь придумать имя получше? Ты только посмотри на эти  штуки."
+msgstr "Ты можешь придумать имя получше? Ты только взгляни на эти  штуки."
 
 #. Key:	66F6289345C29C0CE3AFC2A1AB411CEE
 #. SourceLocation:	/Game/Dialogue/Cassie/SexScenes/CassieButterButtF.Default__CassieButterButtF_C.SessionData.Lines(5).Lines
@@ -2881,7 +2881,7 @@ msgstr "Какие постыдные... но такие прекрасные з
 #: /Game/Dialogue/Parvati/Default/ParvatiDefault01_StartCowgirl.Default__ParvatiDefault01_StartCowgirl_C.SessionData.Lines(0).Lines
 msgctxt ",67E8752E482B4F96EC745D8BB55B5F68"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. Key:	67EB3E22466BD62D9BC182899350E3AF
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01_Meow.Default__CassieDefault01_Meow_C.SessionData.LinesToFemale(1).LinesToFemale
@@ -2916,7 +2916,7 @@ msgstr "Очаровашка"
 #: /Game/Breeding/Positions/Test3.Default__Test3_C.SessionData.PositionName
 msgctxt ",693F4313487D2153C164CFBF808F1814"
 msgid "Test3"
-msgstr ""
+msgstr "Test3"
 
 #. Key:	695409264F52725B30031E8F0FB4052C
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02_RL_F.Default__FernDefault02_RL_F_C.ResponseData(2).ResponseData.BreederPrompt
@@ -2930,7 +2930,7 @@ msgstr "Что ты умеешь?"
 #: /Game/Dialogue/Parvati/Default/ParvatiDefault01_StartForgotten.Default__ParvatiDefault01_StartForgotten_C.SessionData.Lines(1).Lines
 msgctxt ",697AC02A4A47BBBD70150ABE216F79E9"
 msgid "Contemplate for moment while I apply some lube."
-msgstr ""
+msgstr "Насладись мгновением, пока я наношу немного смазки."
 
 #. Key:	6993DD7B4964C190B75F98AABA008FAA
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieGreeting01.Default__CassieGreeting01_C.SessionData.Lines(0).Lines
@@ -3014,7 +3014,7 @@ msgstr "Молочный: Удои увеличены на 50%"
 #: /Game/Dialogue/Parvati/Default/ParvatiDefault01_Forgot_RL.Default__ParvatiDefault01_Forgot_RL_C.ResponseData(6).ResponseData.BreederPrompt
 msgctxt ",6D1721A840C5FB9C772FA0B710043ADC"
 msgid "Waterfall!"
-msgstr ""
+msgstr "Водопад!"
 
 #. Key:	6D4E481742B09428791263B3A820281E
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeDefault01_SuckJugs.Default__AmberMaeDefault01_SuckJugs_C.SessionData.Lines(4).Lines
@@ -3217,7 +3217,7 @@ msgstr "Разве она не прекрасна?!"
 #: /Game/Dialogue/Parvati/Default/ParvatiDefault01_Forgot.Default__ParvatiDefault01_Forgot_C.SessionData.Lines(6).Lines
 msgctxt ",72570AA14FB2D285DAAB6584C841B08C"
 msgid "Which position shall we review?"
-msgstr ""
+msgstr "Какую позицию мы будем рассматривать?"
 
 #. Key:	72676A264244C7A242C2688B7B60F6A5
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01.Default__MirruDefault01_C.SessionData.Lines(1).Lines
@@ -3427,7 +3427,7 @@ msgstr "Я была стражем Пустоты в течение бесчис
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_Pregnancy.Default__FaleneDefault01_Pregnancy_C.SessionData.Lines(4).Lines
 msgctxt ",7921ED37459363625C14BEAA60B51F49"
 msgid "Isn't that just fantastic and adorable?!!!"
-msgstr ""
+msgstr "Разве это не фантастически восхитительно?!!!"
 
 #. Key:	7A37639548189268575986A48C480863
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_TheVoid.Default__NeelaDefault01_TheVoid_C.SessionData.Lines(2).Lines
@@ -3609,7 +3609,7 @@ msgstr "Усадьба"
 #: /Game/Breeding/Positions/Test2.Default__Test2_C.SessionData.PositionName
 msgctxt ",821ABD64418D426631CB80AA3EE0629D"
 msgid "Test2"
-msgstr ""
+msgstr "Test2"
 
 #. Key:	827D026847F470B33C9BA5B6E24201F5
 #. SourceLocation:	/Game/Breeding/Positions/Lifted.Default__Lifted_C.SessionData.PositionName
@@ -3714,7 +3714,7 @@ msgstr "*Чмок* *Чмок*"
 #: /Game/Ranch/Upgrades/SeraphimLoft.Default__SeraphimLoft_C.Upgrade.Description
 msgctxt ",850118264E28125C1BEFE4B4C33B1F6D"
 msgid "This allows you to catch and store all variants of Seraphim."
-msgstr "Это позволит тебе ловить и содержать все варианты Серафимов."
+msgstr "Эта постройка позволяет содержать любые виды Серафимов."
 
 #. Key:	852A10F045E59BFFF8DD789EE5504277
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R03.Default__FaleneDefault01_R03_C.SessionData.Lines(6).Lines
@@ -3945,7 +3945,7 @@ msgstr "Моя киска священна и волшебна. Пусть тв�
 #: /Game/Dialogue/Neela/Default/NeelaDefault01_TheVoid.Default__NeelaDefault01_TheVoid_C.SessionData.Lines(0).Lines
 msgctxt ",8A2E92A74C7DDAAAFC792FA98B65DD60"
 msgid "The Void is an infinite expanse that exists all around you, but it is unseen."
-msgstr "Пустота - это невидимое бесконечное пространство, которое окружает тебя."
+msgstr "Пустота - это невидимое бесконечное пространство, что окружает наш мир."
 
 #. Key:	8A5F2FCA4C02275D682FC2A405506B34
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(11).LinesToFemale
@@ -4232,7 +4232,7 @@ msgstr "Превосходно!"
 #: /Game/Dialogue/Parvati/Default/ParvatiDefault01_Forgot.Default__ParvatiDefault01_Forgot_C.SessionData.Lines(3).Lines
 msgctxt ",9386C1184C3F241BDF4D33BB1297FF2B"
 msgid "Take off your clothes and surrender to the pleasure."
-msgstr ""
+msgstr "Сними с себя одежду и отдайся наслаждению."
 
 #. Key:	93965A5D468FD50976A359A6DC4ABD45
 #. SourceLocation:	/Game/Ranch/Upgrades/DemonPool.Default__DemonPool_C.Upgrade.TypeDisplay
@@ -4260,7 +4260,7 @@ msgstr "Ух... мяу!"
 #: /Game/Ranch/Upgrades/DragonHoard.Default__DragonHoard_C.Upgrade.Description
 msgctxt ",93BFA77B4203C927F888AA9756403DB1"
 msgid "This allows you to catch and store all variants of Dragon."
-msgstr "Это позволит тебе ловить и содержать все варианты Драконов."
+msgstr "Эта постройка позволяет содержать любые виды Драконов."
 
 #. Key:	941010544E6432D137832FA1B37E0C10
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_Teach.Default__ParvatiDefault01_Teach_C.SessionData.Lines(3).Lines
@@ -4316,7 +4316,7 @@ msgstr "В отличие от большинства Кракенов, она �
 #: /Game/Dialogue/Neela/Default/NeelaDefault01_AboutLamias.Default__NeelaDefault01_AboutLamias_C.SessionData.Lines(4).Lines
 msgctxt ",94FAC38648F37068EA98D4BEB220AA61"
 msgid "Apparently, the males and futas had two dicks."
-msgstr "Очевидно, самцы и футунари имели по два члена."
+msgstr "Кажется, еще самцы и футунари имели по два члена."
 
 #. Key:	9575F3C94F07BC8A511E8D85F3737E68
 #. SourceLocation:	/Game/Characters/Procedural/Variants/Harpy/Harvest/HarpyHarvest.Default__HarpyHarvest_C.Harvest.Description
@@ -4351,7 +4351,7 @@ msgstr "Представь себе все дырочки, куда можно �
 #: /Game/Dialogue/Parvati/Default/ParvatiDefault01_Forgot_RL.Default__ParvatiDefault01_Forgot_RL_C.ResponseData(2).ResponseData.BreederPrompt
 msgctxt ",96151D60454DB0FB521DD6A507DA6C07"
 msgid "Cowgirl!"
-msgstr ""
+msgstr "Наездница!"
 
 #. Key:	96824C894B9B4241DBDFEEB68C760057
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(30).LinesToMale
@@ -4393,7 +4393,7 @@ msgstr "*Мурр*"
 #: /Game/Ranch/Upgrades/FoxenHouse.Default__FoxenHouse_C.Upgrade.Description
 msgctxt ",9717FEC243A7CD17EDAAD89765F8E2A8"
 msgid "This allows you to catch and store all variants of Foxen."
-msgstr "Это позволит тебе ловить и содержать все варианты Лис."
+msgstr "Эта постройка позволяет содержать любые виды Лис."
 
 #. Key:	97244FB84D6D7CC0273CD3BB89B847D9
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(22 - Value).TraitIcons.DisplayName
@@ -4421,7 +4421,7 @@ msgstr "Затем... ну, ты догадываешься, что мы сде�
 #: /Game/Ranch/Upgrades/SeraphimLoft.Default__SeraphimLoft_C.Upgrade.DisplayName
 msgctxt ",97A580FD4F8820DD9E8FA09B6B69797A"
 msgid "Seraphim Loft"
-msgstr "Чертоги Серафим"
+msgstr "Чертоги Серафимов"
 
 #. Key:	97B6C8DB42BBC06231748889E00AC3AE
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernDefault03_R02.Default__FernDefault03_R02_C.SessionData.Lines(3).Lines
@@ -4512,7 +4512,7 @@ msgstr "Оооох масстер! Наконец-то Ферн получить
 #: /Game/Dialogue/Parvati/Default/ParvatiDefault01_Forgot.Default__ParvatiDefault01_Forgot_C.SessionData.Lines(0).Lines
 msgctxt ",9A173A0445AB01F578033CA42A8E9C8F"
 msgid "Oh! Ahem..."
-msgstr ""
+msgstr "Ох! Гм..."
 
 #. Key:	9A9EDF3448107C0855BB35BBD9D849F5
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(23).LinesToFemale
@@ -4533,7 +4533,7 @@ msgstr "Блум!"
 #: /Game/Dialogue/Neela/Default/NeelaDefault01_YourVoid.Default__NeelaDefault01_YourVoid_C.SessionData.LinesToMale(3).LinesToMale
 msgctxt ",9B115CE5485736847F748591F0C8FB2A"
 msgid "All have been pleasurable and delicious... but oh have I wanted something more..."
-msgstr "Все было просто восхитительно... ну, разве что я хотела немного больше..."
+msgstr "И это было просто восхитительно... ну, разве что я всегда хотела немного большего..."
 
 #. Key:	9B2F56474FA9D82EE9F76EBEB5723F74
 #. SourceLocation:	/Game/Dialogue/Fern/SexScenes/FernCum_01.Default__FernCum_01_C.SessionData.Lines(4).Lines
@@ -4568,7 +4568,7 @@ msgstr "Ооох твой член! Наконец-то!"
 #: /Game/Dialogue/Parvati/Default/ParvatiDefault01_Forgot.Default__ParvatiDefault01_Forgot_C.SessionData.Lines(5).Lines
 msgctxt ",9BF2AD09410781A66302329DB25BA0EC"
 msgid "As I meditate, all I want is to make love with you."
-msgstr ""
+msgstr "Пока я медитирую, все, чего я хочу, - это заниматься с тобой любовью."
 
 #. Key:	9C3FDDD5490B3180DDD3329C692C0B4D
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R01.Default__CamillaDefault01_R01_C.SessionData.Lines(3).Lines
@@ -4827,7 +4827,7 @@ msgstr "*Лизь*"
 #: /Game/Dialogue/Neela/Default/NeelaDefault01_YourVoid.Default__NeelaDefault01_YourVoid_C.SessionData.LinesToFuta(1).LinesToFuta
 msgctxt ",A6F150C044603E1020AC1BB1DA82BAF4"
 msgid "See, there is nowhere in @WORLD_NAME@ that I haven't slithered."
-msgstr "Понимаешь, в @WORLD_NAME@ нет такого места, где бы не побывал мой хвост."
+msgstr "Видишь ли, нет в @WORLD_NAME@ такого места, где бы не побывал мой хвост."
 
 #. Key:	A709A6A94647E3F1218D6BB7BF74686D
 #. SourceLocation:	/Game/Dialogue/Blossom/Default/BlossomDefault_R03_RL.Default__BlossomDefault_R03_RL_C.ResponseData(0).ResponseData.BreederPrompt
@@ -4876,7 +4876,7 @@ msgstr "Да, я Разукрашенный Эльф!"
 #: /Game/Dialogue/Parvati/Default/ParvatiDefault01_Forgot_RL.Default__ParvatiDefault01_Forgot_RL_C.ResponseData(5).ResponseData.BreederPrompt
 msgctxt ",A91A80914B126F3C3F262D93E88AEA71"
 msgid "Missionary!"
-msgstr ""
+msgstr "Миссионерская!"
 
 #. Key:	A97AEF8E47499B2AEB627CAE711C36BC
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01_Meow_StartSplinters.Default__CassieDefault01_Meow_StartSplinters_C.SessionData.Lines(0).Lines
@@ -5030,7 +5030,7 @@ msgstr "Удовлетвори себя моей киской!"
 #: /Game/Ranch/Upgrades/TitanCave.Default__TitanCave_C.Upgrade.Description
 msgctxt ",AF04F5A4417DBB7D20BC64B4B66C34DD"
 msgid "This allows you to catch and store all variants of Titan."
-msgstr "Это позволит тебе ловить и содержать все варианты Титанов"
+msgstr "Эта постройка позволяет содержать любые виды Титанов"
 
 #. Key:	AF4962AA4EF7962370DC5D869BFFA992
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R01.Default__CamillaDefault01_R01_C.SessionData.Lines(8).Lines
@@ -5121,7 +5121,7 @@ msgstr "Я знаток увсих видов молока @MONSTER_RACE@. У к
 #: /Game/Dialogue/Parvati/Default/ParvatiDefault01_StartForgotten.Default__ParvatiDefault01_StartForgotten_C.SessionData.Lines(2).Lines
 msgctxt ",B235542C44D65B1D62C721A3C4CD289F"
 msgid "Pay close attention to my form, and learn you should."
-msgstr ""
+msgstr "Пристально следи за движениями моими, так научишься и ты."
 
 #. Key:	B27218744AEBAD507E1037B620EC16DA
 #. SourceLocation:	/Game/Dialogue/Blossom/Default/BlossomDefault01_R03_R01.Default__BlossomDefault01_R03_R01_C.SessionData.Lines(0).Lines
@@ -5296,7 +5296,7 @@ msgstr "Толстый: Существо с лишним весом."
 #: /Game/Dialogue/Parvati/Default/ParvatiDefault01_Forgot.Default__ParvatiDefault01_Forgot_C.SessionData.Lines(1).Lines
 msgctxt ",B8035279491515770BA6408AEE0EC908"
 msgid "Worry not of your forgetful mind."
-msgstr ""
+msgstr "Не беспокойся о своем забывчивом уме."
 
 #. Key:	B82A33C04616825E1FC07F99415D421D
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01_RL_M.Default__FernDefault01_RL_M_C.ResponseData(1).ResponseData.BreederPrompt
@@ -5331,7 +5331,7 @@ msgstr "Пассив лежит оперевшись на свой зад, по�
 #: /Game/Dialogue/Parvati/Default/ParvatiDefault01_StartButterfly.Default__ParvatiDefault01_StartButterfly_C.SessionData.Lines(0).Lines
 msgctxt ",B87B8D5E4C3F16D731F4EA884051A1FD"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. Key:	B8D3474E436959F3B7C140BFE42CF3C0
 #. SourceLocation:	/Game/Breeding/Positions/Doggy.Default__Doggy_C.SessionData.Description
@@ -5408,7 +5408,7 @@ msgstr "Придумай имя нашей дочери!"
 #: /Game/Dialogue/Neela/Default/NeelaDefault01_YourVoid.Default__NeelaDefault01_YourVoid_C.SessionData.LinesToFemale(4).LinesToFemale
 msgctxt ",BC50064D4E4A670A496FFAB77DB95208"
 msgid "Something mythical... something forbidden... something... human!"
-msgstr "Что-то мифическое... что-то запретное... что-то... человеческое!"
+msgstr "Чего-тоо мифического... чего-то запретного... чего-то... человеческого!"
 
 #. Key:	BC8D18A04D5B0C96E407F884999310E6
 #. SourceLocation:	/Game/Dialogue/AmberMae/SexScenes/AmberMilkyF.Default__AmberMilkyF_C.SessionData.Lines(5).Lines
@@ -5555,7 +5555,7 @@ msgstr "Это заставляло многих Кракенов насилов
 #: /Game/Dialogue/Neela/Default/NeelaDefault01_PussyPortals.Default__NeelaDefault01_PussyPortals_C.SessionData.Lines(1).Lines
 msgctxt ",C198075048B96603CACC81A045A05956"
 msgid "It is said, they are an exact replica of the Goddess' vagina itself!"
-msgstr "Сказано, это точные копии вагины самой Богини!"
+msgstr "Говорят, что это точные копии вагины самой Богини!"
 
 #. Key:	C2409B0E43C4FECF37A9A4AEC03EA9E7
 #. SourceLocation:	/Game/Ranch/Upgrades/FormurianPond.Default__FormurianPond_C.Upgrade.Description
@@ -5597,7 +5597,7 @@ msgstr "Сделай так, и дух сможет почувствовать �
 #: /Game/Dialogue/Parvati/Default/ParvatiDefault01_FloatRhyme.Default__ParvatiDefault01_FloatRhyme_C.SessionData.Lines(1).Lines
 msgctxt ",C45BFAF14EABF8D1BD3502825C5C1560"
 msgid "And became one with the Goddess who indulged in beastiality."
-msgstr "И стала одним целым с Богиней, {что предаётся зверю.}"
+msgstr "И стала одним целым с Богиней, что предаётся зверю."
 
 #. Key:	C462B3344F759413A7C6F28489176C99
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R03_RL.Default__CamillaDefault01_R03_RL_C.ResponseData(1).ResponseData.BreederPrompt
@@ -5688,7 +5688,7 @@ msgstr "Ты ищешь знаний как использовать своё л
 #: /Game/Dialogue/Leylanna/Default/LeylannaDefault01_RL.Default__LeylannaDefault01_RL_C.ResponseData(2).ResponseData.BreederPrompt
 msgctxt ",C77FA616486308414031F29069272188"
 msgid "Let's recharge my spirit form."
-msgstr "Давай сменим мою духовную форму."
+msgstr "Давай перезарядим мою духовную форму."
 
 #. Key:	C7BA93A840AB5FA97F357E802955A851
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(1 - Value).TraitIcons.DisplayName
@@ -5744,7 +5744,7 @@ msgstr "Осторожно человек, похоть Кракена нель�
 #: /Game/Ranch/Upgrades/VulwargKennel.Default__VulwargKennel_C.Upgrade.Description
 msgctxt ",CB4B328646049F44CA1AF5B3E7454C29"
 msgid "This allows you to catch and store all variants of Vulwarg."
-msgstr "Это позволит тебе ловить и содержать все варианты Вульваргов."
+msgstr "Эта постройка позволяет содержать любые виды Вульваргов."
 
 #. Key:	CB6197724E6737AA23A5DD991AD65537
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_YourMusic.Default__RomyDefault01_YourMusic_C.SessionData.LinesToFemale(1).LinesToFemale
@@ -5821,7 +5821,7 @@ msgstr "Заботливый: Все показатели потомства у�
 #: /Game/Dialogue/Parvati/Default/ParvatiDefault01_RL.Default__ParvatiDefault01_RL_C.ResponseData(2).ResponseData.BreederPrompt
 msgctxt ",CE6754D34D354921713D50B1F67C0F01"
 msgid "I... uh... \"forgot\" a teaching."
-msgstr ""
+msgstr "Я... э-э-э... \"не помню\" учения."
 
 #. Key:	CEC4092D45D0DBE6546A729EE34F0267
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_AboutMusic.Default__RomyDefault01_AboutMusic_C.SessionData.Lines(3).Lines
@@ -5856,7 +5856,7 @@ msgstr "А, так это правда. Действительно, челове
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_R07.Default__CamillaDefault01_R07_C.SessionData.LinesToMale(1).LinesToMale
 msgctxt ",CFDBD54945D68B87A04B7B9DDE06F521"
 msgid "Amber's tits are bigger than me! Why is this world so cruel..."
-msgstr "У Эмбер сиськи больше, чем у меня! Как же этот мир жесток.."
+msgstr "У Эмбер сиськи больше, чем я сама! Как же этот мир жесток.."
 
 #. Key:	D03FE11A4B475C76629C24AF0C738457
 #. SourceLocation:	/Game/Ranch/Upgrades/FormurianPond.Default__FormurianPond_C.Upgrade.DisplayName
@@ -5933,7 +5933,7 @@ msgstr "Когда масстер не захочит доить... Ферн э�
 #: /Game/Dialogue/Camilla/Default/CamillaGreeting01.Default__CamillaGreeting01_C.SessionData.Lines(1).Lines
 msgctxt ",D2DF40244F8B96F91F4101A5AD5F08AA"
 msgid "I'm Camilla! Falene's little goblin assistant! You probably won't need to talk to me much because she's the smart one around here."
-msgstr "Я Камилла! Маленький гоблин - помощник Фалин! Тебе, наверное, не стоит говорить со мной, Фалин здесь самая умная."
+msgstr "Я Камилла! Маленький гоблин-помощник Фалин! Тебе, наверное, не стоит говорить со мной, Фалин здесь самая умная."
 
 #. Key:	D395A99C4C2FAC4029FBE0A0AACFDE16
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_Leylanna.Default__EmissaryDefault01_Leylanna_C.SessionData.Lines(3).Lines
@@ -6073,7 +6073,7 @@ msgstr "Все было просто восхитительно... ну, раз�
 #: /Game/Dialogue/Parvati/Default/ParvatiDefault01_StartWaterfall.Default__ParvatiDefault01_StartWaterfall_C.SessionData.Lines(0).Lines
 msgctxt ",D6BF802E4E5B43F72E7B4F90BD61A387"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. Key:	D7B87B2D4E7F9B733C981C804A0914C8
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernGreeting02.Default__FernGreeting02_C.SessionData.LinesToFemale(3).LinesToFemale
@@ -6353,7 +6353,7 @@ msgstr "Формурия - это королевство глубоко на д�
 #: /Game/Dialogue/Parvati/Default/ParvatiDefault01_StartForgotten.Default__ParvatiDefault01_StartForgotten_C.SessionData.Lines(0).Lines
 msgctxt ",DF6BBB7E43776E94C988FCA9C4AD5110"
 msgid "Once you learn a new position, we can practice it anytime."
-msgstr ""
+msgstr "Как только вы освоите новую позицию, мы сможем опробовать ее в любое время."
 
 #. Key:	DF7ACA4545FC48FBC7FBD9816CFDE6DA
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_HowToSpiritForm_RL_T.Default__LeylannaDefault01_HowToSpiritForm_RL_T_C.ResponseData(0).ResponseData.BreederPrompt
@@ -6549,7 +6549,7 @@ msgstr "Но то что мы хотим на самом деле - это сп�
 #: /Game/Breeding/Positions/Test4.Default__Test4_C.SessionData.PositionName
 msgctxt ",E594716B40413B6747D21BA87B26EE43"
 msgid "Test4"
-msgstr ""
+msgstr "Test4"
 
 #. Key:	E5B7F2E2469864C41253FC892250ED92
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_YourMusic_Start.Default__RomyDefault01_YourMusic_Start_C.SessionData.Lines(0).Lines
@@ -6640,7 +6640,7 @@ msgstr "Проверить Драконов"
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(9).LinesToFemale
 msgctxt ",E9306878425673698C22F9AA8CD2A8CC"
 msgid "We love to breed with all other @MONSTER_RACE@."
-msgstr "Мы любим скрещиваться со всеми другими @MONSTER_RACE@."
+msgstr "Мы любим спариваться со всеми другими @MONSTER_RACE@."
 
 #. Key:	E95C5DA945F5D8A92099E9892F4615A7
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(1 - Value).TravelShrines.ShrineName
@@ -6668,7 +6668,7 @@ msgstr "Именно я, Мирру, буду следующей королев�
 #: /Game/Ranch/Upgrades/DemonPool.Default__DemonPool_C.Upgrade.Description
 msgctxt ",EAE306A64EE7F2719CB1719962D3F107"
 msgid "This allows you to catch and store all variants of Demon."
-msgstr "Это позволит тебе ловить и содержать все варианты Демонов."
+msgstr "Эта постройка позволяет содержать любые виды Демонов."
 
 #. Key:	EB2D583D443FA7DB15278C95780CBC37
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01_Meow.Default__CassieDefault01_Meow_C.SessionData.LinesToFemale(0).LinesToFemale
@@ -6682,7 +6682,7 @@ msgstr "Мяу! Хе-хе, не заводи меня!"
 #: /Game/Breeding/Positions/Test1.Default__Test1_C.SessionData.PositionName
 msgctxt ",EB54AD484FADC0D1DA6A95B5B6780E36"
 msgid "Surprise"
-msgstr ""
+msgstr "Неожиданный секс"
 
 #. Key:	EB717BA44A439427B1DE6CA60FA650A2
 #. SourceLocation:	/Game/Dialogue/Mirru/SexScenes/MirruKrakVag.Default__MirruKrakVag_C.SessionData.Lines(2).Lines
@@ -6773,7 +6773,7 @@ msgstr "Рот Ферн сслишком...ааах... мал..."
 #: /Game/Dialogue/Neela/Default/NeelaDefault01_YourVoid.Default__NeelaDefault01_YourVoid_C.SessionData.LinesToFuta(5).LinesToFuta
 msgctxt ",EE11DC6C4F3DE85807004E93DB73A0B2"
 msgid "Ohhh... would you please this old warden? It is a lonely life..."
-msgstr "Ооох... мог бы ты удволетворить старую смотрительницу? Ей так одиноко..."
+msgstr "Ооох... может быть ты удволетворить старую смотрительницу? Ей так одиноко..."
 
 #. Key:	EE8FDFD64822DC7BFDD6C9A70419163D
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02.Default__FernDefault02_C.SessionData.LinesToFemale(0).LinesToFemale
@@ -6913,7 +6913,7 @@ msgstr "Вернись ко мне, когда поймаешь самца Ву�
 #: /Game/Ranch/Upgrades/StarfallenMonolith.Default__StarfallenMonolith_C.Upgrade.Description
 msgctxt ",F5276F72433DAADC3348C9937061AB06"
 msgid "This allows you to catch and store all variants of Starfallen."
-msgstr "Это позволит тебе ловить и содержать все варианты Странников."
+msgstr "Эта постройка позволяет содержать любые виды Странников."
 
 #. Key:	F5D89EF24DD4E97F5789B4AF367D8E47
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R04.Default__FaleneDefault01_R04_C.SessionData.Lines(4).Lines
@@ -6955,7 +6955,7 @@ msgstr "О, как я хотела, сомкнуть свои мягкие гу�
 #: /Game/Dialogue/Romy/Default/RomyDefault01.Default__RomyDefault01_C.SessionData.LinesGrungy(0).LinesGrungy
 msgctxt ",F743D4EB4B4F3333AEE950BA4458ECE8"
 msgid "Oh you dirty dirty human... what have you done to yourself?"
-msgstr "Ах ты грязный, грязный человек... что ты с собой сделал?"
+msgstr "Эх ты, грязный, грязный человек... что ты с собой сделал?"
 
 #. Key:	F74E8BFF48A0493236F0C6B2CDD1F4DB
 #. SourceLocation:	/Game/Dialogue/Leylanna/SexScenes/LeylannaLeyCov.Default__LeylannaLeyCov_C.SessionData.LinesToFemale(2).LinesToFemale
@@ -7025,7 +7025,7 @@ msgstr "Масстер?"
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R01.Default__FaleneDefault01_R01_C.SessionData.Lines(17).Lines
 msgctxt ",F9C66FA74BAA102FE1238A952823D3D9"
 msgid "I wish I could remember my own birth and childhood, it would make this a lot easier. Hell, I wish I could remember how I got here, some 300 years ago. Hehe I lost count."
-msgstr "Я хочу вспомнить свои собственные рождение и детство, с этим это станет намного легче. Чёрт возьми, я хочу вспомнить как попала сюда, около 300 лет назад. Хе-хе, я потеряла им счёт."
+msgstr "Я хочу вспомнить свои собственные рождение и детство, благодаря этому мне станет намного легче. Чёрт возьми, я хочу вспомнить как попала сюда, около 300 лет назад. Хе-хе, я потеряла уже счёт."
 
 #. Key:	F9EF68BC4CE831DD669546BF6213C846
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01_Meow_StartButterButt.Default__CassieDefault01_Meow_StartButterButt_C.SessionData.Lines(0).Lines
@@ -7081,7 +7081,7 @@ msgstr "Ты изменилась!"
 #: /Game/Dialogue/Neela/Default/NeelaDefault01_TheVoid.Default__NeelaDefault01_TheVoid_C.SessionData.Lines(3).Lines
 msgctxt ",FAC3B1AA48B55AC22C81BABA4025A329"
 msgid "However, by stepping into a sacred pussy portal one can enter the Void from this plane."
-msgstr "Однако, если войти в священный кископортал без проводника, можно заблудиться в Пустоте."
+msgstr "И если войти без проводника в священный кископортал, можно заблудиться в Пустоте."
 
 #. Key:	FAD4B31949B0D1AC3DE5B3A79B8048C6
 #. SourceLocation:	/Game/Dialogue/Mirru/SexScenes/MirruSnatchF.Default__MirruSnatchF_C.SessionData.Lines(5).Lines
@@ -7130,7 +7130,7 @@ msgstr "Потратив более 4000 лет путешествуя по Пу
 #: /Game/Dialogue/Fern/DefaultP3/FernDefault03.Default__FernDefault03_C.SessionData.LinesToFuta(0).LinesToFuta
 msgctxt ",FC2E4BC244CE7A4471B402A207DCB5C4"
 msgid "Oh Master, you have fed me well."
-msgstr "О масстер, ты накормил меня."
+msgstr "Ох, масстер, ты накормил меня."
 
 #. Key:	FC6A48C641C7797ED1492DB62B0AC386
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R07_RL.Default__CamillaDefault01_R07_RL_C.ResponseData(1).ResponseData.BreederPrompt
@@ -7151,7 +7151,7 @@ msgstr "*Хлюп* *Лизь*"
 #: /Game/Dialogue/Romy/Default/RomyGreeting01.Default__RomyGreeting01_C.SessionData.Lines(1).Lines
 msgctxt ",FCD1F71F4D144F31FDAB9F89767AC8E7"
 msgid "Yes it sounds so sweet, it is the sound of human desire. Ahhh... it grows louder as your gaze turns upon my breasts."
-msgstr "Да, это звучит столь сладко, этот звук человеческого желания. Ааах... Он становится все громче, как только твой взгляд устремляется на мою грудь."
+msgstr "Да, она звучит столь сладко, этот отзвук человеческого желания. Ааах... Он становится все громче, как только твой взгляд устремляется на мою грудь."
 
 #. Key:	FD257CB04C6B3AB420244298D2C33047
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(14 - Value).TraitIcons.DisplayName
@@ -7207,7 +7207,7 @@ msgstr "Карликовый"
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(25).LinesToMale
 msgctxt ",FE11832245764B482A5550B347EB143E"
 msgid "However, some might be more playful about it and surprise you!"
-msgstr "Однако, некоторые из них могут быть более настойчивыми и напасть на тебя!"
+msgstr "Однако, некоторые из них могут быть слишком игривыми и напасть на тебя!"
 
 #. Key:	FE908E8B4214DDCF1709D284DCA9D0E1
 #. SourceLocation:	/Game/Dialogue/Cassie/SexScenes/CassieButterButtF.Default__CassieButterButtF_C.SessionData.Lines(1).Lines
@@ -7228,7 +7228,7 @@ msgstr "Оооох человек, да... моя мягкая мясистая 
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_AboutKrakens.Default__MirruDefault01_AboutKrakens_C.SessionData.Lines(8).Lines
 msgctxt ",FEEAD6AA4B91EE463E366FBDCB397167"
 msgid "Even a drylander such as yourself can probably guess what purpose my two front tentacles serve."
-msgstr "Даже такой человек как ты догадается, для чего нужны два моих передних щупальца."
+msgstr "Даже такой сухопутный как ты должен догадаться, для чего нужны два моих передних щупальца."
 
 #. Key:	FF0D5A0E4AD29A5B9CCF59942CB94FFA
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_RaiseTraitLvl.Default__EmissaryDefault01_RaiseTraitLvl_C.SessionData.Lines(0).Lines
@@ -7256,7 +7256,7 @@ msgstr "Телесные жидкости Серафима"
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(5).LinesToMale
 msgctxt ",FFA17F124A05F93244CA07860B63DEA2"
 msgid "Oh silly me, I never introduced myself."
-msgstr "Ой, я глупышка, так и не представилась."
+msgstr "Ой, так глупо с моей стороны, я так и не представилась."
 
 #. Key:	FFEB9256402DB5ADDFEED38770F40285
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(24 - Value).TraitIcons.HelpText
@@ -7270,7 +7270,7 @@ msgstr "Большегрудая: Ну очень большая грудь."
 #: Source/Radiant/Public/Characters/SexyBreederCharacter.cpp:196
 msgctxt "ASexyBreederCharacter,SpiritFormActivate"
 msgid "A Nephelym spirit has merged with {0}."
-msgstr ""
+msgstr "Нефилимский дух слился с {0}."
 
 #. Key:	SpiritFormDeactivate
 #. SourceLocation:	Source/Radiant/Public/Characters/SexyBreederCharacter.cpp:202
@@ -7291,21 +7291,21 @@ msgstr "Не достаточно духовной энергии."
 #: Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:328
 msgctxt "ASexyBreedingSystem,IncestMessage"
 msgid "This might not turn out well..."
-msgstr "Это может статься чем-то нехорошим..."
+msgstr "Это может плохо закончится..."
 
 #. Key:	ReleasedOffspring
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:447
 #: Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:447
 msgctxt "ASexyBreedingSystem,ReleasedOffspring"
 msgid "Released offspring into the wild."
-msgstr "Отпустить приплод на волю."
+msgstr "Отпустить отпрыска на волю."
 
 #. Key:	BadSettingsMessage
 #. SourceLocation:	Source/Radiant/Public/Characters/SexyCharacterSystem.cpp:1233
 #: Source/Radiant/Public/Characters/SexyCharacterSystem.cpp:1233
 msgctxt "ASexyCharacterSystem,BadSettingsMessage"
 msgid "Both female hominal and exotic variants are disabled, default will be used."
-msgstr "Оба, человекоподобный и звероподобный женские варианты, отключены, используются настройки по умолчанию."
+msgstr "Оба, человекоподобный и звероподобный женские варианты, отключены. Используются настройки по умолчанию."
 
 #. Key:	SpiritForm
 #. SourceLocation:	Source/Radiant/Public/Characters/SexyCharacterSystem.cpp:2050
@@ -7333,7 +7333,7 @@ msgstr "Открыта духовная форма."
 #: Source/Radiant/Public/Economy/SexyMerchantSystem.cpp:415
 msgctxt "ASexyMerchantSystem,MoreFavor"
 msgid "Favor from the Goddess is required."
-msgstr "Необходимо покровительство Богини."
+msgstr "Необходима благосклоность Богини."
 
 #. Key:	MoreLust
 #. SourceLocation:	Source/Radiant/Public/Economy/SexyMerchantSystem.cpp:406
@@ -7347,21 +7347,21 @@ msgstr "Недостаточно похоти."
 #: Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:991
 msgctxt "ASexyMonsterSystem,FernThanks"
 msgid "Fern gave {0} 150 shiny."
-msgstr ""
+msgstr "Ферн дает {0} 150 блестяшек"
 
 #. Key:	LearnedPosition
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:1024
 #: Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:1024
 msgctxt "ASexyMonsterSystem,LearnedPosition"
 msgid "{0}'s consciousness has expanded."
-msgstr ""
+msgstr "Сознание {0}'s расширилось"
 
 #. Key:	NoBathForYou
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:1140
 #: Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:1140
 msgctxt "ASexyMonsterSystem,NoBathForYou"
 msgid "Not enough orgasium."
-msgstr ""
+msgstr "Недостаточно оргазиума"
 
 #. Key:	NoFutaScene
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:1127
@@ -7396,7 +7396,7 @@ msgstr "Пик Оргазма"
 #: Source/Radiant/Public/World/SexyOverworldInterface.cpp:183
 msgctxt "ASexyOverworldInterface,Cove"
 msgid "Cove of Rapture"
-msgstr "Бухта Упоений"
+msgstr "Бухта Экстаза"
 
 #. Key:	Crag
 #. SourceLocation:	Source/Radiant/Public/World/SexyOverworldInterface.cpp:203
@@ -7424,7 +7424,7 @@ msgstr "Поляна Просвящённых"
 #: Source/Radiant/Public/World/SexyOverworldInterface.cpp:155
 msgctxt "ASexyOverworldInterface,HedonTownship"
 msgid "Hedon Township"
-msgstr "Поселение Гедон"
+msgstr "Городок Гедон"
 
 #. Key:	Homestead
 #. SourceLocation:	Source/Radiant/Public/World/SexyOverworldInterface.cpp:163
@@ -7473,35 +7473,35 @@ msgstr "Она хочет большего..."
 #: Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:682
 msgctxt "ASexyRoamingSystem,BreederBoringCum"
 msgid "The wild one wanted more..."
-msgstr ""
+msgstr "Дикий нефилим хочет большего..."
 
 #. Key:	BreederClimaxedFirst
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:687
 #: Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:687
 msgctxt "ASexyRoamingSystem,BreederClimaxedFirst"
 msgid "{0} has climaxed first..."
-msgstr ""
+msgstr "{0} кончил(а) первой..."
 
 #. Key:	BreederLikedCum
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:676
 #: Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:676
 msgctxt "ASexyRoamingSystem,BreederLikedCum"
 msgid "The wild one is pleased!"
-msgstr ""
+msgstr "Дикий нефилим удволетворен!"
 
 #. Key:	CatchSuccess
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:856
 #: Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:856
 msgctxt "ASexyRoamingSystem,CatchSuccess"
 msgid "The wild one has been captured."
-msgstr "Дикий Нефилим был пойман."
+msgstr "Дикий нефилим был пойман."
 
 #. Key:	LikedCum
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:677
 #: Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:677
 msgctxt "ASexyRoamingSystem,LikedCum"
 msgid "She loves how {0} tastes!"
-msgstr ""
+msgstr "Она в восторге от вкуса {0}!"
 
 #. Key:	RBJStart
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:618
@@ -7564,7 +7564,7 @@ msgstr "Выберете действие, а затем нажмите Стар
 #: Source/Radiant/Public/Characters/Breeder/SexyBreederController.cpp:134
 msgctxt "BreederController,NewOffspring"
 msgid "Congratulations, {0} has summoned new offspring!"
-msgstr ""
+msgstr "Поздравляем, {0} призвала нового отпрыска!"
 
 #. Key:	AdvanceButtonTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:108
@@ -7585,7 +7585,7 @@ msgstr "Пропустить"
 #: Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:101
 msgctxt "BreedingSession,BreedButtonTooltip"
 msgid "Skip the rest of the scene, offspring may still be produced."
-msgstr "Пропустить всю сцену, приплод по прежнему может быть получен."
+msgstr "Пропустить остальную сцену, отпрыск по прежнему может быть создан."
 
 #. Key:	DebugTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:186
@@ -7620,7 +7620,7 @@ msgstr "P,L,S C,T,V"
 #: Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:209
 msgctxt "BreedingSession,IKGiver"
 msgid "Giver"
-msgstr "{Дающий}"
+msgstr "Дающий"
 
 #. Key:	IKHips
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:350
@@ -7655,7 +7655,7 @@ msgstr "Левая нога"
 #: Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:209
 msgctxt "BreedingSession,IKReceiver"
 msgid "Receiver"
-msgstr "{Принимающий}"
+msgstr "Принимающий"
 
 #. Key:	IKRHand
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:241
@@ -7711,14 +7711,14 @@ msgstr "{Prop}"
 #: Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:179
 msgctxt "BreedingSession,SaveGiverTitle"
 msgid "Save Giver"
-msgstr "Сохранить {дающего}"
+msgstr "Сохранить Дающего"
 
 #. Key:	SaveReceiverTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:193
 #: Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:193
 msgctxt "BreedingSession,SaveReceiverTitle"
 msgid "Save Receiver"
-msgstr "Сохранить {принимающего}"
+msgstr "Сохранить Принимающего"
 
 #. Key:	SemenPool
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:450
@@ -7760,7 +7760,7 @@ msgstr "Начать сцену с выбранными партнёрами и 
 #: Source/Radiant/Public/UI/Menus/SexyBreedingSetupMenu.cpp:72
 msgctxt "BreedingSetup,GiverWindowTitle"
 msgid "Select Giver"
-msgstr "Выбрать {дающего}"
+msgstr "Выбрать Дающего"
 
 #. Key:	QuickButtonTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSetupMenu.cpp:55
@@ -7781,7 +7781,7 @@ msgstr "Случка выбранной пары без проигрывания
 #: Source/Radiant/Public/UI/Menus/SexyBreedingSetupMenu.cpp:128
 msgctxt "BreedingSetup,ReceiverWindowTitle"
 msgid "Select Receiver"
-msgstr "Выбрать {принимающего}"
+msgstr "Выбрать Принимающего"
 
 #. Key:	ImpossibleCombo
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:175
@@ -7795,42 +7795,42 @@ msgstr "Выявлена несовместимость."
 #: Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:171
 msgctxt "BreedingSystem,NoFemaleGiver"
 msgid "Giver must be futa or male."
-msgstr "{Дающий} должен быть футанари или мужчиной."
+msgstr "Дающий должен быть футанари или мужчиной."
 
 #. Key:	NoGiver
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:159
 #: Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:159
 msgctxt "BreedingSystem,NoGiver"
 msgid "Giver must be selected."
-msgstr "Должен быть выбран {дающий}."
+msgstr "Должен быть выбран Дающий."
 
 #. Key:	NoMaleReceiver
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:167
 #: Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:167
 msgctxt "BreedingSystem,NoMaleReceiver"
 msgid "Receiver must be female or futa."
-msgstr "{Принимающий} должен быть футанари или женщиной"
+msgstr "Принимающий должен быть футанари или женщиной."
 
 #. Key:	NoOffspring
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:597
 #: Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:597
 msgctxt "BreedingSystem,NoOffspring"
 msgid "No offspring this time..."
-msgstr "Нет приплода в этот раз..."
+msgstr "Нет потомства, в этот раз..."
 
 #. Key:	NoReceiver
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:163
 #: Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:163
 msgctxt "BreedingSystem,NoReceiver"
 msgid "Receiver must be selected."
-msgstr "Должен быть выбран {Принимающий}."
+msgstr "Должен быть выбран Принимающий."
 
 #. Key:	NoRoomOffspring
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:591
 #: Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:591
 msgctxt "BreedingSystem,NoRoomOffspring"
 msgid "Not enough space for offspring, it was released into the wild."
-msgstr "Не достаточно места для приплода, он был выпущен на волю."
+msgstr "Не достаточно места для отпрыска, он был выпущен на волю."
 
 #. Key:	NoSexPosition
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:155
@@ -7851,7 +7851,7 @@ msgstr "Обаяние"
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:150
 msgctxt "CharacterDetails,AllureTooltip"
 msgid "Allure is a measure of the pheromones given off by this one."
-msgstr "{Обояние это мера феромонов производимая данным субъектом.}"
+msgstr "Обаяние - это колличество феромонов производимых данным персонажем."
 
 #. Key:	Attributes
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:63
@@ -7872,7 +7872,7 @@ msgstr "Ловкость"
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:164
 msgctxt "CharacterDetails,DexterityTooltip"
 msgid "Measures how quick and agile this one can be."
-msgstr "Показывает насколько быстр и ловок данный субъект."
+msgstr "Показывает насколько быстр и ловок данный персонаж."
 
 #. Key:	Father
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:111
@@ -7893,14 +7893,14 @@ msgstr "Поставщик семени."
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:142
 msgctxt "CharacterDetails,Fertility"
 msgid "Fertility"
-msgstr "Фертильность"
+msgstr "Плодовитость"
 
 #. Key:	FertiliyTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:143
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:143
 msgctxt "CharacterDetails,FertiliyTooltip"
 msgid "How likely it would be for this one to produce offspring."
-msgstr "Показывает вероятность дать приплод."
+msgstr "Показывает вероятность породить отпрыска."
 
 #. Key:	Level
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:128
@@ -7914,7 +7914,7 @@ msgstr "Уровень"
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:129
 msgctxt "CharacterDetails,LevelTooltip"
 msgid "Level represents how much power this one has absorbed through sexual activity."
-msgstr "{Уровень показывает сколько мощи получает данный субъект через сексуальную активность.}"
+msgstr "Уровень показывает на сколько сильнее стал персонаж, благодаря сексуальной активности."
 
 #. Key:	Lifeforce
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:38
@@ -7928,7 +7928,7 @@ msgstr "Дух"
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:39
 msgctxt "CharacterDetails,LifeforceTooltip"
 msgid "Spirit energy. Used to transform into your spirit form."
-msgstr "Духовная энергия. используется что бы принять духовную форму."
+msgstr "Духовная энергия. Используется что бы принять духовную форму."
 
 #. Key:	Loyalty
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:44
@@ -7942,7 +7942,7 @@ msgstr "Преданность"
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:45
 msgctxt "CharacterDetails,LoyaltyTooltip"
 msgid "How happy this one is to stay on your ranch."
-msgstr "Показывает как счастлив субъект на твоём ранчо."
+msgstr "Показывает на сколько счастлив нефилим на твоём ранчо."
 
 #. Key:	Lust
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:31
@@ -7956,7 +7956,7 @@ msgstr "Похоть"
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:32
 msgctxt "CharacterDetails,LustTooltip"
 msgid "Represents how horny this one has become. When lust reaches zero, sexual activity and most actions cannot be performed."
-msgstr "Показывает насколько возбуждён субъект. Когда похоть достигнет нуля, сексуальная активность а так жу большинство действий с субъектом становятся невозможны."
+msgstr "Показывает насколько возбуждён персонаж. Когда похоть достигнет нуля, сексуальная активность а так же большинство действий становятся невозможны."
 
 #. Key:	Mother
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:104
@@ -7970,7 +7970,7 @@ msgstr "Мать"
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:105
 msgctxt "CharacterDetails,MotherTooltip"
 msgid "The female who summoned this one into the world."
-msgstr "Женщина, что призвала данный приплод в этот мир."
+msgstr "Женщина, что призвала данного отпрыска в этот мир."
 
 #. Key:	Pregnancy
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:56
@@ -7984,7 +7984,7 @@ msgstr "Беременность"
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:57
 msgctxt "CharacterDetails,PregnancyTooltip"
 msgid "Progress toward summoning offspring.\nMilk production is doubled during pregnancy."
-msgstr "Прогресс призыва приплода. \nПроизводство молока во время беременности увеличено."
+msgstr "Прогресс призыва отпрыска. \nПроизводство молока во время беременности увеличено."
 
 #. Key:	Procreators
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:94
@@ -8005,7 +8005,7 @@ msgstr "Род"
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:74
 msgctxt "CharacterDetails,RaceTooltip"
 msgid "The race this one belongs to."
-msgstr "Раса, к которой принадлежит субъект."
+msgstr "Раса, к которой принадлежит персонаж."
 
 #. Key:	Sex
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:87
@@ -8019,7 +8019,7 @@ msgstr "Пол"
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:88
 msgctxt "CharacterDetails,SexTooltip"
 msgid "What genetalia this one was born with."
-msgstr "Показывает с какими гениталиями рождён субъект"
+msgstr "Показывает с какими гениталиями рождён персонаж."
 
 #. Key:	Stats
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:118
@@ -8040,7 +8040,7 @@ msgstr "Сила"
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:136
 msgctxt "CharacterDetails,StrengthTooltip"
 msgid "The physical strength of this one."
-msgstr "Физическая сила субъекта"
+msgstr "Физическая сила персонажа."
 
 #. Key:	Traits
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:177
@@ -8061,7 +8061,7 @@ msgstr "Цена"
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:171
 msgctxt "CharacterDetails,ValueTooltip"
 msgid "The net worth of this one, a result of stats and the rarity of its variant."
-msgstr "Чистая стоимость субъекта, резюмирующая величина характеристик и редкости данного субъекта."
+msgstr "Общая стоимость, зависящая от характеристик и редкости данного нефилима."
 
 #. Key:	Variant
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:80
@@ -8075,7 +8075,7 @@ msgstr "Вариант"
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:81
 msgctxt "CharacterDetails,VariantTooltip"
 msgid "The morphology within this one's race."
-msgstr "{Морфология внутри расы субъекта.}"
+msgstr "Вид, к которому принадлежит этот персонаж"
 
 #. Key:	Willpower
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:156
@@ -8089,7 +8089,7 @@ msgstr "Сила воли"
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:157
 msgctxt "CharacterDetails,WillpowerTooltip"
 msgid "Willpower measures the ability of this one to control their lust."
-msgstr "Воля показывает способность субъекта контролировать свою похоть."
+msgstr "Воля показывает способность персонажа контролировать свою похоть."
 
 #. Key:	XP
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:50
@@ -8117,7 +8117,7 @@ msgstr "Дополнительные материалы"
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:487
 msgctxt "CharacterEditor,AmbientEffects"
 msgid "Ambient Effects"
-msgstr "{Внешние эффекты}"
+msgstr "Эффекты освещения"
 
 #. Key:	AnusMaterial
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:419
@@ -8131,7 +8131,7 @@ msgstr "Анус"
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:73
 msgctxt "CharacterEditor,BackButton"
 msgid "Back"
-msgstr "Спина"
+msgstr "Назад"
 
 #. Key:	BackButtonTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:74
@@ -8159,7 +8159,7 @@ msgstr "Дополнения"
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:449
 msgctxt "CharacterEditor,BodyAttachmentsMaterial"
 msgid "Body Attachments"
-msgstr "Дополения фигуры"
+msgstr "Дополения тела"
 
 #. Key:	BodyMaterial
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:424
@@ -8194,14 +8194,14 @@ msgstr "Грудь"
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:497
 msgctxt "CharacterEditor,BreedingTags"
 msgid "Breeding Tags"
-msgstr "{Селекционные Метки}"
+msgstr "Селекционные Метки"
 
 #. Key:	ButtShape
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:376
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:376
 msgctxt "CharacterEditor,ButtShape"
 msgid "Butt"
-msgstr "Задница"
+msgstr "Ягодицы"
 
 #. Key:	CancelButton
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:535
@@ -8348,14 +8348,14 @@ msgstr "Покинуть"
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:99
 msgctxt "CharacterEditor,LeaveButtonTooltip"
 msgid "Stop editing your spirit form."
-msgstr "Прекратить редактирование текущей духовной формы."
+msgstr "Прекратить редактирование духовной формы."
 
 #. Key:	LoadUsrPresetTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:128
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:128
 msgctxt "CharacterEditor,LoadUsrPresetTooltip"
 msgid "Load a saved preset.\nWARNING: This will overwrite the current appearance."
-msgstr "Загрузить сохранённые настройки. \nВНИМАНИЕ: Это сбросит текущие настройки."
+msgstr "Загрузить сохраненный шаблон. \nВНИМАНИЕ: Это сбросит текущие настройки."
 
 #. Key:	LowerBodyShape
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:366
@@ -8411,7 +8411,7 @@ msgstr "Соски"
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:223
 msgctxt "CharacterEditor,PasteTooltip"
 msgid "Paste from clipboard.\nWARNING: This will overwrite the current appearance, and might look terrible on different variants."
-msgstr "Вставить из буфера обмена. \nВНИМАНИЕ: Это сбросит текущие настройки, {а так же может может смотреться неуместно на разный вариантах.}"
+msgstr "Вставить из буфера обмена. \nВНИМАНИЕ: Это сбросит текущие настройки, а так же может может смотреться неуместно на разный вариантах."
 
 #. Key:	PresetNameTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:505
@@ -8446,7 +8446,7 @@ msgstr "Сохранить"
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:196
 msgctxt "CharacterEditor,SavePresetTooltip"
 msgid "Save current appearance as a preset."
-msgstr "Сохранить текухие настройки в строку быстрого доступа."
+msgstr "Сохранить текущие настройки как шаблон."
 
 #. Key:	SaveSpiritTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:118
@@ -8460,7 +8460,7 @@ msgstr "Сохранить настройки духовной формы."
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:336
 msgctxt "CharacterEditor,ShapeWindowTitle"
 msgid "Shape"
-msgstr "{Фигура}"
+msgstr "Фигура"
 
 #. Key:	SkinMaterial
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:389
@@ -8474,7 +8474,7 @@ msgstr "Кожа"
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:278
 msgctxt "CharacterEditor,ToggleClothesTooltip"
 msgid "Toggle all clothing except underwear."
-msgstr "Переключить всю одежду кроме исподнего."
+msgstr "Переключить всю одежду кроме нижнего белья."
 
 #. Key:	ToggleLinkedMode
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:165
@@ -8488,14 +8488,14 @@ msgstr "{Переключить связи похожих или парных з
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:285
 msgctxt "CharacterEditor,ToggleUnderwearTooltip"
 msgid "Toggle only underwear."
-msgstr "Переключить только исподнее."
+msgstr "Переключить только нижнее белье."
 
 #. Key:	UnderwearGroup
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:464
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:464
 msgctxt "CharacterEditor,UnderwearGroup"
 msgid "Underwear"
-msgstr "Исподнее"
+msgstr "Нижнее белье"
 
 #. Key:	UpperBodyShape
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:351
@@ -8523,14 +8523,14 @@ msgstr "Изменить вариант персонажа. \nВНИМАНИЕ: 
 #: Source/Radiant/Public/Characters/SexyCharacterSystem.cpp:2436
 msgctxt "CharacterSystem,ErrorSavingPreset"
 msgid "Error while trying to save preset."
-msgstr "Ошибка при сохранении настроек в строку быстрого доступа."
+msgstr "Ошибка при попытке сохранения шаблона"
 
 #. Key:	SavedPreset
 #. SourceLocation:	Source/Radiant/Public/Characters/SexyCharacterSystem.cpp:2433
 #: Source/Radiant/Public/Characters/SexyCharacterSystem.cpp:2433
 msgctxt "CharacterSystem,SavedPreset"
 msgid "Successfully saved preset."
-msgstr "Текущие настройки сохранены в строку быстрого доступа."
+msgstr "Шаблон успешно сохранен"
 
 #. Key:	DecrementTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyComponentModifier.cpp:31
@@ -8579,7 +8579,7 @@ msgstr "Выйти на рабочий стол?"
 #: Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:107
 msgctxt "ConfirmationBox,FulfillConfirm"
 msgid "The selected Nephelym will be given away."
-msgstr "Выбранный нефелим будет {отдан/отправлен/возвышен (предполагаю что имеется ввиду что нефилим продаётся эмиссару)}"
+msgstr "Выбранный нефелим будет отдан"
 
 #. Key:	FulfillConfirmTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:106
@@ -8593,7 +8593,7 @@ msgstr "Выполнить запрос?"
 #: Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:83
 msgctxt "ConfirmationBox,NewGameConfirm"
 msgid "Begin a new adventure with a clean slate."
-msgstr "{Начать новое приключение с чистого листа.}"
+msgstr "Начните новое приключение с чистого листа."
 
 #. Key:	NewGameConfirmTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:82
@@ -8607,7 +8607,7 @@ msgstr "Начать новую игру?"
 #: Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:87
 msgctxt "ConfirmationBox,OverwriteGameConfirm"
 msgid "This will permanently overwrite the data in this slot."
-msgstr "Это перманентно перезапишет данные данного слота."
+msgstr "Это навсегда перезапишет данные данного слота."
 
 #. Key:	OverwriteGameConfirmTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:86
@@ -8677,7 +8677,7 @@ msgstr "Ванная удалит характеристику \"Грязный\
 #: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:890
 msgctxt "ConfirmTradeBox,BuyUpgradeMessage"
 msgid "This upgrade will permanently be added to your ranch."
-msgstr "{Данное обновление пермаментно добавится к вашему ранчо.}"
+msgstr "Данное улучшение навсегда добавится к вашему ранчо."
 
 #. Key:	CancelButton
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:454
@@ -8705,7 +8705,7 @@ msgstr "Итоговая цена:"
 #: Source/Radiant/Public/UI/Menus/SexyDialogueMenu.cpp:62
 msgctxt "DialogueMenu,LeaveButton"
 msgid "Goodbye"
-msgstr "Прощайте"
+msgstr "Пока"
 
 #. Key:	SkipButton
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyDialogueMenu.cpp:55
@@ -8929,14 +8929,14 @@ msgstr "Ловкость изменяется на указанную велич
 #: Source/Radiant/Public/UI/Components/SexyItemDetails.cpp:70
 msgctxt "ItemDetails,Fertility"
 msgid "Fertility"
-msgstr "Фертильность"
+msgstr "Плодовитость"
 
 #. Key:	FertilityTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyItemDetails.cpp:71
 #: Source/Radiant/Public/UI/Components/SexyItemDetails.cpp:71
 msgctxt "ItemDetails,FertilityTooltip"
 msgid "Fertility will change by this modifier when this item is used."
-msgstr "Фертильность изменяется на указанную величину при использовании данного предмета."
+msgstr "Плодовитость изменяется на указанную величину при использовании данного предмета."
 
 #. Key:	Level
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyItemDetails.cpp:49
@@ -9013,7 +9013,7 @@ msgstr "Цена"
 #: Source/Radiant/Public/UI/Components/SexyItemDetails.cpp:99
 msgctxt "ItemDetails,ValueTooltip"
 msgid "Value will change by this modifier when this item is used."
-msgstr "Значение будет изменяться этим модификатором при использовании данного {предмета}."
+msgstr "Значение будет изменяться этим модификатором при использовании данного предмета."
 
 #. Key:	Willpower
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyItemDetails.cpp:84
@@ -9139,14 +9139,14 @@ msgstr "Скольжение"
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:189
 msgctxt "Keybinds,SpiritForm"
 msgid "Spirit Form"
-msgstr "Духовная форма"
+msgstr "Форма Духа"
 
 #. Key:	Sprint
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:150
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:150
 msgctxt "Keybinds,Sprint"
 msgid "Sprint"
-msgstr "Дух"
+msgstr "Бег"
 
 #. Key:	ToggleBoots
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:212
@@ -9167,7 +9167,7 @@ msgstr "Переключить одежду"
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:206
 msgctxt "Keybinds,TogglePants"
 msgid "Toggle Pants"
-msgstr "Переключить трусы"
+msgstr "Переключить штаны"
 
 #. Key:	ToggleShirt
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:203
@@ -9181,7 +9181,7 @@ msgstr "Переключить рубаху"
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:209
 msgctxt "Keybinds,ToggleUnderwear"
 msgid "Toggle Underwear"
-msgstr "Переключить исподнее"
+msgstr "Переключить нижнее белье"
 
 #. Key:	Turn
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:157
@@ -9195,7 +9195,7 @@ msgstr "Повернуть камеру"
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:193
 msgctxt "Keybinds,UtilityMenu"
 msgid "Toggle Utility Menu"
-msgstr "{Toggle Utility Menu}"
+msgstr "Меню персонажа"
 
 #. Key:	Walk
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:153
@@ -9244,7 +9244,7 @@ msgstr "Загрузка"
 #: Source/Radiant/Public/UI/Menus/SexyMainMenu.cpp:91
 msgctxt "MainMenu,Message"
 msgid "This game is built and maintained by one guy: DerelictHelmsman.\nNo censorship nor DRM will ever be implemented; respect this if you enjoy the game.\nSpecial thanks to all of my patrons, your support is sincerely appreciated."
-msgstr "Эта игра создана и издана одним парнем: DerelictHelmsman. \nНикакой цензуры или ДРМ не планируется; скажите спасибо если вам нравится игра. \nВыражаю особую благодарность всем моим патронам, я искренне благодарен за вашу поддержку."
+msgstr "Эта игра создана и издана одним человеком: DerelictHelmsman. \nНикакой цензуры или ДРМ не планируется; скажите спасибо если вам нравится игра. \nВыражаю особую благодарность всем моим патронам, я искренне благодарен за вашу поддержку."
 
 #. Key:	NewGameButton
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyMainMenu.cpp:36
@@ -9258,7 +9258,7 @@ msgstr "Новая игра"
 #: Source/Radiant/Public/UI/Menus/SexyMainMenu.cpp:50
 msgctxt "MainMenu,SettingsButton"
 msgid "Settings"
-msgstr "Настроки"
+msgstr "Настройки"
 
 #. Key:	ActionButton
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyMonsterMenu.cpp:51
@@ -9314,14 +9314,14 @@ msgstr "Выполнить указанное действие без проиг
 #: Source/Radiant/Public/UI/Components/SexyMateSizeChart.cpp:33
 msgctxt "MateSizeChart,Giver"
 msgid "Giver"
-msgstr "{Дающий}"
+msgstr "Дающий"
 
 #. Key:	Receiver
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyMateSizeChart.cpp:22
 #: Source/Radiant/Public/UI/Components/SexyMateSizeChart.cpp:22
 msgctxt "MateSizeChart,Receiver"
 msgid "Receiver"
-msgstr "{Принимающий}"
+msgstr "Принимающий"
 
 #. Key:	MerchantNoRoomMilk
 #. SourceLocation:	Source/Radiant/Public/Economy/SexyMerchantSystem.cpp:271
@@ -9356,7 +9356,7 @@ msgstr "Вы не можете взять ещё больше семени да�
 #: Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:317
 msgctxt "MonsterSystem,NewOffspringMessage"
 msgid "New offspring were produced, check your barns."
-msgstr "Новый приплод был произведён, проверте ваши загоны."
+msgstr "Новый отпрыск был произведён, проверте ваши загоны."
 
 #. Key:	AcceptButtonTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyOffspringMenu.cpp:41
@@ -9370,7 +9370,7 @@ msgstr "Подтвердить"
 #: Source/Radiant/Public/UI/Menus/SexyOffspringMenu.cpp:42
 msgctxt "Offspring,AcceptButtonTitleTooltip"
 msgid "Keep this offspring and add it to your ranch."
-msgstr "Оставить данный приплод на своём ранчо."
+msgstr "Оставить данного отпрыска на своём ранчо."
 
 #. Key:	ReceiverWindowTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyOffspringMenu.cpp:50
@@ -9391,7 +9391,7 @@ msgstr "Выпустить"
 #: Source/Radiant/Public/UI/Menus/SexyOffspringMenu.cpp:28
 msgctxt "Offspring,ReleaseButtonTooltip"
 msgid "Release this offspring into the wild."
-msgstr "Выпустить данный приплод на волю."
+msgstr "Выпустить данного отпрыска на волю."
 
 #. Key:	RenameButton
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyOffspringMenu.cpp:34
@@ -9405,7 +9405,7 @@ msgstr "Переименовать"
 #: Source/Radiant/Public/UI/Menus/SexyOffspringMenu.cpp:35
 msgctxt "Offspring,RenameButtonTooltip"
 msgid "Rename this offspring before adding it to your ranch."
-msgstr "Переименовать данный приплод и оставить на своём ранчо."
+msgstr "Переименовать данного отпрыска и оставить на своём ранчо."
 
 #. Key:	NullText
 #. SourceLocation:	Source/Radiant/Public/Data/SexyData.h:2390
@@ -9587,7 +9587,7 @@ msgstr "Только футанари"
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:100
 msgctxt "SettingsMenu,AllFutasHelp"
 msgid "With the exception of the breeders, all other characters are futas."
-msgstr "Все кроме заводчика становятся футанари."
+msgstr "Все, кроме заводчика, становятся футанари."
 
 #. Key:	AudioTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:84
@@ -9622,21 +9622,21 @@ msgstr "Автопропуск диалогов"
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:108
 msgctxt "SettingsMenu,AutoskipDialogueHelp"
 msgid "Automatically skip to the last line of dialogue."
-msgstr "{Автоматический пропуск диалогов до последнего предложения.}"
+msgstr "Автоматический пропуск диалогов до последнего предложения."
 
 #. Key:	BodyComposition
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:94
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:94
 msgctxt "SettingsMenu,BodyComposition"
 msgid "Body Composition"
-msgstr "Построение тела"
+msgstr "Динамическое построение тела"
 
 #. Key:	BodyCompositionHelp
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:94
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:94
 msgctxt "SettingsMenu,BodyCompositionHelp"
 msgid "Makes all wild Nephelym bodies random, and allows you to change them via items."
-msgstr "Делает тела всех нефилимов случайными и делает возможным изменять их с помощью предметов."
+msgstr "Тела нефилимов строятся случайным образом и их фигуру можно изменить с помощью предметов."
 
 #. Key:	CameraControls
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:180
@@ -9776,7 +9776,7 @@ msgstr "Женщины и футанари могут появится с чер
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:95
 msgctxt "SettingsMenu,Hybrid"
 msgid "Hybrids"
-msgstr "Гибриды"
+msgstr "Добавить Гибридов"
 
 #. Key:	HybridHelp
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:95
@@ -9790,7 +9790,7 @@ msgstr "Уникальные виды могут быть получены пр�
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:252
 msgctxt "SettingsMenu,KeyBinds"
 msgid "Action Bindings"
-msgstr "{Привязки действий}"
+msgstr "Назначение клавиш"
 
 #. Key:	LangMode
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:495
@@ -9818,14 +9818,14 @@ msgstr "Все мужчины футанари"
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:99
 msgctxt "SettingsMenu,MalesFutasHelp"
 msgid "With the exception of the male breeder, all male Nephelym will be replaced with futas."
-msgstr "За исключением мужчины заводчика, все мужские варианты нефилимов заменяются футанари."
+msgstr "За исключением мужчины заводчика, все мужские варианты нефилимов заменяются на футанари."
 
 #. Key:	MasterVolume
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:389
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:389
 msgctxt "SettingsMenu,MasterVolume"
 msgid "Master"
-msgstr "{Мастер}"
+msgstr "Общая громкость"
 
 #. Key:	MusicVolume
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:452
@@ -9860,7 +9860,7 @@ msgstr "Физика"
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:111
 msgctxt "SettingsMenu,PhysOption"
 msgid "Physics"
-msgstr "Физика"
+msgstr "Реалистичная физика"
 
 #. Key:	Pregnancy
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:101
@@ -9874,7 +9874,7 @@ msgstr "Беременность"
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:101
 msgctxt "SettingsMenu,PregnancyHelp"
 msgid "Female Nephelym will take 4 days to summon their offspring, and the belly will morph to reflect this.\nWARNING: Toggling this off during gameplay will cause existing pregnancies to be lost."
-msgstr "Женщинам нефилимам необходимо 4 дня для призыва приплода, так же их живот будет увеличиваться в соответствии с текущей стадией. \nВНИМАНИЕ: Преключение данной настройки в течение игры сбросит все активные беременности."
+msgstr "Женщинам нефилимам необходимо 4 дня для призыва отпрыска, так же их живот будет увеличиваться в соответствии с текущей стадией. \nВНИМАНИЕ: Преключение данной настройки в течение игры сбросит все активные беременности."
 
 #. Key:	Quality
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:326
@@ -9888,7 +9888,7 @@ msgstr "Общее качество"
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:315
 msgctxt "SettingsMenu,RenderingFeatures"
 msgid "Rendering Features"
-msgstr "{Особенности рендеринга}"
+msgstr "Настройка рендеринга"
 
 #. Key:	Resolution
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:301
@@ -9909,7 +9909,7 @@ msgstr "Экран"
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:102
 msgctxt "SettingsMenu,SurpriseHelp"
 msgid "Allow consensual surprise sex."
-msgstr "Позволить случайный секс."
+msgstr "Разрешить случайный секс."
 
 #. Key:	SurpriseSex
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:102
@@ -9972,28 +9972,28 @@ msgstr "Вы выучите выбранную секс позу."
 #: Source/Radiant/Public/UI/Menus/SexyBreedingSetupMenu.cpp:121
 msgctxt "SSexyBreedingSetupMenu,CollapseGStats"
 msgid "Hide detailed stats for selected giver."
-msgstr "Спрятать детали выбранного {дающего}"
+msgstr "Спрятать подробности выбранного дающего"
 
 #. Key:	CollapseRStats
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSetupMenu.cpp:177
 #: Source/Radiant/Public/UI/Menus/SexyBreedingSetupMenu.cpp:177
 msgctxt "SSexyBreedingSetupMenu,CollapseRStats"
 msgid "Hide detailed stats for selected receiver."
-msgstr "Спрятать детали выбранного {принимающего}"
+msgstr "Спрятать подробности выбранного принимающего"
 
 #. Key:	ExpandGStats
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSetupMenu.cpp:100
 #: Source/Radiant/Public/UI/Menus/SexyBreedingSetupMenu.cpp:100
 msgctxt "SSexyBreedingSetupMenu,ExpandGStats"
 msgid "View detailed stats for selected giver."
-msgstr "Показать детали выбранного {дающего}"
+msgstr "Показать подробности выбранного дающего"
 
 #. Key:	ExpandRStats
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSetupMenu.cpp:156
 #: Source/Radiant/Public/UI/Menus/SexyBreedingSetupMenu.cpp:156
 msgctxt "SSexyBreedingSetupMenu,ExpandRStats"
 msgid "View detailed stats for selected receiver."
-msgstr "Показать детали выбранного {принимающего}"
+msgstr "Показать подробности выбранного принимающего"
 
 #. Key:	SpiritForm
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:239
@@ -10126,7 +10126,7 @@ msgstr "Выбрать пункт назначения"
 #: Source/Radiant/Public/UI/Components/SexyKeyBind.cpp:33
 msgctxt "SSexyKeyBind,BindButton"
 msgid "Bind"
-msgstr "{Связать/привязать/закрепить}"
+msgstr "Назначить"
 
 #. Key:	BindKey
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyKeyBind.cpp:56
@@ -10399,7 +10399,7 @@ msgstr "Диалоги"
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:160
 msgctxt "SSexySettingsMenu,EnterButton"
 msgid "Enter"
-msgstr "Энтер"
+msgstr "Ввод"
 
 #. Key:	FemG
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:841
@@ -10490,7 +10490,7 @@ msgstr "Проверьте запросы на разведение"
 #: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:247
 msgctxt "TradeMenu,BuyFunds"
 msgid "Her funds:"
-msgstr "{Её средвства:}"
+msgstr "Её деньги:"
 
 #. Key:	HarvestButton
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:143
@@ -10511,7 +10511,7 @@ msgstr "Предметы"
 #: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:102
 msgctxt "TradeMenu,SellFunds"
 msgid "Your funds:"
-msgstr "Ваши средства:"
+msgstr "Ваши деньги:"
 
 #. Key:	UpgradeDescription
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:315
@@ -10546,7 +10546,7 @@ msgstr "Активировать"
 #: Source/Radiant/Public/UI/SexyInterface.cpp:321
 msgctxt "WorldAction,BreedingSetupAction"
 msgid "Setup Breeding Session"
-msgstr "Настроить {заводческую сессию}"
+msgstr "Приступить к разведению"
 
 #. Key:	InteractAction
 #. SourceLocation:	Source/Radiant/Public/UI/SexyInterface.cpp:333
@@ -10575,4 +10575,3 @@ msgstr "Говорить"
 msgctxt "WorldAction,TraverseAction"
 msgid "Traverse Portal"
 msgstr "Пройти сквозь портал"
-

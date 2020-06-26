@@ -25,7 +25,7 @@ msgstr "Questa è la mia forma finale, è una sensazione incredibile. Ho anche u
 #: /Game/Ranch/Upgrades/BovaurShed.Default__BovaurShed_C.Upgrade.DisplayName
 msgctxt ",002DAFE7433D240D0A5822A932016D65"
 msgid "Bovaur Shed"
-msgstr ""
+msgstr "Recinto dei Bonivi"
 
 #. Key:	0061A5124B098F61DE991D81AB884112
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01_Meow.Default__CassieDefault01_Meow_C.SessionData.LinesToFemale(3).LinesToFemale
@@ -53,7 +53,7 @@ msgstr "Bene, non ti lascerò finché rimarrà una sola goccia da succhiare!"
 #: /Game/Ranch/Upgrades/HarpyAviary.Default__HarpyAviary_C.Upgrade.Description
 msgctxt ",017B23B341D5CE5BB9CC0293262CBD91"
 msgid "This allows you to catch and store all variants of Harpies."
-msgstr ""
+msgstr "Ti permetterà di catturare e conservare ogni variante delle Arpie"
 
 #. Key:	017CCB4443E3658AEA961E9EDC5B53BF
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFuta(4).LinesToFuta
@@ -382,7 +382,7 @@ msgstr "Gestisci i tuoi Titani"
 #: /Game/Breeding/Positions/Doggy.Default__Doggy_C.SessionData.PositionName
 msgctxt ",0DFBAC884A0E11B073E5269E92E6DC30"
 msgid "Doggy"
-msgstr ""
+msgstr "Pecorina"
 
 #. Key:	0E2A96C54ACC4571431587B73459221E
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(19 - Value).TraitIcons.DisplayName
@@ -690,7 +690,7 @@ msgstr ""
 #: /Game/Dialogue/Parvati/Default/ParvatiDefault01_RL.Default__ParvatiDefault01_RL_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",16049E004B001A3FEF8E25BEBE498398"
 msgid "So, you just meditate and rhyme all day?"
-msgstr ""
+msgstr "Quindi, mediti e fai rime per tutto il giorno?"
 
 #. Key:	16099E454C927A69887E23955E893635
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_HowToSpiritForm_RL_T.Default__LeylannaDefault01_HowToSpiritForm_RL_T_C.ResponseData(1).ResponseData.BreederPrompt
@@ -823,14 +823,14 @@ msgstr "Se vuoi imparare come catturare @MONSTER_RACE@, dirigiti nella città ch
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_RL.Default__FaleneDefault01_RL_C.ResponseData(8).ResponseData.BreederPrompt
 msgctxt ",1B9EA938413881EEDE041F85884A4BC3"
 msgid "How do I learn sex positions?"
-msgstr ""
+msgstr "Come posso apprendere le posizioni sessuali?"
 
 #. Key:	1BD44FF4429194137A0C4CAF227F2CA1
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_Teach.Default__ParvatiDefault01_Teach_C.SessionData.Lines(1).Lines
 #: /Game/Dialogue/Parvati/Default/ParvatiDefault01_Teach.Default__ParvatiDefault01_Teach_C.SessionData.Lines(1).Lines
 msgctxt ",1BD44FF4429194137A0C4CAF227F2CA1"
 msgid "Contemplate for moment while I apply some lube."
-msgstr ""
+msgstr "Contempla per un momento, mentre applico il lubrificante."
 
 #. Key:	1BE1CDD644277334F98620A99521B9DC
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_HowToSpiritForm_RL_F.Default__LeylannaDefault01_HowToSpiritForm_RL_F_C.ResponseData(1).ResponseData.BreederPrompt
@@ -900,7 +900,7 @@ msgstr "Le sirene sono tritoni unici, sentiamo frequenze che altri non possono."
 #: /Game/Dialogue/Parvati/Default/ParvatiDefault01_Teach.Default__ParvatiDefault01_Teach_C.SessionData.Lines(5).Lines
 msgctxt ",1E0C491A43E8C2F67FA568B20B5A6743"
 msgid "Pay close attention to my form, and learn you should."
-msgstr ""
+msgstr "Presta molta attenzione alla mia forma, ed imparare dovresti."
 
 #. Key:	1E23F2524EB7DC68DC07EC92E709C65F
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernGreeting03.Default__FernGreeting03_C.SessionData.LinesToFuta(4).LinesToFuta
@@ -970,7 +970,7 @@ msgstr "Cattura una Volpe femmina se non l'hai ancora farro, quindi torna da me.
 #: /Game/Dialogue/Neela/Default/NeelaDefault01_EnlightenedOne.Default__NeelaDefault01_EnlightenedOne_C.SessionData.Lines(5).Lines
 msgctxt ",201B358D4CE5E4D894910C97F98AA433"
 msgid "Keep this between us, but I think she is as old as the Great Conception itself."
-msgstr ""
+msgstr "Che rimanga tra noi, ma penso che sia vecchia quanto la Grande Concezione stessa."
 
 #. Key:	202CB97A40D83492E9EFE18430F24A11
 #. SourceLocation:	/Game/Ranch/Upgrades/VulwargKennel.Default__VulwargKennel_C.Upgrade.DisplayName
@@ -1005,7 +1005,7 @@ msgstr ""
 #: /Game/Ranch/Upgrades/StarfallenMonolith.Default__StarfallenMonolith_C.Upgrade.DisplayName
 msgctxt ",20FEDBA24B5C623E162B85A3D6ACF514"
 msgid "Starfallen Monolith"
-msgstr ""
+msgstr "Monolito dei Celesti"
 
 #. Key:	210B50F94F9FCF3416F33C880389C277
 #. SourceLocation:	/Game/Dialogue/Blossom/Default/BlossomDefault01_R01.Default__BlossomDefault01_R01_C.SessionData.Lines(1).Lines
@@ -1082,14 +1082,14 @@ msgstr "Gestisci i tuoi bovini"
 #: /Game/Ranch/Upgrades/MuttHut.Default__MuttHut_C.Upgrade.Description
 msgctxt ",2341F9304FDFA81B77486F840A0E749C"
 msgid "This allows you to breed and store all hybrids."
-msgstr ""
+msgstr "Questo ti permetterà di accoppiare e conservare tutti gli Ibridi."
 
 #. Key:	235E743740D1DB78A77472BFB5D5C1A8
 #. SourceLocation:	/Game/Ranch/Upgrades/SylvanTreehouse.Default__SylvanTreehouse_C.Upgrade.Description
 #: /Game/Ranch/Upgrades/SylvanTreehouse.Default__SylvanTreehouse_C.Upgrade.Description
 msgctxt ",235E743740D1DB78A77472BFB5D5C1A8"
 msgid "This allows you to catch and store all variants of Sylvan."
-msgstr ""
+msgstr "Questo ti permetterà di catturare e conservare ogni variante dei Silvani."
 
 #. Key:	236BBFF14A62BA287C86179E8ACDDCA9
 #. SourceLocation:	/Game/Dialogue/Fern/SexScenes/FernCum_01.Default__FernCum_01_C.SessionData.Lines(0).Lines
@@ -1117,7 +1117,7 @@ msgstr "Voglio provare l'esperienza della vagina di un Kraeken..."
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_Leylanna.Default__EmissaryDefault01_Leylanna_C.SessionData.Lines(5).Lines
 msgctxt ",23BDA20D4CE368D882C153A4AF960F3B"
 msgid "It makes her act... quite strange."
-msgstr ""
+msgstr "La fa comportare... Abbastanza stranamente."
 
 #. Key:	23E7B88A464A51712A11B1A07FE361A3
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernGreeting02.Default__FernGreeting02_C.SessionData.LinesToFemale(2).LinesToFemale
@@ -1257,7 +1257,7 @@ msgstr "Stecca di burro? Sei seria?"
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_SexPositions.Default__FaleneDefault01_SexPositions_C.SessionData.Lines(1).Lines
 msgctxt ",2AAA21F34762CDB90A4C749B986B1874"
 msgid "Of course I could go see for myself, but I am too lazy to climb the stairs!!!"
-msgstr ""
+msgstr "Ovviamente potrei andare a vedere io stessa, ma sono troppo pigra per salire le scale!"
 
 #. Key:	2ABC84814DE5DC3039A61BBA0723AF73
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(7 - Value).TraitIcons.HelpText
@@ -1292,7 +1292,7 @@ msgstr ""
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_SellMonsters.Default__EmissaryDefault01_SellMonsters_C.SessionData.Lines(0).Lines
 msgctxt ",2BA86FB140866995E4F323B86DA72C9A"
 msgid "The Goddess is pleased and will grant you Her favor."
-msgstr ""
+msgstr "La Dea è compiaciuta e ti garantirà il suo Favore."
 
 #. Key:	2BCA631C4BEC509E1B1DAC824001A31A
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_YourMusic_RL.Default__RomyDefault01_YourMusic_RL_C.ResponseData(1).ResponseData.BreederPrompt
@@ -1320,7 +1320,7 @@ msgstr "Fluidi corporei di drago."
 #: /Game/Ranch/Upgrades/FoxenHouse.Default__FoxenHouse_C.Upgrade.DisplayName
 msgctxt ",2C6E28494FB2D15A239584A77B01FA67"
 msgid "Foxen House"
-msgstr ""
+msgstr "Casa delle Volpi"
 
 #. Key:	2CCE0ADD406CF961196E5BAEDA387652
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_AboutMusic.Default__RomyDefault01_AboutMusic_C.SessionData.Lines(0).Lines
@@ -1390,7 +1390,7 @@ msgstr "WOw! Non ci posso credere!"
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_GreatConception.Default__EmissaryDefault01_GreatConception_C.SessionData.Lines(4).Lines
 msgctxt ",2E8D7983446334A29BB4E0BCEFBBC092"
 msgid "Soon She realized something was missing, for the light had no meaning in the universe."
-msgstr ""
+msgstr Presto Lei realizzò che mancava qualcosa, poiché la luce non aveva senso nell'universo.""
 
 #. Key:	2E926B8847D675F1C4CAAFAC2732930B
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01_R04.Default__FernDefault01_R04_C.SessionData.Lines(1).Lines
@@ -1691,7 +1691,7 @@ msgstr "*Suck* *Suck*"
 #: /Game/Dialogue/Parvati/Default/ParvatiGreeting01.Default__ParvatiGreeting01_C.SessionData.LinesToFemale(0).LinesToFemale
 msgctxt ",396D6F1D4A5CDF3A44406A84BB8CE6D9"
 msgid "A human filled with lust comes before me, this I know."
-msgstr ""
+msgstr "Un umano pieno di lussuria viene prima di me, questo so."
 
 #. Key:	39BB76F04901D85036C696B74CA537B3
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeDefault01_Accent.Default__AmberMaeDefault01_Accent_C.SessionData.Lines(2).Lines
@@ -1761,7 +1761,7 @@ msgstr "Il mio corpo è pieno di nettare in attesa di avvolgere il tuo corpo men
 #: /Game/Dialogue/Parvati/Default/ParvatiDefault01_FloatRhyme.Default__ParvatiDefault01_FloatRhyme_C.SessionData.Lines(6).Lines
 msgctxt ",3B686C7E477142920CF64F8119EC7E6F"
 msgid "Give into your desires, it will not render you weak."
-msgstr ""
+msgstr "Cedi ai tuoi desideri, non ti renderanno debole."
 
 #. Key:	3B6C0A634B200C954436A296F4A9EFEE
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_HowToSpiritForm.Default__LeylannaDefault01_HowToSpiritForm_C.SessionData.LinesToMale(2).LinesToMale
@@ -2132,7 +2132,7 @@ msgstr "Sterile"
 #: /Game/Dialogue/Parvati/Default/ParvatiDefault01_Forgot_RL.Default__ParvatiDefault01_Forgot_RL_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",47E16E8D474D1F2D115C12A6DEB45E2B"
 msgid "Oh wait I haven't learned anything yet!!!!!"
-msgstr ""
+msgstr "Aspetta, non hoancora imparato nulla!!!!!"
 
 #. Key:	47FF727144E602154C40FFB1396CB921
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_RL.Default__FaleneDefault01_RL_C.ResponseData(5).ResponseData.BreederPrompt
@@ -2447,7 +2447,7 @@ msgstr "Abominio: Costui è prodotto di incesto."
 #: /Game/Ranch/Upgrades/BovaurShed.Default__BovaurShed_C.Upgrade.Description
 msgctxt ",51B5762D4545FEE2F7E8D895B66B031B"
 msgid "This allows you to catch and store all variants of Bovaur."
-msgstr ""
+msgstr "Questo ti permetterà di catturare e conservare ogni variante di Bovini."
 
 #. Key:	51CEBDA94681ACB09279C2A598681796
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_YourMusic_ToneDeaf.Default__RomyDefault01_YourMusic_ToneDeaf_C.SessionData.Lines(1).Lines
@@ -2692,7 +2692,7 @@ msgstr "*Slurp* *Lick*"
 #: /Game/Dialogue/Parvati/Default/ParvatiDefault01_RL.Default__ParvatiDefault01_RL_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",5AA0883E43DAD4AAE0EF269EA3233B0A"
 msgid "Teach me a new sex position!"
-msgstr ""
+msgstr "Insegnami una nuova posizione sessuale!"
 
 #. Key:	5AA8E62541EFA61D3ED30CAD3E1D0946
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_GreatConception.Default__EmissaryDefault01_GreatConception_C.SessionData.Lines(6).Lines
@@ -2776,7 +2776,7 @@ msgstr ""
 #: /Game/Dialogue/Parvati/Default/ParvatiGreeting01.Default__ParvatiGreeting01_C.SessionData.LinesToFuta(7).LinesToFuta
 msgctxt ",5E27E8A74A30D389BBB939B5142249BB"
 msgid "I greatly desire to experience your fat cock."
-msgstr ""
+msgstr "Desidero fortemente di provare il tuo grosso cazzo."
 
 #. Key:	5E335B804845931D253C9186CD06C403
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(8).LinesToFemale
@@ -2811,7 +2811,7 @@ msgstr "Taglia Enorme"
 #: /Game/Dialogue/Parvati/Default/ParvatiDefault01.Default__ParvatiDefault01_C.SessionData.Lines(2).Lines
 msgctxt ",5F895A6648E5FFD934EC86AD63AB82BC"
 msgid "We can learn the origins of the universe."
-msgstr ""
+msgstr "Possiamo apprendere le origini dell'universo."
 
 #. Key:	5F9984824BEBBCD016F7B7BF5D1C25E3
 #. SourceLocation:	/Game/Dialogue/Falene/SexScenes/FaleneBlowJob.Default__FaleneBlowJob_C.SessionData.LinesToFemale(1).LinesToFemale
@@ -2860,7 +2860,7 @@ msgstr "Alcuni ti amano così profondamente da esser disposti a legarsi al tuo c
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_RL.Default__EmissaryDefault01_RL_C.ResponseData(5).ResponseData.BreederPrompt
 msgctxt ",61341EBA4A04883698FF08BF81A229FB"
 msgid "What is the Great Conception?"
-msgstr ""
+msgstr "Cos'é la Grande Concezione?"
 
 #. Key:	61DD0F8342D2EFAE9232248215EADFB4
 #. SourceLocation:	/Game/Ranch/Upgrades/NekoCondo.Default__NekoCondo_C.Upgrade.Description
@@ -3035,7 +3035,7 @@ msgstr "Sporco"
 #: /Game/Dialogue/Parvati/Default/ParvatiGreeting01.Default__ParvatiGreeting01_C.SessionData.LinesToFemale(5).LinesToFemale
 msgctxt ",664C0BE948989DEEE1185793CB1EEE77"
 msgid "My teachings are not for those who desire to keep their virginity."
-msgstr ""
+msgstr "I miei insegnamenti non sono per coloro che desiderano mantenere la verginità."
 
 #. Key:	6658580C407404A28C6BD1875A2920D2
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01_RL_T.Default__FernDefault01_RL_T_C.ResponseData(1).ResponseData.BreederPrompt
@@ -3448,7 +3448,7 @@ msgstr "Non è bellissima?"
 #: /Game/Dialogue/Parvati/Default/ParvatiDefault01_Forgot.Default__ParvatiDefault01_Forgot_C.SessionData.Lines(6).Lines
 msgctxt ",72570AA14FB2D285DAAB6584C841B08C"
 msgid "Which position shall we review?"
-msgstr ""
+msgstr "Quale posizione dovremmo rivedere?"
 
 #. Key:	72676A264244C7A242C2688B7B60F6A5
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01.Default__MirruDefault01_C.SessionData.Lines(1).Lines
@@ -3490,7 +3490,7 @@ msgstr "Picco Culminante"
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_GreatConception.Default__EmissaryDefault01_GreatConception_C.SessionData.Lines(0).Lines
 msgctxt ",73B062844EF9F666A3FC88A79A97D47A"
 msgid "The Goddess in Her infinite wisdom became filled with desire after eons of loneliness."
-msgstr ""
+msgstr "La Dea nella Sua infinita conoscienza divenne piena di desiderio dopo eoni di solitudine."
 
 #. Key:	73B3AE3C43F892A09044CD8CAABBE3B3
 #. SourceLocation:	/Game/Dialogue/Falene/SexScenes/FaleneBlowJob.Default__FaleneBlowJob_C.SessionData.LinesToFuta(2).LinesToFuta
@@ -3511,7 +3511,7 @@ msgstr "Oh, Padrone, mi hai nutrito bene."
 #: /Game/Dialogue/Leylanna/Default/LeylannaDefault01_RL.Default__LeylannaDefault01_RL_C.ResponseData(5).ResponseData.BreederPrompt
 msgctxt ",73C9D0AC49FFC3AEB6CFA59DB5E4FB92"
 msgid "That blue smoke smells... nice..."
-msgstr ""
+msgstr "Quel fumo blu odora... Di buono..."
 
 #. Key:	73F68F1D4C449AE1E1ECBCB61358B27E
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R02.Default__CamillaDefault01_R02_C.SessionData.Lines(2).Lines
@@ -3679,7 +3679,7 @@ msgstr "Sono stata un guardiano del Vuoto per tanti anni prima di abbandonare le
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_Pregnancy.Default__FaleneDefault01_Pregnancy_C.SessionData.Lines(4).Lines
 msgctxt ",7921ED37459363625C14BEAA60B51F49"
 msgid "Isn't that just fantastic and adorable?!!!"
-msgstr ""
+msgstr "Non è semplicemente fantastico ed adorabile?!!!"
 
 #. Key:	7A37639548189268575986A48C480863
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_TheVoid.Default__NeelaDefault01_TheVoid_C.SessionData.Lines(2).Lines
@@ -3700,7 +3700,7 @@ msgstr "Il mio nome è Mirru."
 #: /Game/Dialogue/Parvati/Default/ParvatiDefault01_Teach.Default__ParvatiDefault01_Teach_C.SessionData.LinesToFuta(1).LinesToFuta
 msgctxt ",7A6479A946793FED41931F8AF7F6B4DE"
 msgid "Relax while I slather your dick with lube."
-msgstr ""
+msgstr "Rilassati mentre spalmo il tuo cazzo col lubrificante."
 
 #. Key:	7AE87BF645B6A4B1D35071A966CCF13E
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_RL.Default__EmissaryDefault01_RL_C.ResponseData(1).ResponseData.BreederPrompt
@@ -3826,7 +3826,7 @@ msgstr "Il tuo culo è così bello, ohhhh... lascia che ci infili la faccia!"
 #: /Game/Dialogue/Parvati/Default/ParvatiDefault01_FloatRhyme.Default__ParvatiDefault01_FloatRhyme_C.SessionData.Lines(5).Lines
 msgctxt ",803D82954112367C37478B894372AB5A"
 msgid "Beautiful sex positions that break all norms."
-msgstr ""
+msgstr "Bellissime posizioni sessuali che rompono ogni norma."
 
 #. Key:	8044648D4BB5A708D0C1658B377C01A4
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01.Default__RomyDefault01_C.SessionData.Lines(0).Lines
@@ -3952,7 +3952,7 @@ msgstr "Sfortunatamente, può essere utilizzato solo per viaggiare."
 #: /Game/Dialogue/Parvati/Default/ParvatiGreeting01.Default__ParvatiGreeting01_C.SessionData.LinesToFemale(4).LinesToFemale
 msgctxt ",84E329854997BD3064CA67922BD88726"
 msgid "One with the Goddess, one with infinity."
-msgstr ""
+msgstr "Tutt'uno con la Dea, tutt'uno con l'universo."
 
 #. Key:	84ECDF64481524BC47B862968D5475BE
 #. SourceLocation:	/Game/Dialogue/Falene/SexScenes/FaleneBlowJob.Default__FaleneBlowJob_C.SessionData.LinesToMale(7).LinesToMale

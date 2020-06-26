@@ -1,13 +1,13 @@
-﻿# japanese Japanese (Japan) translation.
+# japanese Japanese (Japan) translation.
 # Copyright Epic Games, Inc. All Rights Reserved.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: japanese\n"
 "POT-Creation-Date: 2020-05-13 22:38\n"
-"PO-Revision-Date: 2020-05-13 22:38\n"
+"PO-Revision-Date: 2020-05-22 00:04+0900\n"
 "Language-Team: \n"
-"Language: ja-JP\n"
+"Language: ja_JP\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -186,7 +186,7 @@ msgstr "遠慮なく言えばいいじゃん、アンタの野性の @MONSTER_RA
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_R07.Default__CamillaDefault01_R07_C.SessionData.LinesToFemale(0).LinesToFemale
 msgctxt ",0522652344116C917836F4A1A78C8815"
 msgid "Don't waste your beautiful tall body on me human. Just wait for Falene to come back, or go suck on Amber's tits."
-msgstr "アナタの背が高くて美しい身体をワタシでムダにしないでください。ファリーンが戻ってくるまで待つか、アンバーのデカパイをしゃぶってきたらいかがですか。"
+msgstr "アナタの背が高く美しい身体をワタシでムダにしないでください。ファリーンが戻ってくるまで待つか、アンバーのデカパイをしゃぶってきたらいかがですか。"
 
 #. Key:	052657834F6DBDBBC49BDAADA6E5E88A
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_RL.Default__NeelaDefault01_RL_C.ResponseData(2).ResponseData.BreederPrompt
@@ -760,7 +760,7 @@ msgstr "高価: 価値が 35% 上昇する。"
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_BodySexToy.Default__MirruDefault01_BodySexToy_C.SessionData.LinesToFuta(2).LinesToFuta
 msgctxt ",193F948E4333F3741026EABB87402DD3"
 msgid "A chance to mate with a human is making my hearts pound, and my tentacles slick..."
-msgstr "人間とまぐわう機会と来れば、我が心臓はどれも高鳴り、我が触手はぬめり出す……"
+msgstr "人間とまぐわう機会と来れば、我が心臓はいずれも高鳴り、我が触手はぬめり出す……"
 
 #. Key:	19A2E9D044587CE3E0AC5B8D366B6974
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeDefault01.Default__AmberMaeDefault01_C.SessionData.Lines(0).Lines
@@ -1446,7 +1446,7 @@ msgstr "彼らを責めることはできないと思うわ！"
 #: /Game/Breeding/Positions/LapDance.Default__LapDance_C.SessionData.Description
 msgctxt ",3075ABF441EF5686A57E81971B67D55E"
 msgid "The receiver bounces on the giver's lap while getting nice and close with her breasts."
-msgstr "受け手が攻め手の膝の上に跨がり、上下に動く。受け手の乳房と非常に近くなる。"
+msgstr "受け手が攻め手の膝の上に跨がり、上下に動く。女性の乳房が非常に近い位置に来る。"
 
 #. Key:	30B0262C40D2D8527E2C8EA23D4D4B6D
 #. SourceLocation:	/Game/Dialogue/Emissary/SexScenes/EmissaryAngelGroinLove.Default__EmissaryAngelGroinLove_C.SessionData.LinesToMale(1).LinesToMale
@@ -2608,7 +2608,7 @@ msgstr "女神はデーモンの被造物たちを憐れみ、愛を持って彼
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_Daze.Default__EmissaryDefault01_Daze_C.SessionData.Lines(2).Lines
 msgctxt ",566D4E2B458FC3277E49CB91D5CAB649"
 msgid "Then, the dark reaper of the daze will bring back to that body your awareness."
-msgstr ""
+msgstr "そうなった場合には、虚脱の暗き死霊が、その身体にあなたの意識を呼び戻すのです。"
 
 #. Key:	567F4EF7487947546DDFE3B0195DFDEB
 #. SourceLocation:	/Game/Dialogue/Neela/SexScenes/NeelaSnakeCuddleF.Default__NeelaSnakeCuddleF_C.SessionData.Lines(0).Lines
@@ -2727,7 +2727,7 @@ msgstr "なんでふたなりにタマがないの？"
 #: /Game/Dialogue/Reaper/Default/ReaperDefault01_RL.Default__ReaperDefault01_RL_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",5BCD2C4F491787616684ECAD40FE34C6"
 msgid "Hello?"
-msgstr ""
+msgstr "もしもし？"
 
 #. Key:	5C17953A4E43CD3EE715BC8BE3D80889
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R02.Default__CamillaDefault01_R02_C.SessionData.Lines(8).Lines
@@ -2762,7 +2762,7 @@ msgstr "@MONSTER_RACE@ の起源はとても古くて解明されていない、
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_Daze.Default__EmissaryDefault01_Daze_C.SessionData.Lines(0).Lines
 msgctxt ",5D1189D248873A7E95BA20AA8EADCF1C"
 msgid "When the Goddess saw that Her creations indulged heavily in the pleasures of breeding that they neglected life, She devised a solution."
-msgstr ""
+msgstr "女神は、自らの被造物が交配の快楽にひどく溺れ、命をないがしろにするのを目にされると、これを正そうと図られました。"
 
 #. Key:	5D244F6542342816F374B582D37B9B98
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_GreatConception.Default__EmissaryDefault01_GreatConception_C.SessionData.Lines(18).Lines
@@ -3490,7 +3490,7 @@ msgstr "絶頂峰"
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_GreatConception.Default__EmissaryDefault01_GreatConception_C.SessionData.Lines(0).Lines
 msgctxt ",73B062844EF9F666A3FC88A79A97D47A"
 msgid "The Goddess in Her infinite wisdom became filled with desire after eons of loneliness."
-msgstr ""
+msgstr "計り知れぬ叡智を宿した女神は、永劫の孤独のなかで欲望を強く抱くようになられました。"
 
 #. Key:	73B3AE3C43F892A09044CD8CAABBE3B3
 #. SourceLocation:	/Game/Dialogue/Falene/SexScenes/FaleneBlowJob.Default__FaleneBlowJob_C.SessionData.LinesToFuta(2).LinesToFuta
@@ -3679,7 +3679,7 @@ msgstr "私は数え切れないほどの歳月を虚空の管理者として過
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_Pregnancy.Default__FaleneDefault01_Pregnancy_C.SessionData.Lines(4).Lines
 msgctxt ",7921ED37459363625C14BEAA60B51F49"
 msgid "Isn't that just fantastic and adorable?!!!"
-msgstr "それって、ちょっと幻想的で愛おしいことじゃない？！！！"
+msgstr "それって、とっても幻想的で愛おしいことじゃない？！！！"
 
 #. Key:	7A37639548189268575986A48C480863
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_TheVoid.Default__NeelaDefault01_TheVoid_C.SessionData.Lines(2).Lines
@@ -4190,7 +4190,7 @@ msgstr "私の音楽を感じることを望むのですね、分かっていま
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_BodySexToy.Default__MirruDefault01_BodySexToy_C.SessionData.LinesToFemale(2).LinesToFemale
 msgctxt ",89AD310E47680E241C7AEEB5C24A9E59"
 msgid "A chance to mate with a human is making my hearts pound, and my tentacles slick..."
-msgstr "人間とまぐわう機会と来れば、我が心臓はどれも高鳴り、我が触手はぬめり出す……"
+msgstr "人間とまぐわう機会と来れば、我が心臓はいずれも高鳴り、我が触手はぬめり出す……"
 
 #. Key:	89C2CF4D4CB264FC19F1259B533341FD
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_HowToSpiritForm.Default__LeylannaDefault01_HowToSpiritForm_C.SessionData.LinesToFemale(1).LinesToFemale
@@ -4232,7 +4232,7 @@ msgstr "ワタシのやわらかエルフ・リップ、気持ちいい？ そ�
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_Daze.Default__EmissaryDefault01_Daze_C.SessionData.Lines(3).Lines
 msgctxt ",8A7AA1664D50A6AD3F66CE8B9B57C01F"
 msgid "But beware, a toll will she require."
-msgstr ""
+msgstr "ですが、お気を付けを。対価を死霊は求めるでしょう。"
 
 #. Key:	8AF6FC6641A12C2B4A5B90B25313D5E2
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernDefault03.Default__FernDefault03_C.SessionData.LinesToFemale(0).LinesToFemale
@@ -4246,7 +4246,7 @@ msgstr "わたしは今や、成熟したアルラウネです！"
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_Daze.Default__EmissaryDefault01_Daze_C.SessionData.Lines(1).Lines
 msgctxt ",8B1379924334951ADC6F618BF40ECB55"
 msgid "Once the body is pushed beyond capacity, it will lose conciousness and for an undetermined time, thou shall not perceive the world."
-msgstr ""
+msgstr "汝の肉体ひとたびその限度を超えれば、気を失わん。そしてその時来たるまで、汝は世界を見聞き知ることなかれ。"
 
 #. Key:	8B26942A46ED0C778AE5E1BC7C39336A
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(11 - Value).TraitIcons.HelpText
@@ -4323,7 +4323,7 @@ msgstr "ひとたびセラフィムが繁殖を始めると、女神はセラフ
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_BodySexToy.Default__MirruDefault01_BodySexToy_C.SessionData.LinesToMale(2).LinesToMale
 msgctxt ",8CD67FB74B2E43F406AB5B932B717B19"
 msgid "A chance to mate with a human is making my hearts pound, and my tentacles slick..."
-msgstr "人間とまぐわう機会と来れば、我が心臓はどれも高鳴り、我が触手はぬめり出す……"
+msgstr "人間とまぐわう機会と来れば、我が心臓はいずれも高鳴り、我が触手はぬめり出す……"
 
 #. Key:	8D055D5140B28DADFD055EA100CF2F32
 #. SourceLocation:	/Game/Characters/Procedural/Variants/Vulwarg/Harvest/VulwargHarvest.Default__VulwargHarvest_C.Harvest.Description
@@ -4806,7 +4806,7 @@ msgstr "ううううう、ごしゅずん！ とうとう、ファーンえき�
 #: /Game/Dialogue/Parvati/Default/ParvatiDefault01_Forgot.Default__ParvatiDefault01_Forgot_C.SessionData.Lines(0).Lines
 msgctxt ",9A173A0445AB01F578033CA42A8E9C8F"
 msgid "Oh! Ahem..."
-msgstr "ええっ！ オ、オホン……"
+msgstr "えっ！ オ、オホン……"
 
 #. Key:	9A9EDF3448107C0855BB35BBD9D849F5
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(23).LinesToFemale
@@ -4883,7 +4883,7 @@ msgstr "これまで、理解を超えた @MONSTER_RACE@ の肉棒、肉壷を�
 #: /Game/Dialogue/Neela/Default/NeelaDefault01_EnlightenedOne.Default__NeelaDefault01_EnlightenedOne_C.SessionData.Lines(3).Lines
 msgctxt ",9E0F2A7F4F6510D820FB12BE4580D421"
 msgid "She is kind and loving, you will experience untold pleasures... trust me."
-msgstr ""
+msgstr "彼女は思いやりと愛情の持ち主、あなたは言い表せぬ快楽を体験するでしょう……本当ですよ。"
 
 #. Key:	9E15F19C4964C11243C2BE906C8DB6C9
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_RL.Default__EmissaryDefault01_RL_C.ResponseData(3).ResponseData.BreederPrompt
@@ -5170,7 +5170,7 @@ msgstr "そう、ワタシはペインテッド・エルフよ！"
 #: /Game/Dialogue/Reaper/Default/ReaperDefault01.Default__ReaperDefault01_C.SessionData.Lines(0).Lines
 msgctxt ",A8BF2E6243DCA027AB36A396DEA1A0DF"
 msgid "..."
-msgstr ""
+msgstr "……"
 
 #. Key:	A90E87E3497D9E41C08BE1AB25DF9AEE
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_SexPositions.Default__EmissaryDefault01_SexPositions_C.SessionData.Lines(0).Lines
@@ -5779,7 +5779,7 @@ msgstr "迷える彼らの魂を、あなただけが救い出せます。私た
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_RL.Default__EmissaryDefault01_RL_C.ResponseData(6).ResponseData.BreederPrompt
 msgctxt ",BD299A114393AB7ECF48C8A20700F593"
 msgid "What is the endless daze?"
-msgstr ""
+msgstr "「果てなき虚脱」って？"
 
 #. Key:	BD61F6BE4278688EEA2B878F6E8C6994
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(14).LinesToFemale
@@ -7760,14 +7760,14 @@ msgstr "スピリット・フォームはセーブされた。"
 #: Source/Radiant/Public/World/SexyDazeSystem.cpp:103
 msgctxt "ASexyDazeSystem,EndlessDaze"
 msgid "{0} has lost conciousness..."
-msgstr ""
+msgstr "{0} は気を失った……"
 
 #. Key:	ReaperToll
 #. SourceLocation:	Source/Radiant/Public/World/SexyDazeSystem.cpp:132
 #: Source/Radiant/Public/World/SexyDazeSystem.cpp:132
 msgctxt "ASexyDazeSystem,ReaperToll"
 msgid "The Reaper will have her toll..."
-msgstr ""
+msgstr "死霊は対価を要求する……"
 
 #. Key:	NoFuta
 #. SourceLocation:	Source/Radiant/Public/Characters/Dialogue/SexyDialogueSystem.cpp:296
@@ -8012,7 +8012,7 @@ msgstr "説明"
 #: Source/Radiant/Public/UI/Components/SexyBarnActionDetails.cpp:33
 msgctxt "BarnActionDetails,HarvestDesc"
 msgid "Select an action and then press Start."
-msgstr "行動を選択し、スタートをクリックしてください。"
+msgstr "行動を選択し、開始をクリックしてください。"
 
 #. Key:	NewOffspring
 #. SourceLocation:	Source/Radiant/Public/Characters/Breeder/SexyBreederController.cpp:136
@@ -8747,7 +8747,7 @@ msgstr "全身"
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:439
 msgctxt "CharacterEditor,FurMaterial"
 msgid "Fur"
-msgstr "毛皮"
+msgstr "毛"
 
 #. Key:	GalleryButton
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:90
@@ -9692,7 +9692,7 @@ msgstr "終了する"
 #: Source/Radiant/Public/UI/Menus/SexyMainMenu.cpp:43
 msgctxt "MainMenu,LoadGameButton"
 msgid "Load Game"
-msgstr "ゲームを読み込む"
+msgstr "ゲームをロードする"
 
 #. Key:	NewGameButton
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyMainMenu.cpp:36
@@ -9811,7 +9811,7 @@ msgstr "新たな子が産まれました、厩舎を確認してみましょう
 #: Source/Radiant/Public/UI/Menus/SexyOffspringMenu.cpp:41
 msgctxt "Offspring,AcceptButtonTitle"
 msgid "Accept"
-msgstr "承諾"
+msgstr "決定"
 
 #. Key:	AcceptButtonTitleTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyOffspringMenu.cpp:42
@@ -9867,7 +9867,7 @@ msgstr "なし"
 #: Source/Radiant/Public/UI/Components/SexyRenameBox.cpp:60
 msgctxt "RenameBox,AcceptButton"
 msgid "Accept"
-msgstr "承諾"
+msgstr "決定"
 
 #. Key:	CancelButton
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyRenameBox.cpp:66
@@ -10280,7 +10280,7 @@ msgstr "マスター音量"
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:452
 msgctxt "SettingsMenu,MusicVolume"
 msgid "Music"
-msgstr "音楽"
+msgstr "BGM"
 
 #. Key:	OptionsWindowTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:36
@@ -10392,7 +10392,7 @@ msgstr "UI"
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:431
 msgctxt "SettingsMenu,VocalsVolume"
 msgid "Vocals"
-msgstr "声"
+msgstr "ボイス"
 
 #. Key:	Volume
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:376
@@ -10721,7 +10721,7 @@ msgstr "いきなりフェラチオ！"
 #: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:299
 msgctxt "SSexyRoamerMenu,ResistMessage"
 msgid "Rapidly click to resist climax."
-msgstr "絶頂しないように素早くクリック。"
+msgstr "絶頂しないように素早く連打。"
 
 #. Key:	RoamerWindowTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:202
@@ -10742,7 +10742,7 @@ msgstr "サプライズ・セックス！"
 #: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:299
 msgctxt "SSexyRoamerMenu,TaskRBJ"
 msgid "Let her work her wonder."
-msgstr "彼女に任せましょう、ステキなことをしています。"
+msgstr "彼女のステキな行いに、身を任せましょう。"
 
 #. Key:	CheatFavor
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:764
@@ -10875,7 +10875,7 @@ msgstr ""
 #: Source/Radiant/Public/UI/Components/SexySexPositionDetails.cpp:25
 msgctxt "SSexySexPositionDetails,SizePairs"
 msgid "Pairs with Scene"
-msgstr "セックスシーンがある組み合わせ"
+msgstr "交配シーンがあるペア"
 
 #. Key:	Null
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyTaskGridItem.cpp:194
@@ -10994,7 +10994,7 @@ msgstr "有効にする"
 #: Source/Radiant/Public/UI/SexyInterface.cpp:333
 msgctxt "WorldAction,ActivateDazeShrine"
 msgid "Commune with the Reaper"
-msgstr ""
+msgstr "死霊と交感する"
 
 #. Key:	BreedingSetupAction
 #. SourceLocation:	Source/Radiant/Public/UI/SexyInterface.cpp:321
@@ -11030,4 +11030,3 @@ msgstr "話す"
 msgctxt "WorldAction,TraverseAction"
 msgid "Traverse Portal"
 msgstr "ポータルを通る"
-

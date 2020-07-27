@@ -1,13 +1,13 @@
-﻿# japanese Japanese (Japan) translation.
+# japanese Japanese (Japan) translation.
 # Copyright Epic Games, Inc. All Rights Reserved.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: japanese\n"
 "POT-Creation-Date: 2020-06-27 17:53\n"
-"PO-Revision-Date: 2020-06-27 17:53\n"
+"PO-Revision-Date: 2020-07-18 00:19+0900\n"
 "Language-Team: \n"
-"Language: ja-JP\n"
+"Language: ja_JP\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -39,7 +39,7 @@ msgstr "ボヴァウルの牧舎"
 #: /Game/Dialogue/Leylanna/Default/LeylannaHadSex01.Default__LeylannaHadSex01_C.SessionData.LinesToFuta(3).LinesToFuta
 msgctxt ",002F7FED4D68AF160CEAFFB092D0F2E2"
 msgid "Bring that hard cock over here... I want to feel it inside me."
-msgstr ""
+msgstr "その固い男根をここに……わらわはそれを中で感じたいぞ。"
 
 #. Key:	0061A5124B098F61DE991D81AB884112
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01_Meow.Default__CassieDefault01_Meow_C.SessionData.LinesToFemale(3).LinesToFemale
@@ -172,7 +172,7 @@ msgstr ""
 #: /Game/Dialogue/Falene/Default/FaleneHadSex02.Default__FaleneHadSex02_C.SessionData.LinesToMale(4).LinesToMale
 msgctxt ",039EE9174E09A43259C695A1DAC457EC"
 msgid "..."
-msgstr ""
+msgstr "……"
 
 #. Key:	03BD054E4D9907C2DF497EA4DCC0D8C3
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(6).LinesToFemale
@@ -256,14 +256,14 @@ msgstr "甘い花ビラ、タマより大事！"
 #: /Game/Dialogue/Camilla/Default/CamillaHadSex02.Default__CamillaHadSex02_C.SessionData.LinesToMale(3).LinesToMale
 msgctxt ",06271AC24974DE1182364AAD430A9574"
 msgid "If you... uh... ever get desperate again, you know where to find me!"
-msgstr ""
+msgstr "もしアナタが……その……またどうしてもヤリたくなったら、いつでも来てくださいね！"
 
 #. Key:	0629816F428092E0C5B0169DD3E8F968
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R02.Default__FaleneDefault01_R02_C.SessionData.Lines(8).Lines
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R02.Default__FaleneDefault01_R02_C.SessionData.Lines(8).Lines
 msgctxt ",0629816F428092E0C5B0169DD3E8F968"
 msgid "Blessed ones can be found everywhere in @WORLD_NAME@, and for reasons I'm trying to solve, the vast majority are female."
-msgstr "祝福された @MONSTER_RACE@ は @WORLD_NAME@ のあちこちで見かけることができて、そしてワタシが解明中のなんらかの理由によって、その多くが女よ。"
+msgstr "祝福された @MONSTER_RACE@ は @WORLD_NAME@ のあちこちで見かけることができて、そしてワタシが解明中のなんらかの理由によって、そのほとんどが女よ。"
 
 #. Key:	063FE1B64CA363E1B1CB09BFE7E6043C
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01.Default__CassieDefault01_C.SessionData.Lines(6).Lines
@@ -354,7 +354,7 @@ msgstr ""
 #: /Game/Dialogue/Camilla/Default/CamillaFaleneWeek.Default__CamillaFaleneWeek_C.SessionData.Lines(2).Lines
 msgctxt ",094AB3854E6DACE10C94B28ADCB83FE0"
 msgid "The best thing she finds, she brings back here to examine."
-msgstr ""
+msgstr "彼女は発見したうちの一番良いモノを、観察のためにここに持ち帰ります。"
 
 #. Key:	0968DD0D4744523D6AFCEABE502C530F
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R07.Default__FaleneDefault01_R07_C.SessionData.LinesToFemale(1).LinesToFemale
@@ -403,7 +403,7 @@ msgstr "波の下でもっとも気高く、力強く、畏れられる種族、
 #: /Game/Dialogue/Neela/Default/NeelaHadSex01.Default__NeelaHadSex01_C.SessionData.Lines(2).Lines
 msgctxt ",0B2CFD3342EAE68FB552BF9F7876374B"
 msgid "Ahhh... I feel so good!"
-msgstr ""
+msgstr "はぁぁぁ……とても良い心地です！"
 
 #. Key:	0B796FF84644C0154CA874BFDFA16D50
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyHadSex01.Default__RomyHadSex01_C.SessionData.Lines(2).Lines
@@ -529,7 +529,7 @@ msgstr "色情狂"
 #: /Game/Dialogue/Parvati/Default/ParvatiHadSex01.Default__ParvatiHadSex01_C.SessionData.Lines(3).Lines
 msgctxt ",0E3AF3704D88CDB26D17458852A1792E"
 msgid "Using our bodies in ways all too perverse."
-msgstr ""
+msgstr "我らの身体を使おうぞ、あまりに倒錯したやりくちで。"
 
 #. Key:	0E6E1156457FB3513C060D979FF6B9AE
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(29 - Value).TraitIcons.HelpText
@@ -592,7 +592,7 @@ msgstr "しかしながら、あの青い煙をあんなにも吸うのは控え
 #: /Game/Dialogue/Romy/Default/RomyDefault01.Default__RomyDefault01_C.SessionData.LinesGrungy(1).LinesGrungy
 msgctxt ",0F3DB30048A1D95AFB32AEBCA67D8C96"
 msgid "You need a bath. Come now, place your body between my breasts and let's get you clean."
-msgstr "そなたには入浴が必要です。 その身を我が乳房のあいだに委ねて、私に洗わせなさいな。"
+msgstr "そなたには入浴が必要です。その身を我が乳房のあいだに委ねて、私に洗わせなさいな。"
 
 #. Key:	0F5F4BBA4C14BF84662CB09F0D97B147
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_AboutKrakens.Default__MirruDefault01_AboutKrakens_C.SessionData.Lines(2).Lines
@@ -606,7 +606,7 @@ msgstr "我らには破壊的な過去もあったが、今日のクラーケン
 #: /Game/Dialogue/Falene/Default/FaleneHadSex01.Default__FaleneHadSex01_C.SessionData.LinesToFemale(7).LinesToFemale
 msgctxt ",0FAF6E0B4308E0F116E3C3BC117672E3"
 msgid "That creepy golden seraphim, the one in the temple. She appeared only a few days ago, right when the avatars shut down!"
-msgstr ""
+msgstr "あの気味の悪い金色のセラフィム、神殿にいるやつよ。アイツはほんの数日前に現れて、ちょうどその時に化身像の機能が止まったの！"
 
 #. Key:	0FC69F2441505B7DAACAC7807627892D
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernDefault03_R05.Default__FernDefault03_R05_C.SessionData.Lines(1).Lines
@@ -956,7 +956,7 @@ msgstr "@MONSTER_RACE@ の精液が強力な物質なのは事実なの――た
 #: /Game/Dialogue/Falene/Default/FaleneHadSex02.Default__FaleneHadSex02_C.SessionData.LinesToFuta(3).LinesToFuta
 msgctxt ",1910F85443F6DD9DAC29C298ACF9F603"
 msgid "Maybe between my fat ass cheeks?"
-msgstr ""
+msgstr "もしかして、ワタシのむっちりしたお尻の間に挟みたい？"
 
 #. Key:	193B4CF045056BF6C0B7E0AF2A4A65FF
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(23 - Value).TraitIcons.HelpText
@@ -998,7 +998,7 @@ msgstr "（愉悦する喘ぎ声）"
 #: /Game/Dialogue/Fern/DefaultP2/FernDefault02_R01.Default__FernDefault02_R01_C.SessionData.Lines(0).Lines
 msgctxt ",1A04D48D493996FF8EDD59A9DDB7C1A6"
 msgid "You are the lord of this soil--or owner of Homestead in the common tongue."
-msgstr "あなたは、この土の主――共通語で言えば、牧場屋敷の所有者ですから。"
+msgstr "あなたは、この土の主――平易な言葉で表すなら、牧場屋敷の所有者ですから。"
 
 #. Key:	1A66A5974B5893066D25B7A93AD8BA38
 #. SourceLocation:	/Game/Dialogue/AmberMae/SexScenes/AmberMilkyF.Default__AmberMilkyF_C.SessionData.Lines(4).Lines
@@ -1096,7 +1096,7 @@ msgstr "（ぺろっ） （ぺろっ）"
 #: /Game/Dialogue/Camilla/Default/CamillaDefault02.Default__CamillaDefault02_C.SessionData.Lines(1).Lines
 msgctxt ",1D0919E245DEEDE87FD63C8852480108"
 msgid "I wonder what she brought me this time."
-msgstr ""
+msgstr "彼女、今度はワタシに何を持ってきたんでしょうか。"
 
 #. Key:	1D44F1774A53A6682BEE0BB2C13C2732
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01.Default__CassieDefault01_C.SessionData.Lines(0).Lines
@@ -1194,7 +1194,7 @@ msgstr ""
 #: /Game/Dialogue/Leylanna/Default/LeylannaDefault01_RL.Default__LeylannaDefault01_RL_C.ResponseData(6).ResponseData.BreederPrompt
 msgctxt ",1EB7986D40F6A7B90EB5ADB781104A11"
 msgid "How do I access the area under the temple?"
-msgstr ""
+msgstr "どうすれば神殿の下の区画に入れる？"
 
 #. Key:	1EBEB6D94E78F0B72A365EAD5BD52461
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeHadSex01.Default__MegaSlimeHadSex01_C.SessionData.LinesToFuta(5).LinesToFuta
@@ -1306,7 +1306,7 @@ msgstr "（ちゅぱっ） （ちゅぱっ）"
 #: /Game/Dialogue/Fern/DefaultP3/FernHadSex03.Default__FernHadSex03_C.SessionData.LinesToFemale(1).LinesToFemale
 msgctxt ",212DDF504562E903B436369721416CBC"
 msgid "This flower body is great, I hope you enjoyed it too master."
-msgstr ""
+msgstr "このフラワー・ボディはすごいです。あなたもこの身体を愉しんでいただけましたか、ご主人様。"
 
 #. Key:	2162847A4A5D1589C40560B46F95C0C5
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_SlimeHate.Default__EmissaryDefault01_SlimeHate_C.SessionData.Lines(4).Lines
@@ -1341,7 +1341,7 @@ msgstr "背面騎乗位"
 #: /Game/Dialogue/Leylanna/Default/LeylannaOldTempleDungeon1.Default__LeylannaOldTempleDungeon1_C.SessionData.Lines(2).Lines
 msgctxt ",21F3FE504159303A7B601594A76A9D1D"
 msgid "Have you come here to make love with me?"
-msgstr ""
+msgstr "そなた、わらわと愛を交わしにここへきたのか？"
 
 #. Key:	2232F66F4BB565CC2A75538123292067
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(19).LinesToMale
@@ -1355,7 +1355,7 @@ msgstr "このことはアナタのお仕事をとっても簡単にするわ！
 #: /Game/Dialogue/Falene/Default/FaleneHadSex01.Default__FaleneHadSex01_C.SessionData.LinesToFuta(1).LinesToFuta
 msgctxt ",2262A6F64B6CB59E0A4D93A13609ED6A"
 msgid "Human cum tastes just like I dreamt it would!"
-msgstr ""
+msgstr "人間の精液の味、まさにワタシが夢見てたとおりだった！"
 
 #. Key:	226CAB5E40652DCF455036A02B7F0BEF
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyGreeting01.Default__RomyGreeting01_C.SessionData.LinesGrungy(3).LinesGrungy
@@ -1390,7 +1390,7 @@ msgstr "ボヴァウルを管理する"
 #: /Game/Dialogue/Leylanna/Default/LeylannaOldTempleDungeon1.Default__LeylannaOldTempleDungeon1_C.SessionData.Lines(0).Lines
 msgctxt ",233ACAAA4B9A80E38B57579ACF78F5DF"
 msgid "Sooooo very high human."
-msgstr ""
+msgstr "そぉぉぉ、とってもハイなのだ、にんげんよ。"
 
 #. Key:	2341F9304FDFA81B77486F840A0E749C
 #. SourceLocation:	/Game/Ranch/Upgrades/MuttHut.Default__MuttHut_C.Upgrade.Description
@@ -1488,7 +1488,7 @@ msgstr ""
 #: /Game/Dialogue/Neela/Default/NeelaHadSex01.Default__NeelaHadSex01_C.SessionData.Lines(3).Lines
 msgctxt ",2562C2DF4A1E2558709AB9BF6D7F7974"
 msgid "You don't have to run off now do you? Stay awhile... and..."
-msgstr ""
+msgstr "あなた、ここから急いで去る必要はないのでしょう？ しばし留まり……そして……"
 
 #. Key:	25D626114231ECB08961C6AB69737AE1
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_UpHere.Default__RomyDefault01_UpHere_C.SessionData.Lines(1).Lines
@@ -1509,7 +1509,7 @@ msgstr "マッシブサイズ"
 #: /Game/Dialogue/Camilla/Default/CamillaHadSex02.Default__CamillaHadSex02_C.SessionData.LinesToFuta(3).LinesToFuta
 msgctxt ",268AD0D344A4D1238CEC5798F2ED5EF0"
 msgid "If you... uh... ever get desperate again, you know where to find me!"
-msgstr ""
+msgstr "もしアナタが……その……またどうしてもヤリたくなったら、いつでも来てくださいね！"
 
 #. Key:	26BF34E64E91FAF8BA6ACF94AB76AB90
 #. SourceLocation:	/Game/Dialogue/Emissary/SexScenes/EmissaryAngelGroinLove.Default__EmissaryAngelGroinLove_C.SessionData.LinesToMale(2).LinesToMale
@@ -1565,7 +1565,7 @@ msgstr "おっぱい飲んでいいよ！"
 #: /Game/Dialogue/Neela/Default/NeelaHadSex01.Default__NeelaHadSex01_C.SessionData.Lines(4).Lines
 msgctxt ",27DC0A5545483DF96A1A72B802E0F3A6"
 msgid "Well you know... it gets lonely being the portal warden."
-msgstr ""
+msgstr "おわかりでしょうに……寂しいのですよ、ポータルの管理者というのは。"
 
 #. Key:	28D2D40946F49E829D7D26B007908332
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieGreeting01.Default__CassieGreeting01_C.SessionData.Lines(8).Lines
@@ -1719,7 +1719,7 @@ msgstr "わたしに養分を与える必要は、もうないでしょう。で
 #: /Game/Dialogue/Falene/Default/FaleneHadSex01.Default__FaleneHadSex01_C.SessionData.LinesToFemale(1).LinesToFemale
 msgctxt ",2D636C78456A78C86B5305B72E889E11"
 msgid "Human pussy tastes just like I dreamt it would!"
-msgstr ""
+msgstr "人間のおまんこの味、まさにワタシが夢見てたとおりだった！"
 
 #. Key:	2DBE58DB4B0AEBCB9FDD04BC94C039BD
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R04.Default__FaleneDefault01_R04_C.SessionData.Lines(5).Lines
@@ -1747,7 +1747,7 @@ msgstr "あなたの音楽を聞きたい。"
 #: /Game/Dialogue/Falene/Default/FaleneHadSex01.Default__FaleneHadSex01_C.SessionData.LinesToFemale(3).LinesToFemale
 msgctxt ",2E166A6948BC2569CE3FCAB659B7FE7D"
 msgid "Maybe my nipples?"
-msgstr ""
+msgstr "もしかして、ワタシの乳首？"
 
 #. Key:	2E18B0B24CC860D3136F0CA493EDDD3B
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R04.Default__FaleneDefault01_R04_C.SessionData.Lines(0).Lines
@@ -1908,7 +1908,7 @@ msgstr ""
 #: /Game/Dialogue/Fern/Default/FernHadSex01.Default__FernHadSex01_C.SessionData.Lines(0).Lines
 msgctxt ",30940E7C46EDA0BA71E783B92668ECFD"
 msgid "Mmmm... mastah tasty!"
-msgstr ""
+msgstr "んんんん……ごしゅずん、おいしい！"
 
 #. Key:	309ABB3C4016F9879A6955B2D2BD5AE8
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleAnyMeans.Default__KybeleAnyMeans_C.SessionData.LinesToFuta(3).LinesToFuta
@@ -2006,7 +2006,7 @@ msgstr "キャシーって名前だよ、アタシは街の建築家。"
 #: /Game/Dialogue/Camilla/Default/CamillaDefault02.Default__CamillaDefault02_C.SessionData.Lines(2).Lines
 msgctxt ",33DB6107453143BAF4F8B0A81EFC2634"
 msgid "A swarm of horny bats no doubt, or maybe a giant leech."
-msgstr ""
+msgstr "おそらく淫乱コウモリの群れ、いや巨大ヒルかもしれません。"
 
 #. Key:	341A1B1E4F52D36C69BFB9ACE71DBCD4
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimePlay.Default__MegaSlimePlay_C.SessionData.LinesToFuta(2).LinesToFuta
@@ -2167,7 +2167,7 @@ msgstr "いいよ！ アナタがイキそうなのを感じる……すべて�
 #: /Game/Dialogue/Camilla/Default/CamillaHadSex02.Default__CamillaHadSex02_C.SessionData.LinesToMale(1).LinesToMale
 msgctxt ",38365E644649BD12B20E879BB823AAC7"
 msgid "Your cock was so big, I didn't think I could take all of it."
-msgstr ""
+msgstr "アナタのチンポはとても大きくて、全部入るなんて思わなかったんです。"
 
 #. Key:	383F99384A9AA2EB709D22BFAE55B72F
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleGreeting01.Default__KybeleGreeting01_C.SessionData.Lines(3).Lines
@@ -2202,7 +2202,7 @@ msgstr "ハーピィ"
 #: /Game/Dialogue/Falene/Default/FaleneHadSex02.Default__FaleneHadSex02_C.SessionData.LinesToMale(3).LinesToMale
 msgctxt ",391822524D6E48F4210CDD992B499045"
 msgid "Maybe between my fat ass cheeks?"
-msgstr ""
+msgstr "もしかして、ワタシのむっちりしたお尻の間に挟みたい？"
 
 #. Key:	396BA75142AC2655B980A8AEF0F46AA5
 #. SourceLocation:	/Game/Dialogue/Falene/SexScenes/FaleneBlowJob.Default__FaleneBlowJob_C.SessionData.LinesToFuta(9).LinesToFuta
@@ -2328,7 +2328,7 @@ msgstr "……"
 #: /Game/Dialogue/Leylanna/Default/LeylannaDungeon_RL.Default__LeylannaDungeon_RL_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",3C151FC94376B799967B11AAA342949E"
 msgid "You're the high priestess!!!!"
-msgstr ""
+msgstr "この、ハイな女神官！！！！"
 
 #. Key:	3C197E81483FDB92C0B7DE83C29374D3
 #. SourceLocation:	/Game/Ranch/Upgrades/ThriaeHive.Default__ThriaeHive_C.Upgrade.DisplayName
@@ -2440,7 +2440,7 @@ msgstr "忌み子"
 #: /Game/Dialogue/Falene/Default/FaleneHadSex01.Default__FaleneHadSex01_C.SessionData.LinesToFuta(0).LinesToFuta
 msgctxt ",3EFC55C841DE04F93E1162B03860B502"
 msgid "Ohhh @BREEDER_NAME@... you were amazing."
-msgstr ""
+msgstr "うぅぅん、@BREEDER_NAME@……アナタすごかったわ。"
 
 #. Key:	3F053255484259108C0E28AFBD627175
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_BodySexToy.Default__MirruDefault01_BodySexToy_C.SessionData.LinesToMale(1).LinesToMale
@@ -2454,21 +2454,21 @@ msgstr "其方には見当もつかないだろう。私がこの瞬間にも、
 #: /Game/Dialogue/Leylanna/Default/LeylannaOldTempleDungeon.Default__LeylannaOldTempleDungeon_C.SessionData.Lines(2).Lines
 msgctxt ",3F42819C4BE489F79C959596626E0A60"
 msgid "Oh..."
-msgstr ""
+msgstr "むぅ……"
 
 #. Key:	3FCCA37A44F5B9EE704791B7D1D886E5
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneHadSex02.Default__FaleneHadSex02_C.SessionData.LinesToFemale(0).LinesToFemale
 #: /Game/Dialogue/Falene/Default/FaleneHadSex02.Default__FaleneHadSex02_C.SessionData.LinesToFemale(0).LinesToFemale
 msgctxt ",3FCCA37A44F5B9EE704791B7D1D886E5"
 msgid "Ohhh @BREEDER_NAME@... you were amazing."
-msgstr ""
+msgstr "うぅぅん、@BREEDER_NAME@……アナタすごかったわ。"
 
 #. Key:	3FF7BD1544456D7735C2D2AA0DCBAA1A
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaHadSex01.Default__CamillaHadSex01_C.SessionData.LinesToFuta(1).LinesToFuta
 #: /Game/Dialogue/Camilla/Default/CamillaHadSex01.Default__CamillaHadSex01_C.SessionData.LinesToFuta(1).LinesToFuta
 msgctxt ",3FF7BD1544456D7735C2D2AA0DCBAA1A"
 msgid "Your cock was so big, I didn't think I could take all of it."
-msgstr ""
+msgstr "アナタのチンポはとても大きくて、全部入るなんて思わなかったんです。"
 
 #. Key:	40100E704D14DC5D1B113F84C1BCE936
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(10).LinesToMale
@@ -2573,7 +2573,7 @@ msgstr "あなた自身をここに挿入してください、わたしといっ
 #: /Game/Dialogue/Falene/Default/FaleneHadSex02.Default__FaleneHadSex02_C.SessionData.LinesToFuta(6).LinesToFuta
 msgctxt ",420C9DA2427A5F62FC51E4BA32A4E6F8"
 msgid "Actually, fat ass reminds me of something!"
-msgstr ""
+msgstr "実を言うと、むっちりしたお尻はワタシにちょっと思い起こさせるのね！"
 
 #. Key:	4216C26A4EE0EF8A17937686F1FBEC4A
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01_RL_F.Default__FernDefault01_RL_F_C.ResponseData(2).ResponseData.BreederPrompt
@@ -2608,7 +2608,7 @@ msgstr "そう、そのまま、人間ちゃん！ 濃厚でクリーミーっ�
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R06.Default__FaleneDefault01_R06_C.SessionData.Lines(7).Lines
 msgctxt ",42E4526948669BCD5AFBD29DC9583D3C"
 msgid "Meh, I am an alchemist... I don't believe in this stuff! Go talk to high priestess Leylanna or that creepy Seraphim if you want to learn more about this myth!"
-msgstr "まー、ワタシは錬金術師なので……こういうモノは信じません！ この神話についてもっと知りたいなら、女大祭司のレイラナか、あの気味の悪いセラフィムに話を聞きに行って！"
+msgstr "まー、ワタシは錬金術師なので……こういうモノは信じません！ この神話についてもっと知りたいなら、ハイクラスな女神官のレイラナか、あの気味の悪いセラフィムに話を聞きに行って！"
 
 #. Key:	431393014FD2AE0F14B10994F1A6E951
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_GreatConception.Default__EmissaryDefault01_GreatConception_C.SessionData.Lines(5).Lines
@@ -2622,7 +2622,7 @@ msgstr "光を引き立たせるには、力が必要でした。そして、女
 #: /Game/Dialogue/Neela/Default/NeelaHadSex01.Default__NeelaHadSex01_C.SessionData.Lines(0).Lines
 msgctxt ",434F3EDD4D71E19F342B9FB4B2780A63"
 msgid "Oh yes, that was incredible."
-msgstr ""
+msgstr "ああ、えぇ。素晴らしかったですね。"
 
 #. Key:	437DBE7940749A6838FDA39FD90FF637
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryRaiseTraitLvl_RL.Default__EmissaryRaiseTraitLvl_RL_C.ResponseData(0).ResponseData.BreederPrompt
@@ -2636,7 +2636,7 @@ msgstr "承諾する"
 #: /Game/Dialogue/Camilla/Default/CamillaHadSex01.Default__CamillaHadSex01_C.SessionData.LinesToFemale(2).LinesToFemale
 msgctxt ",43B91A4A43D78CA88ED80E9B8E857EB2"
 msgid "If you... uh... ever get desperate again, you know where to find me!"
-msgstr ""
+msgstr "もしアナタが……その……またどうしてもヤリたくなったら、いつでも来てくださいね！"
 
 #. Key:	43D16A4C487E8E717D3AF2A72A1F2C56
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_MultipleHearts.Default__MirruDefault01_MultipleHearts_C.SessionData.Lines(1).Lines
@@ -2748,7 +2748,7 @@ msgstr ""
 #: /Game/Dialogue/Falene/Default/FaleneHadSex01.Default__FaleneHadSex01_C.SessionData.Message
 msgctxt ",4612927F428545E61B9FD2A2EE16880A"
 msgid "Seek the Archangel Emissary."
-msgstr ""
+msgstr "アークエンジェルの御使いをさがせ。"
 
 #. Key:	464B0F3B450345A0F3EA8E98C67A5248
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(6).LinesToMale
@@ -2804,7 +2804,7 @@ msgstr ""
 #: /Game/Dialogue/Falene/Default/FaleneHadSex02.Default__FaleneHadSex02_C.SessionData.LinesToMale(9).LinesToMale
 msgctxt ",4746286E4AE8395AE493408B9311562D"
 msgid "I won't go near that temple, they will probably try and convert me, or make me inhale blue smoke."
-msgstr ""
+msgstr "ワタシはあの神殿には近づかないから。彼女たちは間違いなく、ワタシを改宗させようとするか、青い煙を吸わせようとするもの。"
 
 #. Key:	47621D134EBA27E9FF0A6888F1D9CF3D
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernGreeting03.Default__FernGreeting03_C.SessionData.LinesToFemale(2).LinesToFemale
@@ -2888,7 +2888,7 @@ msgstr "@BREEDER_NAME@ よ。ずっと、あなたの到着を待っていまし
 #: /Game/Dialogue/Falene/Default/FaleneHadSex01.Default__FaleneHadSex01_C.SessionData.LinesToFemale(9).LinesToFemale
 msgctxt ",48EDBF874DED77CEE66F469303F265EB"
 msgid "I won't go near that temple, they will probably try and convert me, or make me inhale blue smoke."
-msgstr ""
+msgstr "ワタシはあの神殿には近づかないから。彼女たちは間違いなく、ワタシを改宗させようとするか、青い煙を吸わせようとするもの。"
 
 #. Key:	48F333E347A7091F18F946AADDC3C69D
 #. SourceLocation:	/Game/Dialogue/Mirru/SexScenes/MirruKrakVag.Default__MirruKrakVag_C.SessionData.Lines(6).Lines
@@ -2979,7 +2979,7 @@ msgstr "まさしく、形を変える水のよう。"
 #: /Game/Dialogue/Camilla/Default/CamillaFaleneWeek.Default__CamillaFaleneWeek_C.SessionData.Lines(1).Lines
 msgctxt ",4AF4F6C44BC706495A6BC1910F5EB035"
 msgid "Which is nothing more than an excuse to have sex with everything in sight while I do all the work!!"
-msgstr ""
+msgstr "これは目に付いたモノとセックスするための口実でしかありません。その間、ワタシが仕事を全部やってます！！"
 
 #. Key:	4AF6D7774E005B4FEFEFBD91CE5F5322
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01_RL_T.Default__FernDefault01_RL_T_C.ResponseData(4).ResponseData.BreederPrompt
@@ -2993,7 +2993,7 @@ msgstr "おっぱい飲んでいいよ！"
 #: /Game/Dialogue/Falene/Default/FaleneHadSex02.Default__FaleneHadSex02_C.SessionData.LinesToMale(10).LinesToMale
 msgctxt ",4B44E77A43CAC3B48E9D16ADD09A8488"
 msgid "Unlike nephnip, blue smoke destroys your mind... just look how dumb that kitsune priestess is."
-msgstr ""
+msgstr "ネフェ・ニップとは違って、青い煙は心を壊すの……あのキツネ女神官のフヌケっぷりをごらんなさい。"
 
 #. Key:	4B96D56447562EBC8748929A5D3B51FD
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernGreeting02.Default__FernGreeting02_C.SessionData.LinesToFuta(3).LinesToFuta
@@ -3028,7 +3028,7 @@ msgstr "んで、アタシの専門はミルクに関するあらゆるもん、
 #: /Game/Dialogue/Camilla/Default/CamillaHadSex02.Default__CamillaHadSex02_C.SessionData.LinesToFemale(1).LinesToFemale
 msgctxt ",4C1E56854BDDE954FC7ACA99874AB4C3"
 msgid "This little body experienced a lot of pleasure..."
-msgstr ""
+msgstr "この小さな身体が、幸せをいっぱい感じました……"
 
 #. Key:	4D0B9DAB42EF8CA84E014A8298104E74
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_UpHere.Default__RomyDefault01_UpHere_C.SessionData.Lines(4).Lines
@@ -3077,7 +3077,7 @@ msgstr "あなたのミルク入れ、吸ってもいいですか？"
 #: /Game/Dialogue/Fern/DefaultP2/FernHadSex02.Default__FernHadSex02_C.SessionData.Lines(0).Lines
 msgctxt ",4E36B8A545FB7E25EE044C834B5EFC4D"
 msgid "Mmmm... mastah tasty!"
-msgstr ""
+msgstr "んんんん……ごしゅずん、美味しい！"
 
 #. Key:	4E498E254A8B38B0C2BC51A386589A62
 #. SourceLocation:	/Game/Dialogue/Leylanna/SexScenes/LeylannaLeyCov.Default__LeylannaLeyCov_C.SessionData.LinesToFemale(0).LinesToFemale
@@ -3091,7 +3091,7 @@ msgstr "身体を預け、楽にするのだ、@BREEDER_NAME@……"
 #: /Game/Dialogue/Falene/Default/FaleneHadSex01.Default__FaleneHadSex01_C.SessionData.LinesToFemale(8).LinesToFemale
 msgctxt ",4E52974540DE6960CB56CDB713C76A05"
 msgid "She must have something to do with it, you should go and talk to her."
-msgstr ""
+msgstr "彼女はこの件と何か関係がある、アナタは行って話すべきね。"
 
 #. Key:	4E5BBE2D466F692CEB63ACA293C411A8
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruHadSex01.Default__MirruHadSex01_C.SessionData.LinesToFemale(0).LinesToFemale
@@ -3133,7 +3133,7 @@ msgstr "あなたは何ができるの？"
 #: /Game/Dialogue/Falene/Default/FaleneHadSex02.Default__FaleneHadSex02_C.SessionData.LinesToMale(1).LinesToMale
 msgctxt ",4EC9F06C40A26C9E21037AA804A890B1"
 msgid "Human cum tastes just like I dreamt it would!"
-msgstr ""
+msgstr "人間の精液の味、まさにワタシが夢見てたとおりだった！"
 
 #. Key:	4F17407F4C735CA48643138A59606A3C
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01.Default__FernDefault01_C.SessionData.Lines(2).Lines
@@ -3308,7 +3308,7 @@ msgstr "存分に愉しむのです、人間よ。我、汝のしもべである
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_RL.Default__CamillaDefault01_RL_C.ResponseData(6).ResponseData.BreederPrompt
 msgctxt ",535696214ED031B7F34A458925D0CEA8"
 msgid "Falene brings you stuff?"
-msgstr ""
+msgstr "ファリーンは、あなたに何か持ってくるの？"
 
 #. Key:	537B245D4CBB8BD28882D3AB47480EA4
 #. SourceLocation:	/Game/Dialogue/Fern/SexScenes/FernCum_01.Default__FernCum_01_C.SessionData.Lines(1).Lines
@@ -3322,7 +3322,7 @@ msgstr "（ちゅぱっ） （ちゅぱっ）"
 #: /Game/Dialogue/Fern/DefaultP3/FernHadSex03.Default__FernHadSex03_C.SessionData.LinesToFemale(0).LinesToFemale
 msgctxt ",53B2E09F4A5C770431651A9B727EA17D"
 msgid "Ahhh... I have never felt so good!"
-msgstr ""
+msgstr "はぁぁぁ……こんなに感じたことは、今までありませんでした！"
 
 #. Key:	53D49D34442BE0C5E4A971957D2298CD
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_StartLapDance.Default__ParvatiDefault01_StartLapDance_C.SessionData.Lines(0).Lines
@@ -3357,7 +3357,7 @@ msgstr "強引に迫ったかもしんないけど、許してほしいんだわ
 #: /Game/Dialogue/Falene/Default/FaleneHadSex01.Default__FaleneHadSex01_C.SessionData.LinesToFemale(2).LinesToFemale
 msgctxt ",5487409C445EEB5B2C699C8A5253DD30"
 msgid "Perhaps you would like a taste of my sparkly elf pussy?"
-msgstr ""
+msgstr "あっ、ひょっとしてワタシのキラキラなエルフまんこを味わってみたい？"
 
 #. Key:	5499C216450B8D38D1D5E48EAB4EAE1A
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeGreeting01.Default__MegaSlimeGreeting01_C.SessionData.Lines(3).Lines
@@ -3483,7 +3483,7 @@ msgstr ""
 #: /Game/Dialogue/Falene/Default/FaleneHadSex02.Default__FaleneHadSex02_C.SessionData.LinesToFuta(9).LinesToFuta
 msgctxt ",58341B664724970CC10797BD5F7BF25B"
 msgid "I won't go near that temple, they will probably try and convert me, or make me inhale blue smoke."
-msgstr ""
+msgstr "ワタシはあの神殿には近づかないから。彼女たちは間違いなく、ワタシを改宗させようとするか、青い煙を吸わせようとするもの。"
 
 #. Key:	5881DC0E4C70AE1F56EE70A7C1A4A78A
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeLockedDungeon.Default__AmberMaeLockedDungeon_C.SessionData.Lines(5).Lines
@@ -3735,7 +3735,7 @@ msgstr "感じたいのです、温かな人間の精液が私の中を駆け巡
 #: /Game/Dialogue/Fern/DefaultP3/FernHadSex03.Default__FernHadSex03_C.SessionData.LinesToFuta(2).LinesToFuta
 msgctxt ",5E79231E46C65B7ABB930CBB9EE87267"
 msgid "You released soooo much cum in here, I love it."
-msgstr ""
+msgstr "この中で、とーってもいっぱい射精しましたね。とても良かったですよ。"
 
 #. Key:	5F41B5A04451E1F4E959DA86D6846CB4
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R04.Default__FaleneDefault01_R04_C.SessionData.Lines(6).Lines
@@ -3798,14 +3798,14 @@ msgstr "言われた通りの種族を捕まえてきたよ。"
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R03.Default__FaleneDefault01_R03_C.SessionData.Lines(2).Lines
 msgctxt ",60B6EB594571EB46AAF53EAF5A1EF34C"
 msgid "That instinct draws them to what the temple calls \"Avatars of the Goddess\", well when they were active anyway."
-msgstr ""
+msgstr "その本能によって野性の個体は、神殿が「女神の化身像」と呼ぶものに引き寄せられる。まぁ、とにかく像が機能していたときはね。"
 
 #. Key:	60F7E0894814D89ADDD7CDBD0B8BDFA5
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaHadSex01.Default__LeylannaHadSex01_C.SessionData.LinesToFemale(3).LinesToFemale
 #: /Game/Dialogue/Leylanna/Default/LeylannaHadSex01.Default__LeylannaHadSex01_C.SessionData.LinesToFemale(3).LinesToFemale
 msgctxt ",60F7E0894814D89ADDD7CDBD0B8BDFA5"
 msgid "Bring those soft breasts to me... I want to feel them."
-msgstr ""
+msgstr "その柔らかな乳房をわらわの元に……わらわはそれを感じたいぞ。"
 
 #. Key:	610937E54B5168894FBCF992E5728C73
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01.Default__MirruDefault01_C.SessionData.Lines(0).Lines
@@ -3952,7 +3952,7 @@ msgstr "これを一日中吸うことで、わらわはこの世ならざるビ
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R03.Default__FaleneDefault01_R03_C.SessionData.Lines(5).Lines
 msgctxt ",642BFA1C4994B5A7C9396A87DEF59A4A"
 msgid "They shut down a few days ago and I am trying to figure out why! I miss my wild friends."
-msgstr ""
+msgstr "像は数日前に機能を停止して、ワタシはその理由を解明しようとしてるの！ 野性の友達に会いたいもの。 "
 
 #. Key:	644065F84B0F2E772BE21695810A2F0F
 #. SourceLocation:	/Game/Characters/Procedural/Variants/Bovaur/Harvest/BovaurHarvest.Default__BovaurHarvest_C.Harvest.Description
@@ -4022,7 +4022,7 @@ msgstr "ワタシが、@WORLD_NAME@ のあらゆる生き物の精液と愛液�
 #: /Game/Dialogue/Falene/Default/FaleneHadSex01.Default__FaleneHadSex01_C.SessionData.LinesToFuta(6).LinesToFuta
 msgctxt ",653BCE96424AE552DCA4D7853B50BC39"
 msgid "Actually, fat ass reminds me of something!"
-msgstr ""
+msgstr "実を言うと、むっちりしたお尻はワタシにちょっと思い起こさせるのね！"
 
 #. Key:	659F65A5454F216DBCA2DE943F3D816D
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02_R04.Default__FernDefault02_R04_C.SessionData.Lines(0).Lines
@@ -4078,14 +4078,14 @@ msgstr "おぉぉぅ、いいよぉ……にゃあ……あぁぁぁ……"
 #: /Game/Dialogue/Falene/Default/FaleneDefault02.Default__FaleneDefault02_C.SessionData.Lines(4).Lines
 msgctxt ",66FF732B48A05F6D56007DA56AA83546"
 msgid "Hehehe... she is going to love what I brought her."
-msgstr ""
+msgstr "ふっふっふっ……彼女はワタシが持ってきたモノ、とっても気に入ってくれるはず。"
 
 #. Key:	6704B8A54849F885661105A85287867D
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaFaleneWeek.Default__CamillaFaleneWeek_C.SessionData.Lines(3).Lines
 #: /Game/Dialogue/Camilla/Default/CamillaFaleneWeek.Default__CamillaFaleneWeek_C.SessionData.Lines(3).Lines
 msgctxt ",6704B8A54849F885661105A85287867D"
 msgid "First, I have to be naked."
-msgstr ""
+msgstr "まず、ワタシは服を脱がねばなりません。"
 
 #. Key:	6779B6F54EA9811CDA01BB899D8E10A4
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeGreeting01.Default__AmberMaeGreeting01_C.SessionData.Lines(2).Lines
@@ -4225,7 +4225,7 @@ msgstr "うぅぅぅ……でっかい人間チンポ、すっごいよぅ！"
 #: /Game/Dialogue/Falene/Default/FaleneHadSex02.Default__FaleneHadSex02_C.SessionData.LinesToFemale(8).LinesToFemale
 msgctxt ",6AC1DB0F4077E818616197BB13F45B27"
 msgid "She must have something to do with it, you should go and talk to her."
-msgstr ""
+msgstr "彼女はこの件と何か関係がある、アナタは行って話すべきね。"
 
 #. Key:	6AD76D124EA5FF55B998D39AD1070F08
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeSuckJugs_Start.Default__AmberMaeSuckJugs_Start_C.SessionData.Lines(0).Lines
@@ -4274,7 +4274,7 @@ msgstr ""
 #: /Game/Dialogue/Camilla/Default/CamillaHadSex01.Default__CamillaHadSex01_C.SessionData.LinesToFemale(1).LinesToFemale
 msgctxt ",6CEBE4ED41B379988D725290EDC4FE95"
 msgid "This little body experienced a lot of pleasure..."
-msgstr ""
+msgstr "この小さな身体が、幸せをいっぱい感じました……"
 
 #. Key:	6D0C594D4C4F236FB6A4E28627184737
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R02.Default__CamillaDefault01_R02_C.SessionData.Lines(1).Lines
@@ -4302,7 +4302,7 @@ msgstr "ウォーターフォール！"
 #: /Game/Dialogue/Falene/Default/FaleneHadSex02.Default__FaleneHadSex02_C.SessionData.LinesToFuta(8).LinesToFuta
 msgctxt ",6D2B0FAA45038886B1DB5CA8ADFCEF1D"
 msgid "She must have something to do with it, you should go and talk to her."
-msgstr ""
+msgstr "彼女はこの件と何か関係がある、アナタは行って話すべきね。"
 
 #. Key:	6D4E481742B09428791263B3A820281E
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeDefault01_SuckJugs.Default__AmberMaeDefault01_SuckJugs_C.SessionData.Lines(4).Lines
@@ -4561,7 +4561,7 @@ msgstr "あなたは絶頂を体験し、わたしの花の中で幾度も果て
 #: /Game/Dialogue/Parvati/Default/ParvatiHadSex01.Default__ParvatiHadSex01_C.SessionData.Lines(0).Lines
 msgctxt ",721BAB5440338ECB3CE2EB9A27D969B0"
 msgid "Returning to me with that familiar glint in your eye."
-msgstr ""
+msgstr "馴染みあるその眼光とともに、我の元に帰還。"
 
 #. Key:	722820CF485DAAEF312AD7B7C497D3AD
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernDefault03_R05.Default__FernDefault03_R05_C.SessionData.Lines(0).Lines
@@ -4603,7 +4603,7 @@ msgstr "それならば、あなたのおまんこを隅々まで舐めるから
 #: /Game/Dialogue/Fern/Default/FernHadSex01.Default__FernHadSex01_C.SessionData.Lines(1).Lines
 msgctxt ",72D1FC5F42F98687EDAE5AB4FD366E18"
 msgid "More! More!"
-msgstr ""
+msgstr "もっと！ もっと！"
 
 #. Key:	737ACFDE44717F24FCFA89B1A6780AA2
 #. SourceLocation:	/Game/Dialogue/Neela/SexScenes/NeelaSnakeCuddleT.Default__NeelaSnakeCuddleT_C.SessionData.Lines(4).Lines
@@ -4750,7 +4750,7 @@ msgstr "この慎ましいマーメイドが、そなたにできることはあ
 #: /Game/Dialogue/Falene/Default/FaleneDefault02.Default__FaleneDefault02_C.SessionData.Lines(1).Lines
 msgctxt ",76389D804BFE8383064F778E692DD2D9"
 msgid "The tiny little adorable nugget over there is my assistant Camilla."
-msgstr ""
+msgstr "あそこにいる、ちっちゃなちっちゃなカワイイちみっこが、ワタシの助手のカミラ。"
 
 #. Key:	76894E414F0E86A40CDEB69862E1A67C
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R01.Default__FaleneDefault01_R01_C.SessionData.Lines(1).Lines
@@ -4778,7 +4778,7 @@ msgstr "非標準体型: 遺伝的に、その派生種の標準と異なるサ�
 #: /Game/Dialogue/Falene/Default/FaleneDefault02.Default__FaleneDefault02_C.SessionData.Lines(3).Lines
 msgctxt ",76DCFBB44EA9841F910FB9BE2CBD16B7"
 msgid "Of course we make love! What else are assistants for?"
-msgstr ""
+msgstr "もちろん、ワタシたちベッドを共にするわ！ じゃなきゃ、助手は何のためにいるの？"
 
 #. Key:	76DD724248BA7178346EC59171F3BDF4
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyGreeting01.Default__RomyGreeting01_C.SessionData.LinesGrungy(5).LinesGrungy
@@ -4883,7 +4883,7 @@ msgstr "どの @MONSTER_RACE@ も虚空での幼児期を憶えていません�
 #: /Game/Dialogue/Falene/Default/FaleneHadSex02.Default__FaleneHadSex02_C.SessionData.LinesToMale(7).LinesToMale
 msgctxt ",7A3826A64216106618F8D884801BDDD1"
 msgid "That creepy golden seraphim, the one in the temple. She appeared only a few days ago, right when the avatars shut down!"
-msgstr ""
+msgstr "あの気味の悪い金色のセラフィム、神殿にいるやつよ。アイツはほんの数日前に現れて、ちょうどその時に化身像の機能が止まったの！"
 
 #. Key:	7A60BC8D497743BB08B8F9AF812EDCC7
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruGreeting01.Default__MirruGreeting01_C.SessionData.Lines(2).Lines
@@ -4932,7 +4932,7 @@ msgstr ""
 #: /Game/Dialogue/Falene/Default/FaleneHadSex01.Default__FaleneHadSex01_C.SessionData.LinesToMale(0).LinesToMale
 msgctxt ",7BA8039A45383C5B11EEA9AC428E3158"
 msgid "Ohhh @BREEDER_NAME@... you were amazing."
-msgstr ""
+msgstr "うぅぅん、@BREEDER_NAME@……アナタすごかったわ。"
 
 #. Key:	7C4054234127D8843978CD80C4B540B7
 #. SourceLocation:	/Game/Dialogue/Camilla/SexScenes/CamillaAdorableLump.Default__CamillaAdorableLump_C.SessionData.LinesToMale(1).LinesToMale
@@ -5058,7 +5058,7 @@ msgstr "あなたの尻は素晴らしく美しい、おぉぉぉぉ……私の
 #: /Game/Dialogue/Camilla/Default/CamillaHadSex02.Default__CamillaHadSex02_C.SessionData.LinesToFuta(2).LinesToFuta
 msgctxt ",7FF4B7A846AB31C139AAB39A8D7D52E6"
 msgid "Ohhh but I did!"
-msgstr ""
+msgstr "うぅぅぅ！ でもワタシ、ヤリました！"
 
 #. Key:	803D82954112367C37478B894372AB5A
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_FloatRhyme.Default__ParvatiDefault01_FloatRhyme_C.SessionData.Lines(5).Lines
@@ -5100,7 +5100,7 @@ msgstr ""
 #: /Game/Dialogue/Leylanna/Default/LeylannaHadSex01.Default__LeylannaHadSex01_C.SessionData.LinesToMale(3).LinesToMale
 msgctxt ",8178665B4810CB468AA548A496C72040"
 msgid "Bring that hard cock over here... I want to feel it inside me."
-msgstr ""
+msgstr "その固い男根をここに……わらわはそれを中で感じたいぞ。"
 
 #. Key:	81AE34CA41E9CDDCF3756EBC867EF3A5
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_NoSpiritVariant.Default__LeylannaDefault01_NoSpiritVariant_C.SessionData.LinesToFuta(0).LinesToFuta
@@ -5149,7 +5149,7 @@ msgstr ""
 #: /Game/Dialogue/Falene/Default/FaleneHadSex02.Default__FaleneHadSex02_C.SessionData.LinesToFemale(1).LinesToFemale
 msgctxt ",834C4EE14577D3D54E5F0A932C3B189B"
 msgid "Human pussy tastes just like I dreamt it would!"
-msgstr ""
+msgstr "人間のおまんこの味、まさにワタシが夢見てたとおりだった！"
 
 #. Key:	8362C8D747AF6B672FEF0CB58B2B5B0C
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R02.Default__FaleneDefault01_R02_C.SessionData.Lines(3).Lines
@@ -5163,14 +5163,14 @@ msgstr "なぜ祝福された @MONSTER_RACE@ とそうじゃない @MONSTER_RACE
 #: /Game/Dialogue/Camilla/Default/CamillaFaleneWeek.Default__CamillaFaleneWeek_C.SessionData.Lines(5).Lines
 msgctxt ",83A7F89A4658D8B1BD522891AAAC0578"
 msgid "Majority of the time, I end up stuffed in all holes."
-msgstr ""
+msgstr "たいていの場合、ワタシは穴という穴を何かでいっぱいにされて終わります。"
 
 #. Key:	83B1D0DD4F37A2E70289CEAAC491EB74
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaHadSex02.Default__CamillaHadSex02_C.SessionData.LinesToFuta(0).LinesToFuta
 #: /Game/Dialogue/Camilla/Default/CamillaHadSex02.Default__CamillaHadSex02_C.SessionData.LinesToFuta(0).LinesToFuta
 msgctxt ",83B1D0DD4F37A2E70289CEAAC491EB74"
 msgid "Wow human, you must have been desperate to give this nugget your love."
-msgstr ""
+msgstr "うわぁ、人間さん。こんなちみっこを、どうしても愛したかったんですね。"
 
 #. Key:	83C8B41F462880323A7E26B8AE678AA1
 #. SourceLocation:	/Game/Dialogue/Mirru/SexScenes/MirruSnatchT.Default__MirruSnatchT_C.SessionData.Lines(6).Lines
@@ -5219,7 +5219,7 @@ msgstr "スピリット・フォームって？"
 #: /Game/Dialogue/Falene/Default/FaleneHadSex02.Default__FaleneHadSex02_C.SessionData.LinesToFemale(9).LinesToFemale
 msgctxt ",848A1D814AE09CEFA65345AC452E9F16"
 msgid "I won't go near that temple, they will probably try and convert me, or make me inhale blue smoke."
-msgstr ""
+msgstr "ワタシはあの神殿には近づかないから。彼女たちは間違いなく、ワタシを改宗させようとするか、青い煙を吸わせようとするもの。"
 
 #. Key:	84B9634D4CF62651B1D08F9FBD40F8DD
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01.Default__FaleneDefault01_C.SessionData.Lines(2).Lines
@@ -5254,7 +5254,7 @@ msgstr "残念ながら、これは移動にしか使用できませんが。"
 #: /Game/Dialogue/Falene/Default/FaleneHadSex02.Default__FaleneHadSex02_C.SessionData.LinesToMale(2).LinesToMale
 msgctxt ",84DFF8A9465A39DD1718D28A24610EA4"
 msgid "Perhaps you would like to stick that dick in my sparkly elf pussy? Ahhh I would love that..."
-msgstr ""
+msgstr "あっ、ひょっとしてその棒をワタシのキラキラなエルフまんこに突き刺してみたい？ あぁぁぁ、ワタシそれ大好きになっちゃう……"
 
 #. Key:	84E329854997BD3064CA67922BD88726
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiGreeting01.Default__ParvatiGreeting01_C.SessionData.LinesToFemale(4).LinesToFemale
@@ -5373,7 +5373,7 @@ msgstr "おぉ……あぁ……そう！ 人間さん……おぉぉぉぉ。"
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R02.Default__FaleneDefault01_R02_C.SessionData.Lines(15).Lines
 msgctxt ",86705CF240B11C01C39F05BA7F02F512"
 msgid "Be sure to look out for needy blessed @MONSTER_RACE@, just be vigilant as you venture around the world, you can't miss them!"
-msgstr "愛に飢えてる祝福された @MONSTER_RACE@ にはかならず用心して。しっかりと油断せず、この世界を探検する。彼らは見たらすぐわかるから！"
+msgstr "愛に飢えてる祝福された @MONSTER_RACE@ にはかならず用心して。しっかりと油断せず、この世界を探検する。彼女たちは見たらすぐわかるから！"
 
 #. Key:	86818D694AB04782DD1A299E28AC5BAF
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R03.Default__FaleneDefault01_R03_C.SessionData.Lines(12).Lines
@@ -5422,7 +5422,7 @@ msgstr ""
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R03.Default__FaleneDefault01_R03_C.SessionData.Lines(9).Lines
 msgctxt ",86F7401346D43F3587BFEFAB87819829"
 msgid "Go wander around an Avatar, you will find wild @MONSTER_RACE@ roaming about aimlessly."
-msgstr "化身像の周りを歩いてみて、あてどなくふらつく野性の @MONSTER_RACE@ が見つかるわ。"
+msgstr "「化身像」の周りを歩いてみて、あてどなくふらつく野性の @MONSTER_RACE@ が見つかるわ。"
 
 #. Key:	8702885F4AD8627AC254029214EED99B
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02_R02_R01.Default__FernDefault02_R02_R01_C.SessionData.Lines(1).Lines
@@ -5464,7 +5464,7 @@ msgstr ""
 #: /Game/Dialogue/Leylanna/Default/LeylannaGreeting01.Default__LeylannaGreeting01_C.SessionData.Lines(1).Lines
 msgctxt ",87F01F0B48F45D7E461449960ED82A56"
 msgid "I am high priestess Leylanna, enlightened servant of the Goddess most high."
-msgstr "わらわは、女大祭司レイラナ。いと高き女神の、悟りを得たしもべである。"
+msgstr "わらわは、高位の女神官レイラナ。いと高き女神の、悟りを得たしもべである。"
 
 #. Key:	8800985D4901B4EF2FE2FD9B6D818E41
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_Pregnancy.Default__FaleneDefault01_Pregnancy_C.SessionData.Lines(1).Lines
@@ -5709,7 +5709,7 @@ msgstr "ヴァルワーグの体液。"
 #: /Game/Dialogue/Neela/Default/NeelaHadSex01.Default__NeelaHadSex01_C.SessionData.Lines(1).Lines
 msgctxt ",8D12D3854864E7395B64589A2754A1A5"
 msgid "I waited so long to experience the pleasure only a human could offer..."
-msgstr ""
+msgstr "私は待ちわびていたのです……人の子のみがもたらす悦びを体験することを。"
 
 #. Key:	8D19606C4C2EC6C25E3CF1A4F53B952A
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_HowToSpiritForm.Default__LeylannaDefault01_HowToSpiritForm_C.SessionData.LinesToFemale(0).LinesToFemale
@@ -5884,7 +5884,7 @@ msgstr "ドラゴン"
 #: /Game/Dialogue/Leylanna/Default/LeylannaHadSex01.Default__LeylannaHadSex01_C.SessionData.LinesToFemale(1).LinesToFemale
 msgctxt ",911090974165315ED68A81A7F5257175"
 msgid "You felt so good... we can spend hours together."
-msgstr ""
+msgstr "そなたはとても具合がよかった……我らは何時間でも共に過ごせるだろう。"
 
 #. Key:	91512E3C41CA91E3C203E3BFD899DA24
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeSlimesMade.Default__MegaSlimeSlimesMade_C.SessionData.LinesToFuta(7).LinesToFuta
@@ -5898,7 +5898,7 @@ msgstr ""
 #: /Game/Dialogue/Falene/Default/FaleneDefault02.Default__FaleneDefault02_C.SessionData.Lines(2).Lines
 msgctxt ",91BFB5AF42AF2A7DA5B8219CB5296CAC"
 msgid "..."
-msgstr ""
+msgstr "……"
 
 #. Key:	91C04C0641057656CC61A48472D8954C
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02_R03.Default__FernDefault02_R03_C.SessionData.Lines(1).Lines
@@ -6129,7 +6129,7 @@ msgstr ""
 #: /Game/Dialogue/Falene/Default/FaleneHadSex01.Default__FaleneHadSex01_C.SessionData.LinesToFemale(10).LinesToFemale
 msgctxt ",9668736F4FE45C7CD14E0C9DE8400813"
 msgid "Unlike nephnip, blue smoke destroys your mind... just look how dumb that kitsune priestess is."
-msgstr ""
+msgstr "ネフェ・ニップとは違って、青い煙は心を壊すの……あのキツネ女神官のフヌケっぷりをごらんなさい。"
 
 #. Key:	96824C894B9B4241DBDFEEB68C760057
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(30).LinesToMale
@@ -6185,7 +6185,7 @@ msgstr "すばしっこい"
 #: /Game/Dialogue/Falene/Default/FaleneHadSex02.Default__FaleneHadSex02_C.SessionData.LinesToMale(0).LinesToMale
 msgctxt ",9747C3F24F645D54EC51D79FAFB2FF85"
 msgid "Ohhh @BREEDER_NAME@... you were amazing."
-msgstr ""
+msgstr "うぅぅん、@BREEDER_NAME@……アナタすごかったわ。"
 
 #. Key:	975E8DE7431AB39F97281DB7BD7DE314
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_Teach.Default__ParvatiDefault01_Teach_C.SessionData.LinesToMale(0).LinesToMale
@@ -6255,7 +6255,7 @@ msgstr "えきたいぃぃをとる、じかんんんん？"
 #: /Game/Dialogue/Parvati/Default/ParvatiHadSex01.Default__ParvatiHadSex01_C.SessionData.Lines(1).Lines
 msgctxt ",982CC755420F84E3E4F0E5A5452A5A48"
 msgid "I want to make love with you, I will not lie."
-msgstr ""
+msgstr "愛を営みたい、そなたとともに。我は嘘はつかん。"
 
 #. Key:	985E4BA14797DC7FF94FF4974E66471A
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R06.Default__FaleneDefault01_R06_C.SessionData.Lines(6).Lines
@@ -6311,7 +6311,7 @@ msgstr "えっ！ オ、オホン……"
 #: /Game/Dialogue/Camilla/Default/CamillaHadSex01.Default__CamillaHadSex01_C.SessionData.LinesToFemale(0).LinesToFemale
 msgctxt ",9A872CD1493BC95421F01C946AF0F7E4"
 msgid "Wow human, you must have been desperate to give this nugget your love."
-msgstr ""
+msgstr "うわぁ、人間さん。こんなちみっこを、どうしても愛したかったんですね。"
 
 #. Key:	9A9EDF3448107C0855BB35BBD9D849F5
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(23).LinesToFemale
@@ -6395,7 +6395,7 @@ msgstr "一番早い手段は、@MONSTER_RACE@ を押し倒してセックスす
 #: /Game/Dialogue/Falene/Default/FaleneHadSex02.Default__FaleneHadSex02_C.SessionData.LinesToFemale(7).LinesToFemale
 msgctxt ",9C575336405F3192635160A8CED54524"
 msgid "That creepy golden seraphim, the one in the temple. She appeared only a few days ago, right when the avatars shut down!"
-msgstr ""
+msgstr "あの気味の悪い金色のセラフィム、神殿にいるやつよ。アイツはほんの数日前に現れて、ちょうどその時に化身像の機能が止まったの！"
 
 #. Key:	9D593DC94FAA9CCF2CB35CBA7EA06A73
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_YourVoid.Default__NeelaDefault01_YourVoid_C.SessionData.LinesToMale(2).LinesToMale
@@ -6444,7 +6444,7 @@ msgstr "うぅぅぅ！ どんなに待ちわびたか、ワタシの柔らか�
 #: /Game/Dialogue/Falene/Default/FaleneHadSex01.Default__FaleneHadSex01_C.SessionData.LinesToFuta(3).LinesToFuta
 msgctxt ",9E8C52C446FF788D61D6B98D9189D88D"
 msgid "Maybe between my fat ass cheeks?"
-msgstr ""
+msgstr "もしかして、ワタシのむっちりしたお尻の間に挟みたい？"
 
 #. Key:	9ECA418E4EC2E9617CD48B82C43CB5FA
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(2 - Value).TraitIcons.HelpText
@@ -6486,7 +6486,7 @@ msgstr ""
 #: /Game/Dialogue/Kybele/Default/KybeleRideYou.Default__KybeleRideYou_C.SessionData.Lines(0).Lines
 msgctxt ",9F2138DE4A863ADA8B08099118418A44"
 msgid "..."
-msgstr ""
+msgstr "……"
 
 #. Key:	9F25BEB847378BA942933C8A503B4F1A
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(22 - Value).TraitIcons.HelpText
@@ -6528,7 +6528,7 @@ msgstr "女神に抱かれた永劫の時間、それが肉体の型を伝えし
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R06.Default__FaleneDefault01_R06_C.SessionData.Lines(1).Lines
 msgctxt ",9FAD5CA34B7A4B192E688C9C72A825B3"
 msgid "According to the high priestess Leylana at the temple, the Goddess and her angels descended from the heavens."
-msgstr "神殿の女大祭司レイラナによれば、女神とその天使たちが天上から降り立った。"
+msgstr "神殿の高位女神官レイラナによれば、女神とその天使たちが天上から降り立った。"
 
 #. Key:	9FE7AADC4372F0B32E971C838E6554EA
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(20).LinesToFemale
@@ -6563,7 +6563,7 @@ msgstr "あっ、ワタシったらバカね、まだ自己紹介してないじ
 #: /Game/Dialogue/Leylanna/Default/LeylannaOldTempleDungeon.Default__LeylannaOldTempleDungeon_C.SessionData.Lines(3).Lines
 msgctxt ",A084B03140D9C320BD31DCA76ED4873F"
 msgid "There's something under this temple?"
-msgstr ""
+msgstr "この神殿の下に何かあるのか？"
 
 #. Key:	A0B0E60C4AD4856B54C5298236CC5BC3
 #. SourceLocation:	/Game/Ranch/Upgrades/MuttHut.Default__MuttHut_C.Upgrade.DisplayName
@@ -6661,7 +6661,7 @@ msgstr "ごしゅずんのおっぱい、とってもやわらか！ ファー�
 #: /Game/Dialogue/Falene/Default/FaleneHadSex02.Default__FaleneHadSex02_C.SessionData.LinesToFuta(7).LinesToFuta
 msgctxt ",A3D580AF4E8C60278837D88FBEAE0D04"
 msgid "That creepy golden seraphim, the one in the temple. She appeared only a few days ago, right when the avatars shut down!"
-msgstr ""
+msgstr "あの気味の悪い金色のセラフィム、神殿にいるやつよ。アイツはほんの数日前に現れて、ちょうどその時に化身像の機能が止まったの！"
 
 #. Key:	A40264BD4BB3E658212ECE987CC24B4A
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_Teach.Default__ParvatiDefault01_Teach_C.SessionData.Lines(2).Lines
@@ -6682,7 +6682,7 @@ msgstr ""
 #: /Game/Dialogue/Falene/Default/FaleneHadSex02.Default__FaleneHadSex02_C.SessionData.LinesToMale(6).LinesToMale
 msgctxt ",A42E5E014D8A3F5337BA4A813A016639"
 msgid "Actually, fat ass reminds me of something!"
-msgstr ""
+msgstr "実を言うと、むっちりしたお尻はワタシにちょっと思い起こさせるのね！"
 
 #. Key:	A4367C3445DA16F7A5FC4584F73685FA
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01.Default__NeelaDefault01_C.SessionData.Lines(2).Lines
@@ -6717,7 +6717,7 @@ msgstr "ボヴァウルは、快楽の牧野の柔らかい草の中で眠って
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R02.Default__FaleneDefault01_R02_C.SessionData.Lines(0).Lines
 msgctxt ",A6D19C3141AF406B6318CA8CB0A72613"
 msgid "That's what I am!"
-msgstr "ワタシよ！"
+msgstr "つまり、ワタシよ！"
 
 #. Key:	A6DD5AA2419F165755885E8ED44BB09B
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruGreeting01.Default__MirruGreeting01_C.SessionData.Lines(1).Lines
@@ -6773,7 +6773,7 @@ msgstr ""
 #: /Game/Dialogue/Falene/Default/FaleneHadSex02.Default__FaleneHadSex02_C.SessionData.LinesToFuta(0).LinesToFuta
 msgctxt ",A815C0894DC451BCCD27779E4CDA3635"
 msgid "Ohhh @BREEDER_NAME@... you were amazing."
-msgstr ""
+msgstr "うぅぅん、@BREEDER_NAME@……アナタすごかったわ。"
 
 #. Key:	A83161F4465E00C6CE9D718D3E76EDC6
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_RL.Default__FaleneDefault01_RL_C.ResponseData(6).ResponseData.BreederPrompt
@@ -7018,7 +7018,7 @@ msgstr "そんな目でワタシを見ないで！！"
 #: /Game/Dialogue/Fern/DefaultP3/FernDefault03_R01.Default__FernDefault03_R01_C.SessionData.Lines(0).Lines
 msgctxt ",AF56D3A1427EFDD2D086F09E5534EC68"
 msgid "You are the lord of this soil--or owner of Homestead in the common tongue."
-msgstr "あなたは、この土の主――共通語で言えば、牧場屋敷の所有者ですから。"
+msgstr "あなたは、この土の主――平易な言葉で表すなら、牧場屋敷の所有者ですから。"
 
 #. Key:	AF5E23FC4ED6AD9A92E6E98CE8F2080F
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeSad_RL.Default__MegaSlimeSad_RL_C.ResponseData(0).ResponseData.BreederPrompt
@@ -7032,7 +7032,7 @@ msgstr ""
 #: /Game/Dialogue/Falene/Default/FaleneHadSex01.Default__FaleneHadSex01_C.SessionData.LinesToFuta(2).LinesToFuta
 msgctxt ",AF6126694453EEB0A7AA7787649EC605"
 msgid "Perhaps you would like to stick that dick in my sparkly elf pussy? Ahhh I would love that..."
-msgstr ""
+msgstr "あっ、ひょっとしてその棒をワタシのキラキラなエルフまんこに突き刺してみたい？ あぁぁぁ、ワタシそれ大好きになっちゃう……"
 
 #. Key:	AFBF754C422E5E00DF8BB7A37B956DFB
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(10 - Value).TraitIcons.HelpText
@@ -7060,7 +7060,7 @@ msgstr "人間的"
 #: /Game/Dialogue/Camilla/Default/CamillaHadSex02.Default__CamillaHadSex02_C.SessionData.LinesToMale(2).LinesToMale
 msgctxt ",B100F65E4495A60CD1761FA5FA43CBEE"
 msgid "Ohhh but I did!"
-msgstr ""
+msgstr "うぅぅぅ！ でもワタシ、ヤリました！"
 
 #. Key:	B11026CD462D3D9C5256F4A490A45911
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R07.Default__FaleneDefault01_R07_C.SessionData.LinesToFuta(1).LinesToFuta
@@ -7123,7 +7123,7 @@ msgstr ""
 #: /Game/Dialogue/Leylanna/Default/LeylannaHadSex01.Default__LeylannaHadSex01_C.SessionData.LinesToFemale(2).LinesToFemale
 msgctxt ",B1E706104468BBBC8C481498B5352B8D"
 msgid "When we please each other, the Goddess shares in that pleasure."
-msgstr ""
+msgstr "我らが互いを悦ばせる時、女神もまた悦びを分かち合うのだ。"
 
 #. Key:	B20F5D9040267E77436A9B94B5F68150
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(30 - Value).TraitIcons.DisplayName
@@ -7221,7 +7221,7 @@ msgstr "あと、アナタは「プレイ」の相手になるもっともっと
 #: /Game/Dialogue/Parvati/Default/ParvatiHadSex01.Default__ParvatiHadSex01_C.SessionData.Lines(2).Lines
 msgctxt ",B40DA93F4D87A08B36AB2198B2D523AF"
 msgid "We can learn the origins of the universe."
-msgstr ""
+msgstr "我らは学べよう、宇宙の成り立ち。"
 
 #. Key:	B41CF0334A59DC837984179B995A16B2
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_FloatRhyme.Default__ParvatiDefault01_FloatRhyme_C.SessionData.Lines(0).Lines
@@ -7277,7 +7277,7 @@ msgstr "アンタをアタシのミルク入れに挟みたいって言ったの
 #: /Game/Dialogue/Falene/Default/FaleneHadSex01.Default__FaleneHadSex01_C.SessionData.LinesToFemale(5).LinesToFemale
 msgctxt ",B5E173FA45294C4DE256EF836668F092"
 msgid "Both?"
-msgstr ""
+msgstr "両方？"
 
 #. Key:	B601DE914360E4E4962B9BAE17334C67
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryRaiseTraitLvl_Decline.Default__EmissaryRaiseTraitLvl_Decline_C.SessionData.Lines(0).Lines
@@ -7333,7 +7333,7 @@ msgstr "ワタシの……「実験」は、ワタシたちの人間の部分は
 #: /Game/Dialogue/Camilla/Default/CamillaHadSex02.Default__CamillaHadSex02_C.SessionData.LinesToFemale(0).LinesToFemale
 msgctxt ",B7A8AD6E44A41AB54281548D1A882FFC"
 msgid "Wow human, you must have been desperate to give this nugget your love."
-msgstr ""
+msgstr "うわぁ、人間さん。こんなちみっこを、どうしても愛したかったんですね。"
 
 #. Key:	B7AB851641C9ABEE4A178B9DFFD50B0B
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(33 - Value).TraitIcons.DisplayName
@@ -7354,7 +7354,7 @@ msgstr "大柄な攻め手が、筋力で受け手を持ち上げて背後から
 #: /Game/Dialogue/Leylanna/Default/LeylannaHadSex01.Default__LeylannaHadSex01_C.SessionData.LinesToFemale(0).LinesToFemale
 msgctxt ",B7C8EAFE428A554328A015A9F572AEDC"
 msgid "Make love with me again @BREEDER_NAME@, let us writhe in pleasure before Her gaze."
-msgstr ""
+msgstr "今一度、わらわと愛し合おうぞ@BREEDER_NAME@。女神の御前で、快楽によがり狂おうではないか。"
 
 #. Key:	B7DDB984480E5280CB46B69238C0654E
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(25 - Value).TraitIcons.HelpText
@@ -7424,7 +7424,7 @@ msgstr ""
 #: /Game/Dialogue/Camilla/Default/CamillaHadSex02.Default__CamillaHadSex02_C.SessionData.LinesToFuta(1).LinesToFuta
 msgctxt ",B8C3F96E4BB231CDD5684BA134FF69CB"
 msgid "Your cock was so big, I didn't think I could take all of it."
-msgstr ""
+msgstr "アナタのチンポはとても大きくて、全部入るなんて思わなかったんです。"
 
 #. Key:	B8D3474E436959F3B7C140BFE42CF3C0
 #. SourceLocation:	/Game/Breeding/Positions/Doggy.Default__Doggy_C.SessionData.Description
@@ -7452,7 +7452,7 @@ msgstr "存分に愉しむのです、人間よ。我、汝のしもべである
 #: /Game/Dialogue/Falene/Default/FaleneHadSex02.Default__FaleneHadSex02_C.SessionData.LinesToFemale(3).LinesToFemale
 msgctxt ",B9B15C6342CD51A5D9F3B6B7E55E0972"
 msgid "Maybe my nipples?"
-msgstr ""
+msgstr "もしかして、ワタシの乳首？"
 
 #. Key:	B9F630DD484439D0C2B6EFBC3D01D2C5
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_FutaBalls.Default__FaleneDefault01_FutaBalls_C.SessionData.Lines(1).Lines
@@ -7494,7 +7494,7 @@ msgstr "女神は虚空からこの宇宙を創り出され、創造をおこな
 #: /Game/Dialogue/Falene/Default/FaleneHadSex02.Default__FaleneHadSex02_C.SessionData.LinesToFuta(1).LinesToFuta
 msgctxt ",BAF7A6F047605C4E52EC699821D157F8"
 msgid "Human cum tastes just like I dreamt it would!"
-msgstr ""
+msgstr "人間の精液の味、まさにワタシが夢見てたとおりだった！"
 
 #. Key:	BB0E7B2D4F49CAAB00A884BE87ED9F44
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieGreeting01.Default__CassieGreeting01_C.SessionData.Lines(7).Lines
@@ -7641,7 +7641,7 @@ msgstr "ニーラが見ていないときに、ワタシをあのプッシー・
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_RL.Default__CamillaDefault01_RL_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",BEDA7D94498AC1A3091C29BABE2C94F7"
 msgid "Falene said you could tell me how to catch @MONSTER_RACE@?"
-msgstr ""
+msgstr "あなたが @MONSTER_RACE@ の捕まえ方を教えてくれるって、ファリーンが言ってたんだけど？"
 
 #. Key:	BF4DCF6B4CBF1E3FAE0D139E494C7673
 #. SourceLocation:	/Game/Characters/Procedural/Variants/Demon/Harvest/DemonHarvest.Default__DemonHarvest_C.Harvest.RaceName
@@ -7851,14 +7851,14 @@ msgstr ""
 #: /Game/Dialogue/Camilla/Default/CamillaHadSex02.Default__CamillaHadSex02_C.SessionData.LinesToFemale(2).LinesToFemale
 msgctxt ",C55370A04CAE38FD1D15A9AC46E99FBD"
 msgid "If you... uh... ever get desperate again, you know where to find me!"
-msgstr ""
+msgstr "もしアナタが……その……またどうしてもヤリたくなったら、いつでも来てくださいね！"
 
 #. Key:	C5A392E248451A7506C787B6B7724091
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaOldTempleDungeon1.Default__LeylannaOldTempleDungeon1_C.SessionData.Lines(1).Lines
 #: /Game/Dialogue/Leylanna/Default/LeylannaOldTempleDungeon1.Default__LeylannaOldTempleDungeon1_C.SessionData.Lines(1).Lines
 msgctxt ",C5A392E248451A7506C787B6B7724091"
 msgid "Ahhhh..."
-msgstr ""
+msgstr "ふあぁぁぁ……"
 
 #. Key:	C5E724D9440EB6AC1E01458A6325FC39
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01_R02.Default__FernDefault01_R02_C.SessionData.Lines(1).Lines
@@ -8040,7 +8040,7 @@ msgstr "当然、彼女が現れるやいなや、ふたりで愛し合った…
 #: /Game/Dialogue/Camilla/Default/CamillaFaleneWeek.Default__CamillaFaleneWeek_C.SessionData.Lines(4).Lines
 msgctxt ",CCBDEE9E4366EC8D550F4DB7D8C546F8"
 msgid "Then I pose seductively in front whatever she brought back, and she records how it reacts."
-msgstr ""
+msgstr "それから、彼女が持ってきたモノが何であろうと、ワタシはその前で魅惑的なポーズを取り、それがどんな反応を見せたかファリーンが記録します。"
 
 #. Key:	CCFE0CB04C0DD4BC550FE6AF03BFABB3
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R05.Default__FaleneDefault01_R05_C.SessionData.Lines(1).Lines
@@ -8131,7 +8131,7 @@ msgstr ""
 #: /Game/Dialogue/Falene/Default/FaleneHadSex01.Default__FaleneHadSex01_C.SessionData.LinesToFemale(6).LinesToFemale
 msgctxt ",CF30D7124F42031F52DA0DA6849D4457"
 msgid "Actually, nipples reminds me of something!"
-msgstr ""
+msgstr "実を言うと、乳首はワタシにちょっと思い起こさせるのね！"
 
 #. Key:	CFA095544A3BB18577988A9489DE24CC
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruGreeting01.Default__MirruGreeting01_C.SessionData.Lines(0).Lines
@@ -8145,7 +8145,7 @@ msgstr "ほう。それでは、まことだったのだな。いやはや、人
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R03.Default__FaleneDefault01_R03_C.SessionData.Lines(3).Lines
 msgctxt ",CFB4BE294E1D3D81CE72719BCB08B1C7"
 msgid "You know, the floating busty winged statues with the sparkles... I will admit I get all tingly inside around them too!"
-msgstr ""
+msgstr "えーと、キラキラ光りながら浮かぶ翼の生えた巨乳像よ……ワタシもあの像の周りで、胸の奥がゾクゾクしたのを認めなければならないわ！"
 
 #. Key:	CFDBD54945D68B87A04B7B9DDE06F521
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R07.Default__CamillaDefault01_R07_C.SessionData.LinesToMale(1).LinesToMale
@@ -8159,7 +8159,7 @@ msgstr "あのデカパイはワタシの身体よりもデカイ！ なぜこ�
 #: /Game/Dialogue/Fern/DefaultP2/FernHadSex02.Default__FernHadSex02_C.SessionData.Lines(1).Lines
 msgctxt ",D016E93F4A87C5706D65B1A5E101B0C6"
 msgid "More! More!"
-msgstr ""
+msgstr "もっと！ もっと！"
 
 #. Key:	D03FE11A4B475C76629C24AF0C738457
 #. SourceLocation:	/Game/Ranch/Upgrades/FormurianPond.Default__FormurianPond_C.Upgrade.DisplayName
@@ -8264,7 +8264,7 @@ msgstr "ごしゅずん、とりたくないとき……ファーンがとる。
 #: /Game/Dialogue/Falene/Default/FaleneHadSex01.Default__FaleneHadSex01_C.SessionData.LinesToFemale(4).LinesToFemale
 msgctxt ",D2C5AD664FCA892932A70188B37B1378"
 msgid "..."
-msgstr ""
+msgstr "……"
 
 #. Key:	D2DF40244F8B96F91F4101A5AD5F08AA
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaGreeting01.Default__CamillaGreeting01_C.SessionData.Lines(1).Lines
@@ -8285,14 +8285,14 @@ msgstr ""
 #: /Game/Dialogue/Camilla/Default/CamillaDefault02.Default__CamillaDefault02_C.SessionData.Lines(0).Lines
 msgctxt ",D320A28645DC907082F6169F08223AA5"
 msgid "Oh great Falene is back."
-msgstr ""
+msgstr "あぁ、偉大なるファリーンが帰ってきました。"
 
 #. Key:	D3894503452866E09196D4B214C692A7
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneHadSex02.Default__FaleneHadSex02_C.SessionData.LinesToFuta(2).LinesToFuta
 #: /Game/Dialogue/Falene/Default/FaleneHadSex02.Default__FaleneHadSex02_C.SessionData.LinesToFuta(2).LinesToFuta
 msgctxt ",D3894503452866E09196D4B214C692A7"
 msgid "Perhaps you would like to stick that dick in my sparkly elf pussy? Ahhh I would love that..."
-msgstr ""
+msgstr "あっ、ひょっとしてその棒をワタシのキラキラなエルフまんこに突き刺してみたい？ あぁぁぁ、ワタシそれ大好きになっちゃう……"
 
 #. Key:	D395A99C4C2FAC4029FBE0A0AACFDE16
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_Leylanna.Default__EmissaryDefault01_Leylanna_C.SessionData.Lines(3).Lines
@@ -8782,7 +8782,7 @@ msgstr ""
 #: /Game/Dialogue/Leylanna/Default/LeylannaDefault01.Default__LeylannaDefault01_C.SessionData.Lines(0).Lines
 msgctxt ",DCBFA42D4FD9520CA7F586A84DCF3921"
 msgid "Make love with me @BREEDER_NAME@, let us writhe in pleasure before Her gaze."
-msgstr "わらわと愛し合おうぞ @BREEDER_NAME@、女神の御前で、快楽によがり狂おうではないか。"
+msgstr "わらわと愛し合おうぞ @BREEDER_NAME@。女神の御前で、快楽によがり狂おうではないか。"
 
 #. Key:	DCFCF2FF45351BEF9BAEACA9BE408F9A
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R03.Default__FaleneDefault01_R03_C.SessionData.Lines(14).Lines
@@ -8803,7 +8803,7 @@ msgstr "あの美しい金色の天使は、そなたがこの地に来る数日
 #: /Game/Dialogue/Falene/Default/FaleneHadSex02.Default__FaleneHadSex02_C.SessionData.LinesToFuta(4).LinesToFuta
 msgctxt ",DD57E567449A7EDFFEC655AB1A2C7BEF"
 msgid "..."
-msgstr ""
+msgstr "……"
 
 #. Key:	DD7ECB9E437DDF8975868AA3934E909D
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernGreeting02.Default__FernGreeting02_C.SessionData.LinesToFuta(1).LinesToFuta
@@ -8901,7 +8901,7 @@ msgstr "ネフェリムの厩舎"
 #: /Game/Dialogue/Falene/Default/FaleneHadSex02.Default__FaleneHadSex02_C.SessionData.LinesToMale(8).LinesToMale
 msgctxt ",DFCC51F841479824213A33A550C79B2C"
 msgid "She must have something to do with it, you should go and talk to her."
-msgstr ""
+msgstr "彼女はこの件と何か関係がある、アナタは行って話すべきね。"
 
 #. Key:	E01ADC7A41DCC8C65CA87E9C9561359D
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernDefault03_R02.Default__FernDefault03_R02_C.SessionData.Lines(0).Lines
@@ -9055,7 +9055,7 @@ msgstr "あああああ、アナタの指は魔法みたい、もっと深く！
 #: /Game/Dialogue/Falene/Default/FaleneHadSex02.Default__FaleneHadSex02_C.SessionData.LinesToFemale(6).LinesToFemale
 msgctxt ",E2B335724D66DF08B03AD893D0B2A5D3"
 msgid "Actually, nipples reminds me of something!"
-msgstr ""
+msgstr "実を言うと、乳首はワタシにちょっと思い起こさせるのね！"
 
 #. Key:	E2D78DC6488712103CF0A59E6DE95E47
 #. SourceLocation:	/Game/Dialogue/AmberMae/SexScenes/AmberMilkyF.Default__AmberMilkyF_C.SessionData.Lines(1).Lines
@@ -9118,7 +9118,7 @@ msgstr "私の感覚は、あなたの欲望を見抜きます、@BREEDER_NAME@�
 #: /Game/Dialogue/Camilla/Default/CamillaFaleneWeek.Default__CamillaFaleneWeek_C.SessionData.Lines(0).Lines
 msgctxt ",E4AA6F334E8152CCB55879A1FD73219D"
 msgid "Every week she embarks on a \"field study\"."
-msgstr ""
+msgstr "ファリーンは毎週、「実地調査」に繰り出します。"
 
 #. Key:	E4B026D641AF98C38A86DC827DC789C9
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeHowLong.Default__MegaSlimeHowLong_C.SessionData.Lines(0).Lines
@@ -9153,7 +9153,7 @@ msgstr "生まれた子らは強き不死の姿を取り戻し、そして女神
 #: /Game/Dialogue/Falene/Default/FaleneHadSex02.Default__FaleneHadSex02_C.SessionData.LinesToFuta(5).LinesToFuta
 msgctxt ",E58904CF4D2F10CFFCED158FABC8E071"
 msgid "Both?"
-msgstr ""
+msgstr "両方？"
 
 #. Key:	E594716B40413B6747D21BA87B26EE43
 #. SourceLocation:	/Game/Breeding/Positions/Test4.Default__Test4_C.SessionData.PositionName
@@ -9272,7 +9272,7 @@ msgstr ""
 #: /Game/Dialogue/Falene/Default/FaleneHadSex02.Default__FaleneHadSex02_C.SessionData.LinesToFuta(10).LinesToFuta
 msgctxt ",E88BCECF457FF23798DEA8BEB7B2FB67"
 msgid "Unlike nephnip, blue smoke destroys your mind... just look how dumb that kitsune priestess is."
-msgstr ""
+msgstr "ネフェ・ニップとは違って、青い煙は心を壊すの……あのキツネ女神官のフヌケっぷりをごらんなさい。"
 
 #. Key:	E89A6BB74D15111C98632A99F45745CC
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(17 - Value).TraitIcons.DisplayName
@@ -9293,7 +9293,7 @@ msgstr "ごしゅずんが、ごしゅずんのえきたい、のませてくれ
 #: /Game/Dialogue/Camilla/Default/CamillaDefault02.Default__CamillaDefault02_C.SessionData.Lines(3).Lines
 msgctxt ",E8E336B64B994547FA9BF2A5CFD5F9EE"
 msgid "Yeah... one time she brought a leech in here and it swallowed me whole."
-msgstr ""
+msgstr "そうなんですよ……一度ここにヒルを持ってきたことがあって、そいつはワタシを丸ごと飲み込んだんです。"
 
 #. Key:	E91EF4164FCD12832A52B095A8557B4A
 #. SourceLocation:	/Game/World/Overworld.Overworld:PersistentLevel.DragonHoard.ManageActionMessage
@@ -9461,7 +9461,7 @@ msgstr "そなたは、女神の恵みが必要になる。"
 #: /Game/Dialogue/Falene/Default/FaleneDefault02.Default__FaleneDefault02_C.SessionData.Lines(0).Lines
 msgctxt ",EDC3705644F1B11509FCD4A1CD88991D"
 msgid "This is the Alchemist Guild! YAY!!!"
-msgstr ""
+msgstr "ここは錬金術師ギルド！ いぇい！！！"
 
 #. Key:	EDFEC0864067F06F1A5A1C9F3501DE00
 #. SourceLocation:	/Game/Dialogue/Fern/SexScenes/FernCum_01.Default__FernCum_01_C.SessionData.Lines(2).Lines
@@ -9552,14 +9552,14 @@ msgstr "1秒ごとにどんどん濡れていく……"
 #: /Game/Dialogue/Camilla/Default/CamillaHadSex01.Default__CamillaHadSex01_C.SessionData.LinesToFuta(2).LinesToFuta
 msgctxt ",F0AE51CA47FD221A60043B81E2DB05FB"
 msgid "Ohhh but I did!"
-msgstr ""
+msgstr "うぅぅぅ！ でもワタシ、ヤリました！"
 
 #. Key:	F12F82174560F4F28E10D3A06B282D0A
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R02.Default__CamillaDefault01_R02_C.SessionData.Lines(0).Lines
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_R02.Default__CamillaDefault01_R02_C.SessionData.Lines(0).Lines
 msgctxt ",F12F82174560F4F28E10D3A06B282D0A"
 msgid "Different @MONSTER_RACE@ can be found in various places but they're generally around the Avatars of the Goddess. That's what those statues floating in the sky are called."
-msgstr "様々な @MONSTER_RACE@ が各地で見つけられますが、彼らは通常、女神の化身像の周辺にいます。それが、空に浮かんでいるあれらの像の呼び名です。"
+msgstr "様々な @MONSTER_RACE@ が各地で見つけられますが、彼らは通常、「女神の化身像」の周辺にいます。それが、空に浮かんでいるあれらの像の呼び名です。"
 
 #. Key:	F13E7CAC4E86FD0C4B9F639D0F536883
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R07.Default__CamillaDefault01_R07_C.SessionData.LinesToMale(0).LinesToMale
@@ -9594,7 +9594,7 @@ msgstr "スモール（S）: 身長およそ 1.5 m。"
 #: /Game/Dialogue/Fern/DefaultP3/FernHadSex03.Default__FernHadSex03_C.SessionData.LinesToFemale(2).LinesToFemale
 msgctxt ",F1E5410345C530DA657424BD124E30D9"
 msgid "You squirted a ton in here, how fun!"
-msgstr ""
+msgstr "この中でビショビショに濡れてましたね、気持ち良さそうでした！"
 
 #. Key:	F1EF1BEA4E4AF008C65539ADC6740F61
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01_RL_M.Default__FernDefault01_RL_M_C.ResponseData(0).ResponseData.BreederPrompt
@@ -9678,7 +9678,7 @@ msgstr "オスのヴァルワーグを捕まえたら、わらわのところに
 #: /Game/Dialogue/Leylanna/Default/LeylannaDefault01_SmokeRL.Default__LeylannaDefault01_SmokeRL_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",F4CADE7A441CE6B749B76B9F7EC26371"
 msgid "So it makes you high?"
-msgstr "それじゃあ、あなたはその煙でキマってるの？"
+msgstr "それじゃあ、あなたはその煙でハイになってるの？"
 
 #. Key:	F51347C04C05116D4AD8F7A3C51C16BC
 #. SourceLocation:	/Game/World/Events/EM_VoidSigil.Default__EM_VoidSigil_C.ActivateMessage
@@ -9720,14 +9720,14 @@ msgstr "我らの未来は、多くの性なる出会いを内包すると、精
 #: /Game/Dialogue/Falene/Default/FaleneHadSex02.Default__FaleneHadSex02_C.SessionData.LinesToFemale(4).LinesToFemale
 msgctxt ",F601B9D843073A2F4CF849B9B8220AB5"
 msgid "..."
-msgstr ""
+msgstr "……"
 
 #. Key:	F663FBE34DA59CFD817C9DB73496DD0F
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneHadSex02.Default__FaleneHadSex02_C.SessionData.LinesToFemale(2).LinesToFemale
 #: /Game/Dialogue/Falene/Default/FaleneHadSex02.Default__FaleneHadSex02_C.SessionData.LinesToFemale(2).LinesToFemale
 msgctxt ",F663FBE34DA59CFD817C9DB73496DD0F"
 msgid "Perhaps you would like a taste of my sparkly elf pussy?"
-msgstr ""
+msgstr "あっ、ひょっとしてワタシのキラキラなエルフまんこを味わってみたい？"
 
 #. Key:	F685E190400D71BAA030AE8630162626
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernGreeting03.Default__FernGreeting03_C.SessionData.LinesToFuta(3).LinesToFuta
@@ -9762,7 +9762,7 @@ msgstr "@TRAIT_LVL_COST@ で足りるでしょう。"
 #: /Game/Dialogue/Falene/Default/FaleneHadSex02.Default__FaleneHadSex02_C.SessionData.LinesToFemale(10).LinesToFemale
 msgctxt ",F71992D949D7B1147BBBDAA3248D49ED"
 msgid "Unlike nephnip, blue smoke destroys your mind... just look how dumb that kitsune priestess is."
-msgstr ""
+msgstr "ネフェ・ニップとは違って、青い煙は心を壊すの……あのキツネ女神官のフヌケっぷりをごらんなさい。"
 
 #. Key:	F74061254D2D2A0904956FA983C624F3
 #. SourceLocation:	/Game/Dialogue/Falene/SexScenes/FaleneBlowJob.Default__FaleneBlowJob_C.SessionData.LinesToMale(0).LinesToMale
@@ -9951,7 +9951,7 @@ msgstr "変わったね！"
 #: /Game/Dialogue/Falene/Default/FaleneHadSex01.Default__FaleneHadSex01_C.SessionData.LinesToFemale(0).LinesToFemale
 msgctxt ",FAB1F6F548473C3126B60F9981FBA341"
 msgid "Ohhh @BREEDER_NAME@... you were amazing."
-msgstr ""
+msgstr "うぅぅん、@BREEDER_NAME@……アナタすごかったわ。"
 
 #. Key:	FAC3B1AA48B55AC22C81BABA4025A329
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_TheVoid.Default__NeelaDefault01_TheVoid_C.SessionData.Lines(3).Lines
@@ -10000,7 +10000,7 @@ msgstr "はぁぁ……とてもいいぞ！ 果ててしまいそうだ。"
 #: /Game/Dialogue/AmberMae/Default/AmberMaeGreeting01.Default__AmberMaeGreeting01_C.SessionData.Lines(6).Lines
 msgctxt ",FB8D2D144CB9249F47237B94F66E71F1"
 msgid "Why I drink it and use it to make magic treats of course! I ain't a wee lass mind you--I drink lots o' the stuff! Also, me treats are famous world wide!"
-msgstr ""
+msgstr "そりゃ、飲んだり魔法のお菓子作るのに使ったりしょ！ なにせ、アタシはこまい娘っ子でないから――たっくさん飲むんだわ！ それに、アタシのお菓子は世界的に有名なのさ！"
 
 #. Key:	FBA6175C45D9F4E3E3CD7F85021561C6
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_Pregnancy.Default__FaleneDefault01_Pregnancy_C.SessionData.Lines(0).Lines
@@ -10028,7 +10028,7 @@ msgstr ""
 #: /Game/Dialogue/Camilla/Default/CamillaHadSex02.Default__CamillaHadSex02_C.SessionData.LinesToMale(0).LinesToMale
 msgctxt ",FBF536C949746784E2045981A88739F6"
 msgid "Wow human, you must have been desperate to give this nugget your love."
-msgstr ""
+msgstr "うわぁ、人間さん。こんなちみっこを、どうしても愛したかったんですね。"
 
 #. Key:	FC2E4BC244CE7A4471B402A207DCB5C4
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernDefault03.Default__FernDefault03_C.SessionData.LinesToFuta(0).LinesToFuta
@@ -10063,7 +10063,7 @@ msgstr "そう、それは麗しく響く、人間の欲望の音楽。あぁぁ
 #: /Game/Dialogue/Falene/Default/FaleneHadSex02.Default__FaleneHadSex02_C.SessionData.LinesToFemale(5).LinesToFemale
 msgctxt ",FD1602354C18BF82267D73A243D3F87C"
 msgid "Both?"
-msgstr ""
+msgstr "両方？"
 
 #. Key:	FD257CB04C6B3AB420244298D2C33047
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(14 - Value).TraitIcons.DisplayName
@@ -10105,14 +10105,14 @@ msgstr "喘ぐ岩山"
 #: /Game/Dialogue/Neela/Default/NeelaDefault01_YourVoid_RL.Default__NeelaDefault01_YourVoid_RL_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",FD905EC14D8B8AC5E3D8D28AB7280C39"
 msgid "Experience this human!"
-msgstr ""
+msgstr "この人間のモノを味わいなさい！"
 
 #. Key:	FD97743F403A5A22B455858D2308F707
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneHadSex02.Default__FaleneHadSex02_C.SessionData.LinesToMale(5).LinesToMale
 #: /Game/Dialogue/Falene/Default/FaleneHadSex02.Default__FaleneHadSex02_C.SessionData.LinesToMale(5).LinesToMale
 msgctxt ",FD97743F403A5A22B455858D2308F707"
 msgid "Both?"
-msgstr ""
+msgstr "両方？"
 
 #. Key:	FD996BF544296A6A4A54CE82ABF12183
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernGreeting02.Default__FernGreeting02_C.SessionData.LinesToFuta(2).LinesToFuta
@@ -10126,7 +10126,7 @@ msgstr "わたしは成長するアルラウネ、ひょっとすると、液体
 #: /Game/Dialogue/Camilla/Default/CamillaDefault02.Default__CamillaDefault02_C.SessionData.Lines(4).Lines
 msgctxt ",FDB79BD24E2E79AD2A532E8378563FD0"
 msgid "Not to eat me, it did other things to my little body... it felt amazing actually."
-msgstr ""
+msgstr "食べるためじゃありません、ヒルはワタシの小さな身体にもっと別なことをして……最高でした、ホント。"
 
 #. Key:	FDBDE7714A97FE255B38A0BACEC479DB
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(7 - Value).TraitIcons.DisplayName
@@ -11561,7 +11561,7 @@ msgstr "まっさらな状態から新たな冒険を始めます。"
 #: Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:82
 msgctxt "ConfirmationBox,NewGameConfirmTitle"
 msgid "Start a New Game?"
-msgstr "新しいゲームを始めますか？"
+msgstr "ゲームを最初から始めますか？"
 
 #. Key:	OverwriteGameConfirm
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:87
@@ -11687,7 +11687,7 @@ msgstr "終了"
 #: Source/Radiant/Public/UI/SexyGameOverlay.cpp:95
 msgctxt "GameOverlay,LoadButton"
 msgid "Load Game"
-msgstr "ゲームのロード"
+msgstr "データのロード"
 
 #. Key:	MainMenuButton
 #. SourceLocation:	Source/Radiant/Public/UI/SexyGameOverlay.cpp:109
@@ -11708,7 +11708,7 @@ msgstr "設定"
 #: Source/Radiant/Public/UI/SexyGameOverlay.cpp:88
 msgctxt "GameOverlay,SaveButton"
 msgid "Save Game"
-msgstr "ゲームのセーブ"
+msgstr "データのセーブ"
 
 #. Key:	Null
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyGridItem.cpp:58
@@ -12198,14 +12198,14 @@ msgstr "終了する"
 #: Source/Radiant/Public/UI/Menus/SexyMainMenu.cpp:43
 msgctxt "MainMenu,LoadGameButton"
 msgid "Load Game"
-msgstr "ゲームをロードする"
+msgstr "データをロードする"
 
 #. Key:	NewGameButton
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyMainMenu.cpp:36
 #: Source/Radiant/Public/UI/Menus/SexyMainMenu.cpp:36
 msgctxt "MainMenu,NewGameButton"
 msgid "New Game"
-msgstr "新しいゲーム"
+msgstr "最初から始める"
 
 #. Key:	SettingsButton
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyMainMenu.cpp:50
@@ -13543,4 +13543,3 @@ msgstr "話す"
 msgctxt "WorldAction,TraverseAction"
 msgid "Traverse Portal"
 msgstr "ポータルを通る"
-

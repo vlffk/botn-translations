@@ -1,13 +1,13 @@
-﻿# japanese Japanese (Japan) translation.
+# japanese Japanese (Japan) translation.
 # Copyright Epic Games, Inc. All Rights Reserved.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: japanese\n"
 "POT-Creation-Date: 2020-07-27 20:47\n"
-"PO-Revision-Date: 2020-07-27 20:47\n"
+"PO-Revision-Date: 2020-08-21 23:38+0900\n"
 "Language-Team: \n"
-"Language: ja-JP\n"
+"Language: ja_JP\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -109,7 +109,7 @@ msgstr "おやおや、これはめったにない光景ですね。"
 #: /Game/Dialogue/Mirru/Default/MirruHadSex01.Default__MirruHadSex01_C.SessionData.LinesToMale(4).LinesToMale
 msgctxt ",022313C047D185193F98C48BE5852E62"
 msgid "It's not often one so small has the courage to dick a kraken. I hope my fleshy body pleased you."
-msgstr ""
+msgstr "こんなに小さな者が、クラーケンに突き入れる度胸を持っているのは稀だ。私の肉付いた身体が、其方を愉しませたのなら良いのだが。"
 
 #. Key:	028C9ACB45CFD05DB106DBA06B056886
 #. SourceLocation:	/Game/World/Overworld.Overworld:PersistentLevel.StarfallenMonolith.ManageActionMessage
@@ -193,7 +193,7 @@ msgstr "おぉぉ、そうです！ あぁぁぁ……古式ゆかしい私の�
 #: /Game/Dialogue/Mirru/Default/MirruHadSex01.Default__MirruHadSex01_C.SessionData.LinesToFemale(1).LinesToFemale
 msgctxt ",0468AC1040BB9A10D1960B833F9A8305"
 msgid "For that I am thankful."
-msgstr ""
+msgstr "その行いに対し、感謝を述べよう。"
 
 #. Key:	04744CA84CBAE9AB13EA1989A23A0DDC
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01.Default__FaleneDefault01_C.SessionData.Lines(0).Lines
@@ -221,7 +221,7 @@ msgstr "遠慮なく言えばいいじゃん、アンタの野性の @MONSTER_RA
 #: /Game/Dialogue/Cassie/Default/CassieDungeon.Default__CassieDungeon_C.SessionData.Lines(4).Lines
 msgctxt ",051883BC403A71EC7220ACAE27A63552"
 msgid "That old rusty set of gears above the town entrance probably controls a pulley system."
-msgstr ""
+msgstr "街の入り口の上にある錆びた歯車、あれたぶん滑車装置を動かすんだよ。"
 
 #. Key:	0522652344116C917836F4A1A78C8815
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R07.Default__CamillaDefault01_R07_C.SessionData.LinesToFemale(0).LinesToFemale
@@ -298,7 +298,7 @@ msgstr "この世界は @MONSTER_RACE@――謎に満ちた半人半獣の混合
 #: /Game/Dialogue/Romy/Default/RomyHadSex01.Default__RomyHadSex01_C.SessionData.LinesGrungy(1).LinesGrungy
 msgctxt ",075A16DA4BA7F51C3A07099921F7F1B3"
 msgid "You need a bath. Come now, place your body between my breasts and let's get you clean."
-msgstr ""
+msgstr "そなたには入浴が必要です。その身を我が乳房のあいだに委ねて、私に洗わせなさいな。"
 
 #. Key:	07B2E95342A617616201F19B87E3655A
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimePlay1.Default__MegaSlimePlay1_C.SessionData.LinesToFuta(3).LinesToFuta
@@ -333,21 +333,21 @@ msgstr "精液飲んでいいよ！"
 #: /Game/Dialogue/Emissary/Default/EmissaryHadSex01.Default__EmissaryHadSex01_C.SessionData.LinesToFemale(1).LinesToFemale
 msgctxt ",08A2508F4D57261E790AB8BEA258D6B2"
 msgid "Understand, thou has licked a vagina as old as time itself."
-msgstr ""
+msgstr "心得よ。汝、時間其の物に並ぶほど旧き女陰を舐れり。"
 
 #. Key:	08DE001E4420BE30688798BF6B70729D
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryCockblockGates.Default__EmissaryCockblockGates_C.SessionData.Lines(4).Lines
 #: /Game/Dialogue/Emissary/Default/EmissaryCockblockGates.Default__EmissaryCockblockGates_C.SessionData.Lines(4).Lines
 msgctxt ",08DE001E4420BE30688798BF6B70729D"
 msgid "You will need to satisfy their desires before they will give them up."
-msgstr ""
+msgstr "キーストーンを手放してもらうために、彼女たちの望みを満たす必要があるでしょう。"
 
 #. Key:	093760FD4181D0AA284C4D96884A3801
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeLockedDungeon2.Default__AmberMaeLockedDungeon2_C.SessionData.Lines(1).Lines
 #: /Game/Dialogue/AmberMae/Default/AmberMaeLockedDungeon2.Default__AmberMaeLockedDungeon2_C.SessionData.Lines(1).Lines
 msgctxt ",093760FD4181D0AA284C4D96884A3801"
 msgid "Took me love for milk too far, 'an the 'ol bovaur genes kicked in."
-msgstr ""
+msgstr "ミルクにどっぷりと惚れ込んじまって、そしたら、このボヴァウルの遺伝子が働いちまってさ。"
 
 #. Key:	094AB3854E6DACE10C94B28ADCB83FE0
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaFaleneWeek.Default__CamillaFaleneWeek_C.SessionData.Lines(2).Lines
@@ -368,14 +368,14 @@ msgstr "ムラムラしてもうガマンできない！ そこ開きなさい�
 #: /Game/Dialogue/Mirru/Default/MirruHadSex01.Default__MirruHadSex01_C.SessionData.LinesToFemale(4).LinesToFemale
 msgctxt ",099488164DB48F48395E94B86F3EE565"
 msgid "My lust is quickly regenerating, and I would gladly mate with you again."
-msgstr ""
+msgstr "我が性欲は、またどんどん溜まってきている。そして、ぜひ其方ともう一度交わりたいと思うぞ。"
 
 #. Key:	09C95B9C48668D0B269B88826710F912
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryHadSex01.Default__EmissaryHadSex01_C.SessionData.LinesToFuta(2).LinesToFuta
 #: /Game/Dialogue/Emissary/Default/EmissaryHadSex01.Default__EmissaryHadSex01_C.SessionData.LinesToFuta(2).LinesToFuta
 msgctxt ",09C95B9C48668D0B269B88826710F912"
 msgid "Is that a comforting feeling?"
-msgstr ""
+msgstr "安らぎを感じられましたか？"
 
 #. Key:	0A1E776A4877D11A8A4716A6FEE789C1
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(7).LinesToMale
@@ -410,7 +410,7 @@ msgstr "はぁぁぁ……とても良い心地です！"
 #: /Game/Dialogue/Romy/Default/RomyHadSex01.Default__RomyHadSex01_C.SessionData.Lines(2).Lines
 msgctxt ",0B796FF84644C0154CA874BFDFA16D50"
 msgid "Let us spend the day together, for here in the warmth of this water we can sing again for hours."
-msgstr ""
+msgstr "今日は共に過ごしていただけませんか。だって、この湯の温かさに浸りながら、我らはさらに幾時間も唄えるでしょう。"
 
 #. Key:	0BB0A695454FD69DAA129F82F023EB23
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(1).LinesToFemale
@@ -494,7 +494,7 @@ msgstr "バタフライ"
 #: /Game/Dialogue/Romy/Default/RomyDefault01.Default__RomyDefault01_C.SessionData.Lines(2).Lines
 msgctxt ",0D3C4D8D4F6C01DE00A1B88BD745C860"
 msgid "A bath perhaps? Or maybe one of your wild ones made love with the dirt. I will wash them all."
-msgstr ""
+msgstr "よろしければ、入浴しますか？ それとも、そなたの野性のネフェリムが泥と愛し合いましたか。私が皆洗いましょう。"
 
 #. Key:	0D41FE0947E3B6D0F4FD10AF14FE68BE
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleCentaur.Default__KybeleCentaur_C.SessionData.Lines(5).Lines
@@ -543,7 +543,7 @@ msgstr "我らの身体を使おうぞ、あまりに倒錯したやりくちで
 #: /Game/Dialogue/Cassie/Default/CassieDungeon2.Default__CassieDungeon2_C.SessionData.Lines(1).Lines
 msgctxt ",0E4B3CBA440B587A805453A5FAC01859"
 msgid "Meow... no one has been down there for as long as I remember."
-msgstr ""
+msgstr "にゃあ……アタシの記憶では、だれもあそこには入ったことないじゃん。"
 
 #. Key:	0E6E1156457FB3513C060D979FF6B9AE
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(29 - Value).TraitIcons.HelpText
@@ -571,7 +571,7 @@ msgstr "拒否する"
 #: /Game/Dialogue/Emissary/Default/EmissaryHadSex01.Default__EmissaryHadSex01_C.SessionData.LinesToMale(3).LinesToMale
 msgctxt ",0EC0E30B4EEFEC910A9F1D90DC5AB286"
 msgid "Judging by the mess on the temple floor, quite good."
-msgstr ""
+msgstr "神殿の床の白濁から判断するに、とてもよろしかったようですね。"
 
 #. Key:	0EEEC9A34AD6162338FCA699384590D4
 #. SourceLocation:	/Game/Ranch/Upgrades/NekoCondo.Default__NekoCondo_C.Upgrade.TypeDisplay
@@ -613,7 +613,7 @@ msgstr "我らには破壊的な過去もあったが、今日のクラーケン
 #: /Game/Dialogue/Falene/Default/FaleneHadSex01.Default__FaleneHadSex01_C.SessionData.LinesToMale(7).LinesToMale
 msgctxt ",0FAF6E0B4308E0F116E3C3BC117672E3"
 msgid "That creepy golden seraphim, the one in the temple. She appeared only a few days ago, constantly asking to speak with \"the human\"."
-msgstr ""
+msgstr "あの気味の悪い金色のセラフィム、神殿にいるやつよ。アイツはほんの数日前に現れて、「人間」と話したいってずっと言ってるの。"
 
 #. Key:	0FC69F2441505B7DAACAC7807627892D
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernDefault03_R05.Default__FernDefault03_R05_C.SessionData.Lines(1).Lines
@@ -648,7 +648,7 @@ msgstr "私をあなたの好きなようにして！"
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault02.Default__EmissaryDefault02_C.SessionData.Lines(2).Lines
 msgctxt ",1074EFCF47610848DA1E09AED2EF9B29"
 msgid "That disgusting creature will not see the light of day so long as this emissary remains."
-msgstr ""
+msgstr "あの不快な生物が日の目を見ることはないでしょう、この御使いがいる限り。"
 
 #. Key:	107C6B8448B1F139A90AFDBD17AE1AA9
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(25).LinesToFemale
@@ -746,7 +746,7 @@ msgstr ""
 #: /Game/Dialogue/AmberMae/Default/AmberMaeLockedDungeon2.Default__AmberMaeLockedDungeon2_C.SessionData.Lines(2).Lines
 msgctxt ",11C0FBB845185DFCD5E67DA5B758B432"
 msgid "At me peak I could barely walk! The jugs 'an belly were mighty heavy."
-msgstr ""
+msgstr "いちばんすごかった時期は、かろうじて歩けるぐらいだったわ！ 胸のミルクポットもお腹も、なまら重くてねぇ。"
 
 #. Key:	12036FB64912193341380BA267A64971
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernGreeting03.Default__FernGreeting03_C.SessionData.LinesToFemale(4).LinesToFemale
@@ -781,7 +781,7 @@ msgstr ""
 #: /Game/Dialogue/Cassie/Default/CassieHadSex01.Default__CassieHadSex01_C.SessionData.LinesToFuta(3).LinesToFuta
 msgctxt ",129A33314E1BA60BA7698394A0DEDCD7"
 msgid "So many splinters in my back, but it was worth it!"
-msgstr ""
+msgstr "木のささくれがいっぱいアタシの背中に刺さってるけど、そんなの気になんないぐらい愉しかったじゃんね！"
 
 #. Key:	129E92F14686D57C52A26598C5257AF6
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(12).LinesToFemale
@@ -1089,7 +1089,7 @@ msgstr "その種族を捕まえてきます。"
 #: /Game/Dialogue/Cassie/Default/CassieDungeon.Default__CassieDungeon_C.SessionData.Message
 msgctxt ",1BE4B0584A935AE797E21B89CFDDEBF9"
 msgid "A mechanism was repaired."
-msgstr ""
+msgstr "装置が修理された。"
 
 #. Key:	1C3E96114020C3F1D5514C998DF520B9
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeHadSex01.Default__MegaSlimeHadSex01_C.SessionData.LinesToFuta(4).LinesToFuta
@@ -1180,7 +1180,7 @@ msgstr "マーメイドは珍しいフォーミュリアン、大半の者には
 #: /Game/Dialogue/AmberMae/Default/AmberMaeHadSex01.Default__AmberMaeHadSex01_C.SessionData.Lines(0).Lines
 msgctxt ",1DB7FBDD4A80D06FCF9019965B0E0008"
 msgid "Ye drank so much for a wee lass!"
-msgstr ""
+msgstr "アンタ、めんこいおチビちゃんにしちゃたっぷり飲んだわ！"
 
 #. Key:	1E0C491A43E8C2F67FA568B20B5A6743
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_Teach.Default__ParvatiDefault01_Teach_C.SessionData.Lines(5).Lines
@@ -1229,7 +1229,7 @@ msgstr "あなたは何ができるの？"
 #: /Game/Dialogue/Cassie/Default/CassieHadSex01.Default__CassieHadSex01_C.SessionData.LinesToFemale(5).LinesToFemale
 msgctxt ",1EB41EAD40088E3874A4E0A7F3C437DC"
 msgid "I need to release again already... you humans have it so easy."
-msgstr ""
+msgstr "アタシ、またもう 1 回出したくなっちゃったよ……アンタたち人間は楽そうでいいよねぇ。"
 
 #. Key:	1EB7986D40F6A7B90EB5ADB781104A11
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_RL.Default__LeylannaDefault01_RL_C.ResponseData(6).ResponseData.BreederPrompt
@@ -1299,7 +1299,7 @@ msgstr "おもいやり: 交配相手に 2 倍の経験値を与えるが、自�
 #: /Game/Dialogue/Cassie/Default/CassieHadSex01.Default__CassieHadSex01_C.SessionData.LinesToFemale(2).LinesToFemale
 msgctxt ",1FEA2992437543C7A8B378B9046E4AE5"
 msgid "Such sweet release for Cassie!"
-msgstr ""
+msgstr "ずいぶん気持ちいい射精だったよ、キャシーにとって！"
 
 #. Key:	20149E5046FF32B65667FBA243C9BED4
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_HowToSpiritForm.Default__LeylannaDefault01_HowToSpiritForm_C.SessionData.LinesToFemale(2).LinesToFemale
@@ -1684,7 +1684,7 @@ msgstr "あなたは祝福された @MONSTER_RACE@ なの？"
 #: /Game/Dialogue/Cassie/Default/CassieDungeon.Default__CassieDungeon_C.SessionData.Lines(5).Lines
 msgctxt ",2A2C90CA4F62D70955E3F3A98524FEAA"
 msgid "*Purr* You made me feel so good... Cassie wants to fix it for you!"
-msgstr ""
+msgstr "（のどを鳴らす音）アタシを気持ち良くさせてくれたし……キャシーがアンタのために直してやろうかな！"
 
 #. Key:	2AA4EC89483BB63996FEBE9BC4E4055A
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01_Meow_RL_T.Default__CassieDefault01_Meow_RL_T_C.ResponseData(1).ResponseData.BreederPrompt
@@ -1929,7 +1929,7 @@ msgstr "はじめに、女神は女神御自身と交わられました。そし
 #: /Game/Dialogue/AmberMae/Default/AmberMaeLockedDungeon2.Default__AmberMaeLockedDungeon2_C.SessionData.Lines(0).Lines
 msgctxt ",2FA4621047A86335175276AF22BFDE52"
 msgid "If ye think I'm a big cow today, 'mai goodness was I larger in me younger days!"
-msgstr ""
+msgstr "もしアンタが、今のアタシのこと大きな牛だと思ってんなら、びっくりすんじゃないかい。若い頃はもっとおっきかったんだわ！"
 
 #. Key:	2FFC051448D7AD3EA274FF8D334EE641
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeHadSex02.Default__MegaSlimeHadSex02_C.SessionData.Lines(1).Lines
@@ -2342,7 +2342,7 @@ msgstr "わかっていた。淫欲に満ちし人間が、我が前に現れる
 #: /Game/Dialogue/AmberMae/Default/AmberMaeDefault01_RL.Default__AmberMaeDefault01_RL_C.ResponseData(2).ResponseData.BreederPrompt
 msgctxt ",397B4EDC415499258BF65B825D968230"
 msgid "What do you know about the old temple?"
-msgstr ""
+msgstr "古い神殿について何か知ってる？"
 
 #. Key:	39BB76F04901D85036C696B74CA537B3
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeDefault01_Accent.Default__AmberMaeDefault01_Accent_C.SessionData.Lines(2).Lines
@@ -2377,7 +2377,7 @@ msgstr "交配すること！"
 #: /Game/Dialogue/Cassie/Default/CassieHadSex01.Default__CassieHadSex01_C.SessionData.LinesToFemale(0).LinesToFemale
 msgctxt ",3A445E064F00F058EEF964928975B1F0"
 msgid "Meow! That felt so good..."
-msgstr ""
+msgstr "ニャ！ すっごい良かったじゃん……"
 
 #. Key:	3A5C7D5342118BA87B8C6595C9B5D200
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R01.Default__CamillaDefault01_R01_C.SessionData.Lines(7).Lines
@@ -2510,7 +2510,7 @@ msgstr ""
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault02.Default__EmissaryDefault02_C.SessionData.Lines(6).Lines
 msgctxt ",3DB538F149AC7F6C7364009E1811D1CF"
 msgid "Or, hath desire brought you abreast my holy golden bosom?"
-msgstr ""
+msgstr "あるいは情欲が、我が聖なりし黄金の胸元まで、あなたを導きしや？"
 
 #. Key:	3DDC87214109BEB2D2A970A966C08449
 #. SourceLocation:	/Game/Dialogue/Monarch/Default/MonarchStartShySex.Default__MonarchStartShySex_C.SessionData.LinesToFemale(2).LinesToFemale
@@ -2545,7 +2545,7 @@ msgstr ""
 #: /Game/Dialogue/Emissary/Default/EmissaryCockblockGates.Default__EmissaryCockblockGates_C.SessionData.Lines(2).Lines
 msgctxt ",3E5B1CA94E6EB9CC180AE3A6F9EC5439"
 msgid "Seek the keystones hidden throughout the world, for one is required per gate."
-msgstr ""
+msgstr "この世界のあちこちに隠された、キーストーンを探すのです。ひとつのゲートにつき、ひとつのキーストーンを要します。"
 
 #. Key:	3EAFC53348C0B793D4BF32A6B78F4E3F
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_Forgot_RL.Default__ParvatiDefault01_Forgot_RL_C.ResponseData(4).ResponseData.BreederPrompt
@@ -2776,7 +2776,7 @@ msgstr "ああ、えぇ。素晴らしかったですね。"
 #: /Game/Dialogue/Cassie/Default/CassieDungeon2.Default__CassieDungeon2_C.SessionData.Lines(4).Lines
 msgctxt ",434FF9C34E180AC6724D628D8E2EB07A"
 msgid "*Purr* You made me feel so good... so Cassie fixed it for you!"
-msgstr ""
+msgstr "（のどを鳴らす音）アタシを気持ち良くさせてくれたから……キャシーがアンタのために直してやったじゃん！"
 
 #. Key:	437DBE7940749A6838FDA39FD90FF637
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryRaiseTraitLvl_RL.Default__EmissaryRaiseTraitLvl_RL_C.ResponseData(0).ResponseData.BreederPrompt
@@ -2825,7 +2825,7 @@ msgstr "アナタのおいしい体液をワタシでムダにしないでくだ
 #: /Game/Dialogue/Cassie/Default/CassieHadSex01.Default__CassieHadSex01_C.SessionData.LinesToFemale(1).LinesToFemale
 msgctxt ",44000BD74D084D5F4F4AD99708071613"
 msgid "*Purr*"
-msgstr ""
+msgstr "（のどを鳴らす音）"
 
 #. Key:	442AA41044275C5F5330F99CF2ECE542
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_StartLifted.Default__ParvatiDefault01_StartLifted_C.SessionData.Lines(0).Lines
@@ -2916,7 +2916,7 @@ msgstr "我が母は偉大なクラーケン、美しく妖艶な海の乙女。
 #: /Game/Dialogue/AmberMae/Default/AmberMaeLockedDungeon2.Default__AmberMaeLockedDungeon2_C.SessionData.Lines(3).Lines
 msgctxt ",46C09FA14157EC1F3D6608BB30F25A60"
 msgid "Them townsfolk loved playing with 'mai soft body... *sigh*"
-msgstr ""
+msgstr "街の住民たちは、アタシのやわっこい身体を弄ぶのが大好きだったなぁ……（ため息）"
 
 #. Key:	46D776EB4F6C6F71D802088F7C493A82
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeSlimesMade.Default__MegaSlimeSlimesMade_C.SessionData.LinesToFuta(6).LinesToFuta
@@ -3238,14 +3238,14 @@ msgstr "身体を預け、楽にするのだ、@BREEDER_NAME@……"
 #: /Game/Dialogue/Falene/Default/FaleneHadSex01.Default__FaleneHadSex01_C.SessionData.LinesToMale(8).LinesToMale
 msgctxt ",4E52974540DE6960CB56CDB713C76A05"
 msgid "That must have been you, perhaps you should go and talk to her."
-msgstr ""
+msgstr "それって絶対アナタのことよ、行って話してみるべきかもね。"
 
 #. Key:	4E5BBE2D466F692CEB63ACA293C411A8
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruHadSex01.Default__MirruHadSex01_C.SessionData.LinesToFemale(0).LinesToFemale
 #: /Game/Dialogue/Mirru/Default/MirruHadSex01.Default__MirruHadSex01_C.SessionData.LinesToFemale(0).LinesToFemale
 msgctxt ",4E5BBE2D466F692CEB63ACA293C411A8"
 msgid "You have satisfied a kraken princess, and allowed me to release my lust."
-msgstr ""
+msgstr "其方はクラーケンの姫を満足させ、私の性欲を解き放たせた。"
 
 #. Key:	4E7910C949370E1A22F20886B7F19689
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryBlessedInquiry01_RL.Default__EmissaryBlessedInquiry01_RL_C.ResponseData(0).ResponseData.BreederPrompt
@@ -3294,7 +3294,7 @@ msgstr "（ちゅぱっ） （ぺろっ）"
 #: /Game/Dialogue/Romy/Default/RomyHadSex01.Default__RomyHadSex01_C.SessionData.LinesGrungy(0).LinesGrungy
 msgctxt ",4F37D08C43E11EDF706D07998D86692F"
 msgid "Oh you dirty dirty human... what have you done to yourself?"
-msgstr ""
+msgstr "あぁ、汚れに汚れた人の子よ……そなたは自分自身に何をなさったのです？"
 
 #. Key:	4F601DAA48F980A712CFA1A4888DDCBC
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_YourVoid.Default__NeelaDefault01_YourVoid_C.SessionData.LinesToFuta(2).LinesToFuta
@@ -3588,7 +3588,7 @@ msgstr "女神はデーモンの被造物たちを憐れみ、愛を持って彼
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_Daze.Default__EmissaryDefault01_Daze_C.SessionData.Lines(2).Lines
 msgctxt ",566D4E2B458FC3277E49CB91D5CAB649"
 msgid "Then, the dark reaper of the daze will bring back to that body your awareness."
-msgstr "そうなった場合には、虚脱の暗き死霊が、その身体にあなたの意識を呼び戻すのです。"
+msgstr "そうなった場合には、虚脱の暗き刈り手が、その身体にあなたの意識を呼び戻すのです。"
 
 #. Key:	567F4EF7487947546DDFE3B0195DFDEB
 #. SourceLocation:	/Game/Dialogue/Neela/SexScenes/NeelaSnakeCuddleF.Default__NeelaSnakeCuddleF_C.SessionData.Lines(0).Lines
@@ -3602,7 +3602,7 @@ msgstr "甘く心地よい人間のおまんこ、おぉぉぉ……"
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault02.Default__EmissaryDefault02_C.SessionData.Lines(3).Lines
 msgctxt ",569794004A0E468573BC3689623AE387"
 msgid "Why the Goddess felt the need to create such worthless lifeforms puzzles me."
-msgstr ""
+msgstr "なぜ女神は、あのような無価値な生命体を創る必要を感じられたのでしょうか。私を悩ませます。"
 
 #. Key:	57759F684D98A4E1D01E469878BF79D9
 #. SourceLocation:	/Game/Dialogue/Neela/SexScenes/NeelaSnakeCuddleT.Default__NeelaSnakeCuddleT_C.SessionData.Lines(2).Lines
@@ -3630,7 +3630,7 @@ msgstr ""
 #: /Game/Dialogue/AmberMae/Default/AmberMaeLockedDungeon.Default__AmberMaeLockedDungeon_C.SessionData.Lines(5).Lines
 msgctxt ",5881DC0E4C70AE1F56EE70A7C1A4A78A"
 msgid "Yer ask'n the wrong lass though, I'm just a simple milkmaid."
-msgstr ""
+msgstr "まぁ、アンタは聞く娘を間違えてるんだわ。アタシはただのしがない乳搾り女なんだから。"
 
 #. Key:	589C39424192EF623DC606AE1E6D2D75
 #. SourceLocation:	/Game/Ranch/Upgrades/DemonPool.Default__DemonPool_C.Upgrade.DisplayName
@@ -3714,7 +3714,7 @@ msgstr "（じゅぽっ） （ぺろっ）"
 #: /Game/Dialogue/Cassie/Default/CassieHadSex01.Default__CassieHadSex01_C.SessionData.LinesToFemale(3).LinesToFemale
 msgctxt ",5A9731DD46A8ADC8650FC7A682C0D08C"
 msgid "You're going to have lots of cute kittens with how much love butter I gave you!!!"
-msgstr ""
+msgstr "アンタはカワイイ子猫ちゃんをいっぱい産むんだよ、アタシがあげた大量の愛のバターで！！！"
 
 #. Key:	5AA0883E43DAD4AAE0EF269EA3233B0A
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_RL.Default__ParvatiDefault01_RL_C.ResponseData(0).ResponseData.BreederPrompt
@@ -3763,7 +3763,7 @@ msgstr "なんでふたなりにタマがないの？"
 #: /Game/Dialogue/Romy/Default/RomyDefault01_RL.Default__RomyDefault01_RL_C.ResponseData(5).ResponseData.BreederPrompt
 msgctxt ",5B8BBC574B6A3FC58C5769B04B8923FE"
 msgid "What is with the locked dungeon?"
-msgstr ""
+msgstr "閉ざされたダンジョンってどうなってるんですか？"
 
 #. Key:	5BCD2C4F491787616684ECAD40FE34C6
 #. SourceLocation:	/Game/Dialogue/Reaper/Default/ReaperDefault01_RL.Default__ReaperDefault01_RL_C.ResponseData(0).ResponseData.BreederPrompt
@@ -3791,7 +3791,7 @@ msgstr "あなたは何ができるの？"
 #: /Game/Dialogue/Cassie/Default/CassieDungeon.Default__CassieDungeon_C.SessionData.Lines(7).Lines
 msgctxt ",5C38779E4968CAF3F455C68BDBEDADF9"
 msgid "There! Promise me if you open it... we will have kinky sex in the old temple! Meow!"
-msgstr ""
+msgstr "そうだ！ 約束しなよ、もし開けたらさ……古い神殿の中で変態セックスしようじゃんか！ ニャ！"
 
 #. Key:	5C55705949989D3944ACDD8DE6CAEB1E
 #. SourceLocation:	/Game/Dialogue/Fern/SexScenes/FernMilk_01.Default__FernMilk_01_C.SessionData.Lines(2).Lines
@@ -3812,7 +3812,7 @@ msgstr "@MONSTER_RACE@ の起源はとても古くて解明されていない、
 #: /Game/Dialogue/AmberMae/Default/AmberMaeDungeon_RL.Default__AmberMaeDungeon_RL_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",5C98DE6F491C2551F3E059B7839548B4"
 msgid "You couldn't fit in the dungeon?!"
-msgstr ""
+msgstr "あのダンジョンに入れないぐらいだったの？！"
 
 #. Key:	5D1189D248873A7E95BA20AA8EADCF1C
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_Daze.Default__EmissaryDefault01_Daze_C.SessionData.Lines(0).Lines
@@ -3903,7 +3903,7 @@ msgstr "えぇ、そうですね。私はあなたの利用を承認できます
 #: /Game/Dialogue/Emissary/Default/EmissaryHadSex01.Default__EmissaryHadSex01_C.SessionData.LinesToFuta(3).LinesToFuta
 msgctxt ",604FA2154312C173E208F3949C0C0A75"
 msgid "Judging by the mess on the temple floor, quite good."
-msgstr ""
+msgstr "神殿の床の白濁から判断するに、とてもよろしかったようですね。"
 
 #. Key:	609D904E4D1F23007D88028804202202
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_HowToSpiritForm_RL_F.Default__LeylannaDefault01_HowToSpiritForm_RL_F_C.ResponseData(0).ResponseData.BreederPrompt
@@ -3917,7 +3917,7 @@ msgstr "言われた通りの種族を捕まえてきたよ。"
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R03.Default__FaleneDefault01_R03_C.SessionData.Lines(2).Lines
 msgctxt ",60B6EB594571EB46AAF53EAF5A1EF34C"
 msgid "That instinct draws them to what the temple calls \"Avatars of the Goddess\"."
-msgstr ""
+msgstr "その本能によって野性の個体は、神殿が「女神の化身像」と呼ぶものに引き寄せられる。"
 
 #. Key:	60F7E0894814D89ADDD7CDBD0B8BDFA5
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaHadSex01.Default__LeylannaHadSex01_C.SessionData.LinesToFemale(3).LinesToFemale
@@ -3952,7 +3952,7 @@ msgstr "「大いなる事始め」って？"
 #: /Game/Dialogue/AmberMae/Default/AmberMaeLockedDungeon.Default__AmberMaeLockedDungeon_C.SessionData.Lines(4).Lines
 msgctxt ",61A8146D43CCAA9D468CCC9D2CB22F42"
 msgid "If I recall... they rigged up some switch 'an pulley system."
-msgstr ""
+msgstr "思い返してみっと……スイッチかなんかと滑車の機械を設置してたんでないかい。"
 
 #. Key:	61C3C47B425E2ACFE03921A38EDBD93D
 #. SourceLocation:	/Game/World/Overworld.Overworld:PersistentLevel.CBGate_Glade.PlaceMessage
@@ -4001,7 +4001,7 @@ msgstr "それらの被造物は弱き姿をとり、完全に本能によって
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault02.Default__EmissaryDefault02_C.SessionData.Lines(4).Lines
 msgctxt ",62B5CF3C40893752840CAEBF4C8159C3"
 msgid "It did not deserve the pleasures you granted it, and I would advise never speaking with it again."
-msgstr ""
+msgstr "アレはあなたが悦びを与えるのに相応しい存在ではありません。そして、もう二度とアレと話されないほうがよいでしょう。"
 
 #. Key:	62DABAA04453893D6FCD5390D28CB19A
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02_R02.Default__FernDefault02_R02_C.SessionData.Lines(2).Lines
@@ -4050,7 +4050,7 @@ msgstr "（ぺろっ） （じゅぽっ）"
 #: /Game/Dialogue/AmberMae/Default/AmberMaeLockedDungeon.Default__AmberMaeLockedDungeon_C.SessionData.Lines(0).Lines
 msgctxt ",63ACAC1E4A5D5DFE164A168EAFEE76BC"
 msgid "Aye, 'tis been countless years since anyone's been down there!"
-msgstr ""
+msgstr "そだねぇ。あそこにだれか入ってから、もうわからないぐらいの年月が経ってるっしょ！"
 
 #. Key:	63B6296840BB64E725E7219F715EEAB1
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_YourVoid.Default__NeelaDefault01_YourVoid_C.SessionData.LinesToFuta(4).LinesToFuta
@@ -4393,7 +4393,7 @@ msgstr "ある意味では、序列が下のきょうだいたちが、うらや
 #: /Game/Dialogue/AmberMae/Default/AmberMaeLockedDungeon.Default__AmberMaeLockedDungeon_C.SessionData.Lines(2).Lines
 msgctxt ",6BC585A94AB919791876E989ABC6AFC2"
 msgid "Didn't get very far though, me jugs 'an buxom hips said no!"
-msgstr ""
+msgstr "そんなに遠くじゃなかったんだけども、アタシのミルクタンクとどっしりしたお尻がムリ！ って言ったのさ。"
 
 #. Key:	6BD4BB9B462B18C1771C5C8CE331DDAC
 #. SourceLocation:	/Game/Dialogue/Monarch/Default/MonarchPrettyButterfly.Default__MonarchPrettyButterfly_C.SessionData.Lines(7).Lines
@@ -4617,14 +4617,14 @@ msgstr "おもいやり"
 #: /Game/Dialogue/Cassie/Default/CassieDefault01_RL.Default__CassieDefault01_RL_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",6FF789054D56C91D6CC53C8148D8EFCD"
 msgid "What's with the dungeon by the temple?"
-msgstr ""
+msgstr "神殿のダンジョンってどうなってるの？"
 
 #. Key:	703FABE24E96D3592AA524833F23CA4D
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01_RL.Default__CassieDefault01_RL_C.ResponseData(2).ResponseData.BreederPrompt
 #: /Game/Dialogue/Cassie/Default/CassieDefault01_RL.Default__CassieDefault01_RL_C.ResponseData(2).ResponseData.BreederPrompt
 msgctxt ",703FABE24E96D3592AA524833F23CA4D"
 msgid "Remind me about that dungeon under the temple."
-msgstr ""
+msgstr "神殿の下のダンジョンについてもう一度聞かせて。"
 
 #. Key:	705BCA1D4ACA54FF178C9DA094C9DBA1
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02_R01.Default__FernDefault02_R01_C.SessionData.Lines(1).Lines
@@ -4694,7 +4694,7 @@ msgstr "心の準備しなよ、子猫ちゃん！"
 #: /Game/Dialogue/Falene/Default/FaleneHadSex01.Default__FaleneHadSex01_C.SessionData.LinesToFuta(7).LinesToFuta
 msgctxt ",717D6D564578FC099110B6899F65067E"
 msgid "That creepy golden seraphim, the one in the temple. She appeared only a few days ago, constantly asking to speak with \"the human\"."
-msgstr ""
+msgstr "あの気味の悪い金色のセラフィム、神殿にいるやつよ。アイツはほんの数日前に現れて、「人間」と話したいってずっと言ってるの。"
 
 #. Key:	71AEDBFC4C75BF861690DB96D8D3E7D4
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R01.Default__FaleneDefault01_R01_C.SessionData.Lines(2).Lines
@@ -4736,7 +4736,7 @@ msgstr "さぁどの体位、おさらいしたい？"
 #: /Game/Dialogue/Mirru/Default/MirruDefault01.Default__MirruDefault01_C.SessionData.Lines(1).Lines
 msgctxt ",72676A264244C7A242C2688B7B60F6A5"
 msgid "Have you come to please this Kraken princess?"
-msgstr ""
+msgstr "其方は、このクラーケンの姫を愉しませようと参ったのか？"
 
 #. Key:	729B81554E3D9EF979C07FB7C419E3C5
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R07.Default__FaleneDefault01_R07_C.SessionData.LinesToFuta(0).LinesToFuta
@@ -5093,7 +5093,7 @@ msgstr "潤沢"
 #: /Game/Dialogue/Mirru/Default/MirruHadSex01.Default__MirruHadSex01_C.SessionData.LinesToFemale(3).LinesToFemale
 msgctxt ",7BA3471A456AB33D0F6E1AB523E14EBC"
 msgid "Believe it or not, I held back and could have drenched you with more kraken cum."
-msgstr ""
+msgstr "信じてもらわずともよいが、私は加減したのだぞ。其方をもっとクラーケンの精液まみれにすることもできた。"
 
 #. Key:	7BA8039A45383C5B11EEA9AC428E3158
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneHadSex01.Default__FaleneHadSex01_C.SessionData.LinesToMale(0).LinesToMale
@@ -5121,7 +5121,7 @@ msgstr ""
 #: /Game/Dialogue/Romy/Default/RomyLockedDungeon.Default__RomyLockedDungeon_C.SessionData.Lines(0).Lines
 msgctxt ",7C5554A44E14D8611780E99EAC37F747"
 msgid "I don't know how to access it, but beware."
-msgstr ""
+msgstr "どうすればあそこに入れるのか、私は存じ上げません。ですがお気を付けを。"
 
 #. Key:	7C5853BA4383F9B61021B3A6AD59FA09
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01.Default__ParvatiDefault01_C.SessionData.Lines(3).Lines
@@ -5156,7 +5156,7 @@ msgstr "（ぺろっ） （じゅぽっ）"
 #: /Game/Dialogue/Emissary/Default/EmissaryCockblockGates.Default__EmissaryCockblockGates_C.SessionData.Lines(0).Lines
 msgctxt ",7D4DC0064FB622869AA3E3B8CFCF2444"
 msgid "Ah you mean the Cockblock Gates."
-msgstr ""
+msgstr "あぁ、あなたがおっしゃるのは「ちんちんブロックの門」のことですね。"
 
 #. Key:	7D9B8CD848A3DAA68B924CA2B1E60858
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeSlimesMade.Default__MegaSlimeSlimesMade_C.SessionData.LinesToFemale(2).LinesToFemale
@@ -5296,7 +5296,7 @@ msgstr "ふたなりのフォクセンを捕まえたら、わらわのところ
 #: /Game/Dialogue/Cassie/Default/CassieDungeon2.Default__CassieDungeon2_C.SessionData.Lines(0).Lines
 msgctxt ",81AEB34842855FDDE393E2B3B0568109"
 msgid "It's the old temple because I guess the new one is better."
-msgstr ""
+msgstr "あれは古い神殿だよ。だって新しい方がイイ感じだと思うし。"
 
 #. Key:	81BA7F3C4947D886880CA687DA5D133F
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(7 - Value).TravelShrines.ShrineName
@@ -5331,7 +5331,7 @@ msgstr "私はあなたのしもべ、私の身体はあなたのものです。
 #: /Game/Dialogue/Mirru/Default/MirruHadSex01.Default__MirruHadSex01_C.SessionData.LinesToFuta(3).LinesToFuta
 msgctxt ",833370124F1D6AF95E5FC9844AB0DA75"
 msgid "It's not often one so small has the courage to dick a kraken. I hope my fleshy body pleased you."
-msgstr ""
+msgstr "こんなに小さな者が、クラーケンに突き入れる度胸を持っているのは稀だ。私の肉付いた身体が、其方を愉しませたのなら良いのだが。"
 
 #. Key:	8362C8D747AF6B672FEF0CB58B2B5B0C
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R02.Default__FaleneDefault01_R02_C.SessionData.Lines(3).Lines
@@ -5373,7 +5373,7 @@ msgstr ""
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault02.Default__EmissaryDefault02_C.SessionData.Lines(5).Lines
 msgctxt ",83F96FD847C509C2689331A208A49D12"
 msgid "Now... cometh thy to offer @MONSTER_RACE@?"
-msgstr ""
+msgstr "さて……汝、@MONSTER_RACE@ を差し出さんが為来たれりや？"
 
 #. Key:	840B179B496FE7BBE7487EAE11227191
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(9 - Value).TravelShrines.ShrineName
@@ -5772,7 +5772,7 @@ msgstr "ワタシのやわらかエルフ・リップ、気持ちいい？ そ�
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_Daze.Default__EmissaryDefault01_Daze_C.SessionData.Lines(3).Lines
 msgctxt ",8A7AA1664D50A6AD3F66CE8B9B57C01F"
 msgid "But beware, a toll will she require."
-msgstr "ですが、お気を付けを。対価を死霊は求めるでしょう。"
+msgstr "ですが、お気を付けを。対価を刈り手は求めるでしょう。"
 
 #. Key:	8AF6FC6641A12C2B4A5B90B25313D5E2
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernDefault03.Default__FernDefault03_C.SessionData.LinesToFemale(0).LinesToFemale
@@ -6136,7 +6136,7 @@ msgstr ""
 #: /Game/Dialogue/Cassie/Default/CassieDungeon.Default__CassieDungeon_C.SessionData.Lines(0).Lines
 msgctxt ",92CD80ED43FA1902AD31098F05B9E924"
 msgid "Oh the old temple?"
-msgstr ""
+msgstr "あぁ、あの古い神殿？"
 
 #. Key:	92E3821949A8C289A4AAFCA4103F1915
 #. SourceLocation:	/Game/Dialogue/Camilla/SexScenes/CamillaAdorableLump.Default__CamillaAdorableLump_C.SessionData.LinesToMale(3).LinesToMale
@@ -6157,7 +6157,7 @@ msgstr "アタシの毛むくじゃらの手でも元に戻せるけどさ、ど
 #: /Game/Dialogue/Emissary/Default/EmissaryHadSex01.Default__EmissaryHadSex01_C.SessionData.LinesToFemale(0).LinesToFemale
 msgctxt ",931A324E4A49D084F8210CA54C479750"
 msgid "Well your tongue certainly found it's way around @BREEDER_NAME@."
-msgstr ""
+msgstr "ふむ。あなたの舌は確かに正しい道を往きましたね、@BREEDER_NAME@。"
 
 #. Key:	93200BC643D32038D21FA9A6972CB59F
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryBlessedInquiry01_RL.Default__EmissaryBlessedInquiry01_RL_C.ResponseData(1).ResponseData.BreederPrompt
@@ -6255,7 +6255,7 @@ msgstr "そのピンクのアルラウネはだれ？"
 #: /Game/Dialogue/Emissary/Default/EmissaryHadSex01.Default__EmissaryHadSex01_C.SessionData.LinesToFemale(2).LinesToFemale
 msgctxt ",945B516446601CCDF45E92B6DC0D6175"
 msgid "Is that a comforting feeling?"
-msgstr ""
+msgstr "安らぎを感じられましたか？"
 
 #. Key:	945CB3304860CBDF1DCD348F2BE3E32B
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R03.Default__FaleneDefault01_R03_C.SessionData.Lines(1).Lines
@@ -6395,7 +6395,7 @@ msgstr "これまで、理解を超えた @MONSTER_RACE@ の肉棒、肉壷を�
 #: /Game/Dialogue/Emissary/Default/EmissaryCockblockGates.Default__EmissaryCockblockGates_C.SessionData.Lines(1).Lines
 msgctxt ",96FA042F4830A4781D9FA0874F4705D7"
 msgid "The Goddess wisely placed them there to test your ability."
-msgstr ""
+msgstr "女神は聡明なお考えのもと、あの門を配置されたのです。あなたの手腕を測るために。"
 
 #. Key:	97086CA946BFA31C6199599097E76015
 #. SourceLocation:	/Game/Dialogue/Cassie/SexScenes/CassieButterButtF.Default__CassieButterButtF_C.SessionData.Lines(4).Lines
@@ -6472,7 +6472,7 @@ msgstr "わたしは、最終形態に成長するために人間の精液が必
 #: /Game/Dialogue/Falene/Default/FaleneHadSex01.Default__FaleneHadSex01_C.SessionData.LinesToFemale(8).LinesToFemale
 msgctxt ",97E4D09B44D082B3154FEE94A88EE112"
 msgid "That must have been you, perhaps you should go and talk to her."
-msgstr ""
+msgstr "それって絶対アナタのことよ、行って話してみるべきかもね。"
 
 #. Key:	9823997B4369C9710C0858A44B670A9D
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_RL.Default__CamillaDefault01_RL_C.ResponseData(4).ResponseData.BreederPrompt
@@ -6626,7 +6626,7 @@ msgstr ""
 #: /Game/Dialogue/AmberMae/Default/AmberMaeHadSex01.Default__AmberMaeHadSex01_C.SessionData.Lines(3).Lines
 msgctxt ",9BDBC0EB4511337E7515C89A6620BBA0"
 msgid "Come back and drink up anytime."
-msgstr ""
+msgstr "いつでも戻ってきて、残さず飲んだらいいんだわ。"
 
 #. Key:	9BF2AD09410781A66302329DB25BA0EC
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_Forgot.Default__ParvatiDefault01_Forgot_C.SessionData.Lines(5).Lines
@@ -6710,7 +6710,7 @@ msgstr "うぅぅぅ！ どんなに待ちわびたか、ワタシの柔らか�
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_RL.Default__EmissaryDefault01_RL_C.ResponseData(7).ResponseData.BreederPrompt
 msgctxt ",9E8424C246BEBF834649DAABF8B5CD18"
 msgid "How do I open the stone gates?"
-msgstr ""
+msgstr "どうしたら、あの石の門を開けられる？"
 
 #. Key:	9E8C52C446FF788D61D6B98D9189D88D
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneHadSex01.Default__FaleneHadSex01_C.SessionData.LinesToFuta(3).LinesToFuta
@@ -6745,7 +6745,7 @@ msgstr "フォーミュリアンを管理する"
 #: /Game/Dialogue/Cassie/Default/CassieHadSex01.Default__CassieHadSex01_C.SessionData.LinesToFuta(5).LinesToFuta
 msgctxt ",9F2120194C14A491202338AEB2C05883"
 msgid "I want to release again already... you humans have it so easy."
-msgstr ""
+msgstr "アタシ、またもう 1 回出して欲しくなっちゃったよ……アンタたち人間は楽そうでいいよねぇ。"
 
 #. Key:	9F25BEB847378BA942933C8A503B4F1A
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(22 - Value).TraitIcons.HelpText
@@ -7928,7 +7928,7 @@ msgstr "アナタは @WORLD_NAME@ の一番新しい住人になったわ！"
 #: /Game/Dialogue/Cassie/Default/CassieHadSex01.Default__CassieHadSex01_C.SessionData.LinesToFemale(4).LinesToFemale
 msgctxt ",BE16AB634A0B031F9DEEF79B3D80C4A5"
 msgid "Meow!"
-msgstr ""
+msgstr "ニャ！"
 
 #. Key:	BE3E92FA4D0B5FE720EA038B6A6FF27C
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryBlessedInquiry02_RL.Default__EmissaryBlessedInquiry02_RL_C.ResponseData(1).ResponseData.BreederPrompt
@@ -7956,7 +7956,7 @@ msgstr "ニーラが見ていないときに、ワタシをあのプッシー・
 #: /Game/Dialogue/Emissary/Default/EmissaryCockblockGates.Default__EmissaryCockblockGates_C.SessionData.Lines(3).Lines
 msgctxt ",BED6E4EB4536C7A1E1D8EF8C6FA3F149"
 msgid "But beware, other blessed @MONSTER_RACE@ have collected the keystones over the years."
-msgstr ""
+msgstr "ですが、お気を付けを。他の祝福された @MONSTER_RACE@ が、長年にわたりキーストーンを収集しています。"
 
 #. Key:	BEDA154E4410DE62211DBFA48872ED35
 #. SourceLocation:	/Game/Dialogue/Monarch/Default/MonarchHadSex01.Default__MonarchHadSex01_C.SessionData.LinesToFemale(0).LinesToFemale
@@ -8145,7 +8145,7 @@ msgstr "衣を脱いでもらおうか。晒すべし、一糸まとわぬ裸体
 #: /Game/Dialogue/Cassie/Default/CassieDungeon.Default__CassieDungeon_C.SessionData.Lines(1).Lines
 msgctxt ",C4C596ED4DE277B929ABDDB01255A79B"
 msgid "Meow... no one has been down there for as long as I remember."
-msgstr ""
+msgstr "にゃあ……アタシの記憶では、だれもあそこには入ったことないじゃん。"
 
 #. Key:	C4F4ECA34FB62457AF54C48B18A75686
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01.Default__EmissaryDefault01_C.SessionData.Lines(2).Lines
@@ -8166,7 +8166,7 @@ msgstr "フォーミュリアン"
 #: /Game/Dialogue/Romy/Default/RomyHadSex01.Default__RomyHadSex01_C.SessionData.Lines(0).Lines
 msgctxt ",C5113B72490FFD8142C52EBDED0B4656"
 msgid "Oh the songs of pleasure we sang, how good they felt."
-msgstr ""
+msgstr "あぁ、我らが唄いし悦びの唄。どれほど心地よかったでしょう。"
 
 #. Key:	C52FEFD44780735A14B2A78C9F57D862
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiGreeting01.Default__ParvatiGreeting01_C.SessionData.LinesToFemale(6).LinesToFemale
@@ -8180,7 +8180,7 @@ msgstr "そなたの身体を我に預けよ。さすれば我ら絶頂の中、
 #: /Game/Dialogue/AmberMae/Default/AmberMaeLockedDungeon2.Default__AmberMaeLockedDungeon2_C.SessionData.Lines(4).Lines
 msgctxt ",C544F8824FC4DDC6DBEFE084C3987F32"
 msgid "How I miss the old days."
-msgstr ""
+msgstr "あの頃が懐かしいしょ。"
 
 #. Key:	C55370A04CAE38FD1D15A9AC46E99FBD
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaHadSex02.Default__CamillaHadSex02_C.SessionData.LinesToFemale(2).LinesToFemale
@@ -8243,7 +8243,7 @@ msgstr ""
 #: /Game/Dialogue/Romy/Default/RomyLockedDungeon.Default__RomyLockedDungeon_C.SessionData.Lines(1).Lines
 msgctxt ",C6B18EAC4E513704AB264E9A875521FB"
 msgid "A very sad song radiates from within..."
-msgstr ""
+msgstr "とても哀しい唄が、内側から発せられているのです……"
 
 #. Key:	C6D9B8644431D431610683A58FC57B84
 #. SourceLocation:	/Game/Dialogue/Falene/SexScenes/FaleneBlowJob.Default__FaleneBlowJob_C.SessionData.LinesToMale(6).LinesToMale
@@ -8649,7 +8649,7 @@ msgstr "あぁ、偉大なるファリーンが帰ってきました。"
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_Leylanna.Default__EmissaryDefault01_Leylanna_C.SessionData.Lines(3).Lines
 msgctxt ",D395A99C4C2FAC4029FBE0A0AACFDE16"
 msgid "The Goddess smiles upon her, and she will remain as high priestess."
-msgstr "女神は彼女に微笑みかけ、彼女は女大祭司としてあり続けるでしょう。"
+msgstr "女神は彼女に微笑みかけ、彼女は高位の女神官としてあり続けるでしょう。"
 
 #. Key:	D3E9009E43E0327FC24371950104BD21
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(18).LinesToFemale
@@ -8936,7 +8936,7 @@ msgstr "（のどを鳴らす音）"
 #: /Game/Dialogue/AmberMae/Default/AmberMaeHadSex01.Default__AmberMaeHadSex01_C.SessionData.Lines(2).Lines
 msgctxt ",D9124E55481B91E85A0884AA58197D19"
 msgid "'Mai milk was tasty aye? Plenty more where that came from!"
-msgstr ""
+msgstr "アタシのミルク、おいしかったかい？ おかわりはいっぱいあるからさ！"
 
 #. Key:	D913C6254D30AA08E8B01787AE3D1B68
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(4 - Value).TravelShrines.ShrineName
@@ -9097,7 +9097,7 @@ msgstr "しゅー……"
 #: /Game/Dialogue/Cassie/Default/CassieDungeon2.Default__CassieDungeon2_C.SessionData.Lines(3).Lines
 msgctxt ",DB700CCB477FAB622C9638923D9D31D6"
 msgid "That old rusty set of gears above the town entrance controls a pulley system."
-msgstr ""
+msgstr "街の入り口の上にある錆びた歯車、あれが滑車装置を動かすんだよ。"
 
 #. Key:	DB7D31B143C7D61531D61790BE87667B
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernDefault03_R01.Default__FernDefault03_R01_C.SessionData.Lines(1).Lines
@@ -9139,7 +9139,7 @@ msgstr ""
 #: /Game/Dialogue/Falene/Default/FaleneHadSex01.Default__FaleneHadSex01_C.SessionData.LinesToFemale(7).LinesToFemale
 msgctxt ",DC59A07E4D2FC78409E32EA7A64B7007"
 msgid "That creepy golden seraphim, the one in the temple. She appeared only a few days ago, constantly asking to speak with \"the human\"."
-msgstr ""
+msgstr "あの気味の悪い金色のセラフィム、神殿にいるやつよ。アイツはほんの数日前に現れて、「人間」と話したいってずっと言ってるの。"
 
 #. Key:	DC843E8A4828B0881624D494C080BC2B
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeDefault01_SuckJugs.Default__AmberMaeDefault01_SuckJugs_C.SessionData.Lines(1).Lines
@@ -9363,7 +9363,7 @@ msgstr "……"
 #: /Game/Dialogue/AmberMae/Default/AmberMaeLockedDungeon.Default__AmberMaeLockedDungeon_C.SessionData.Lines(1).Lines
 msgctxt ",E17B89624E06BB5038FB7A90A70FFD12"
 msgid "As Hedon's oldest citizen, I remember trying to fit in there ages ago."
-msgstr ""
+msgstr "ヘドンの一番古い住民として言わせてもらうとさ、大昔にあそこに入れる身体になろうとしてたのを思い出すんだわ。"
 
 #. Key:	E1AA64794D412D85279E1C928CB75EFF
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_RL.Default__FaleneDefault01_RL_C.ResponseData(1).ResponseData.BreederPrompt
@@ -9391,7 +9391,7 @@ msgstr "あぁぁ……おぉぉぉぉ……いい！ どちらの触腕の亀�
 #: /Game/Dialogue/AmberMae/Default/AmberMaeLockedDungeon.Default__AmberMaeLockedDungeon_C.SessionData.Lines(3).Lines
 msgctxt ",E1FD0C3A455475E0E474A0A50646DBA8"
 msgid "Once they built that new temple, the door was sealed... golly 'twas well over 1000 years ago now."
-msgstr ""
+msgstr "あの新しい神殿が建ってしまうと、あそこの扉は封じられてしまって……あれま、もう軽く 1,000 年も前になるわ。"
 
 #. Key:	E20511A746C7BFEF4C46D5A2F2586CD0
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(28 - Value).TraitIcons.HelpText
@@ -9503,7 +9503,7 @@ msgstr "わたしは成長するアルラウネ、ひょっとすると、液体
 #: /Game/Dialogue/Emissary/Default/EmissaryHadSex01.Default__EmissaryHadSex01_C.SessionData.LinesToMale(2).LinesToMale
 msgctxt ",E48F12854CF0D281AA9E52B611BEFF61"
 msgid "Is that a comforting feeling?"
-msgstr ""
+msgstr "安らぎを感じられましたか？"
 
 #. Key:	E499F0E4452FBC3AAE82E18BCF77B28B
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryBlessedInquiry01_R01.Default__EmissaryBlessedInquiry01_R01_C.SessionData.Lines(2).Lines
@@ -9531,7 +9531,7 @@ msgstr ""
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault02.Default__EmissaryDefault02_C.SessionData.Lines(0).Lines
 msgctxt ",E4D00AF649A1E7AC5659FFA04BB04427"
 msgid "Well done @BREEDER_NAME@, thou hast restored my world's link to the Void."
-msgstr ""
+msgstr "善きかな、@BREEDER_NAME@。汝、我が世界の虚空との繋がりを回復せり。"
 
 #. Key:	E5058E9246E1827F928D6681023A71A0
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(10).LinesToFemale
@@ -9573,7 +9573,7 @@ msgstr "はい！ いっしょに歌いましょう、人の子よ。"
 #: /Game/Dialogue/Mirru/Default/MirruHadSex01.Default__MirruHadSex01_C.SessionData.LinesToFemale(2).LinesToFemale
 msgctxt ",E5ED1DF6437395916BD42CBCD355E384"
 msgid "I hope my tentacles were not too much for you... yes they can deliver quite the load."
-msgstr ""
+msgstr "我が触手が、其方の手に余るものでなかったことを願う……うむ、触手は大量に射精できるのだ。"
 
 #. Key:	E5F734734AC1001F041105949672E015
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R04.Default__FaleneDefault01_R04_C.SessionData.Lines(11).Lines
@@ -9636,14 +9636,14 @@ msgstr "受け手が、攻め手に背を向けながら上下に動く。"
 #: /Game/Dialogue/Romy/Default/RomyHadSex01.Default__RomyHadSex01_C.SessionData.Lines(1).Lines
 msgctxt ",E785DF8A4F91C040EC352CA7D80C247E"
 msgid "Waves of ecstasy still course through my body."
-msgstr ""
+msgstr "絶頂の波が、未だに我が身を駆け巡っています。"
 
 #. Key:	E786C6B44314BBD71D79DA9FE5AF0C96
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDungeon.Default__CassieDungeon_C.SessionData.Lines(3).Lines
 #: /Game/Dialogue/Cassie/Default/CassieDungeon.Default__CassieDungeon_C.SessionData.Lines(3).Lines
 msgctxt ",E786C6B44314BBD71D79DA9FE5AF0C96"
 msgid "Cassie thinks there is a way to open it!"
-msgstr ""
+msgstr "キャシーが思うに、あそこを開ける方法がきっとあるじゃんか！"
 
 #. Key:	E79C52514246BC9F37D1229336510455
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeHadSex01.Default__MegaSlimeHadSex01_C.SessionData.LinesToFemale(1).LinesToFemale
@@ -9832,7 +9832,7 @@ msgstr "なんでご主人様って呼んだの？"
 #: /Game/Dialogue/Cassie/Default/CassieDungeon2.Default__CassieDungeon2_C.SessionData.Lines(2).Lines
 msgctxt ",EC7D97C640A2B4A5E3BFACACD27F84F8"
 msgid "It was locked for many years."
-msgstr ""
+msgstr "長いあいだ閉められてたんだよ。"
 
 #. Key:	EC9757E141CD427BCC7326B974A16B82
 #. SourceLocation:	/Game/Dialogue/Neela/SexScenes/NeelaSnakeCuddleF.Default__NeelaSnakeCuddleF_C.SessionData.Lines(4).Lines
@@ -9930,7 +9930,7 @@ msgstr "誘惑者: 魅力によって、交配時の経験値が一定の割合�
 #: /Game/Dialogue/Emissary/Default/EmissaryHadSex01.Default__EmissaryHadSex01_C.SessionData.LinesToFemale(3).LinesToFemale
 msgctxt ",EF1AB21445DDAE7CA5453BB814817514"
 msgid "It has been thousands of years since this holy vessel was touched in such a way, and it felt nothing."
-msgstr ""
+msgstr "この聖なる器がこんなかたちで触られるのは数千年ぶりで、感じることはありませんでした。"
 
 #. Key:	EFEE39A441DF6F79110B608104881B11
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeAboutOrb.Default__MegaSlimeAboutOrb_C.SessionData.Lines(7).Lines
@@ -10070,7 +10070,7 @@ msgstr "じゃあ @MONSTER_RACE@ ってすごくいやらしいんだ……"
 #: /Game/Dialogue/AmberMae/Default/AmberMaeHadSex01.Default__AmberMaeHadSex01_C.SessionData.Lines(1).Lines
 msgctxt ",F2106FBD47C33358DD8CBE9C4F4ABE40"
 msgid "Ahhh... I sure do appreciate tak'n yer time to please this old milkmaid."
-msgstr ""
+msgstr "あぁぁぁ……こんなおばさんな乳搾り女をわざわざ愉しませてくれるなんて、本当に感謝してるべさ。"
 
 #. Key:	F21C5AFA463E6FCE44980EAAEE23498C
 #. SourceLocation:	/Game/Dialogue/Monarch/Default/MonarchDefault01_RL.Default__MonarchDefault01_RL_C.ResponseData(1).ResponseData.BreederPrompt
@@ -10196,7 +10196,7 @@ msgstr ""
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault02.Default__EmissaryDefault02_C.SessionData.Lines(1).Lines
 msgctxt ",F69BD2354184895C493EA985FE74F5CC"
 msgid "To think your vessel made love with a pathetic blob to achieve this."
-msgstr ""
+msgstr "まさか、あなたの器が哀れなぶよぶよと行為を交わし、これを成し遂げるとは。"
 
 #. Key:	F6A2BD8D4CBE73666D030B83D56908E8
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_RaiseTraitLvl.Default__EmissaryDefault01_RaiseTraitLvl_C.SessionData.Lines(2).Lines
@@ -10231,7 +10231,7 @@ msgstr "（喘ぎ声）"
 #: /Game/Dialogue/Cassie/Default/CassieDungeon.Default__CassieDungeon_C.SessionData.Lines(2).Lines
 msgctxt ",F7525328451BBC6ED4F59587DBE6C854"
 msgid "It has been locked for many years."
-msgstr ""
+msgstr "長いあいだ閉められてんよ。"
 
 #. Key:	F75595714B06DF676D20B5B79FB8C222
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(20).LinesToMale
@@ -10406,7 +10406,7 @@ msgstr "おぉぉぉ、いいぞ……はぁぁぁ……"
 #: /Game/Dialogue/Mirru/Default/MirruHadSex01.Default__MirruHadSex01_C.SessionData.LinesToFemale(5).LinesToFemale
 msgctxt ",FAF0FA2D4B10AE21D5D8D2A27EAE488D"
 msgid "Perhaps next time I will indulge myself and not go so easy on you..."
-msgstr ""
+msgstr "今度は、私は欲望の赴くままに楽しんで、其方にはあまり優しくないかもしれぬがな……"
 
 #. Key:	FB09A1964EDEBFF9F5E3839307040AEB
 #. SourceLocation:	/Game/Dialogue/Monarch/Default/MonarchDefault01.Default__MonarchDefault01_C.SessionData.LinesToFemale(4).LinesToFemale
@@ -10637,7 +10637,7 @@ msgstr "汝、更に優れたる種畜を求めんと思えり。"
 #: /Game/Dialogue/Falene/Default/FaleneHadSex01.Default__FaleneHadSex01_C.SessionData.LinesToFuta(8).LinesToFuta
 msgctxt ",FF2AAC0145D999DF7D9EE5BBF54B6B50"
 msgid "That must have been you, perhaps you should go and talk to her."
-msgstr ""
+msgstr "それって絶対アナタのことよ、行って話してみるべきかもね。"
 
 #. Key:	FF350C0E49A57126AB07218CBF432744
 #. SourceLocation:	/Game/UI/TaskDescriptions.TaskDescriptions.TextEntries(9).TextEntries
@@ -10742,7 +10742,7 @@ msgstr "{0} は気を失った……"
 #: Source/Radiant/Public/World/SexyDazeSystem.cpp:132
 msgctxt "ASexyDazeSystem,ReaperToll"
 msgid "The Reaper will have her toll..."
-msgstr "死霊は対価を要求する……"
+msgstr "刈り手は対価を要求する……"
 
 #. Key:	NoFuta
 #. SourceLocation:	Source/Radiant/Public/Characters/Dialogue/SexyDialogueSystem.cpp:285
@@ -12912,21 +12912,21 @@ msgstr "子を牧場に加える前に、名前を変更する。"
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:334
 msgctxt "Radiant,Female"
 msgid "Female"
-msgstr ""
+msgstr "女"
 
 #. Key:	Futa
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:337
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:337
 msgctxt "Radiant,Futa"
 msgid "Futa"
-msgstr ""
+msgstr "ふたなり"
 
 #. Key:	Male
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:340
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:340
 msgctxt "Radiant,Male"
 msgid "Male"
-msgstr ""
+msgstr "男"
 
 #. Key:	NullText
 #. SourceLocation:	Source/Radiant/Public/Data/SexyData.h:2399
@@ -14095,7 +14095,7 @@ msgstr "有効にする"
 #: Source/Radiant/Public/UI/SexyInterface.cpp:336
 msgctxt "WorldAction,ActivateDazeShrine"
 msgid "Commune with the Reaper"
-msgstr "死霊と交感する"
+msgstr "刈り手と交感する"
 
 #. Key:	BreedingSetupAction
 #. SourceLocation:	Source/Radiant/Public/UI/SexyInterface.cpp:324
@@ -14131,4 +14131,3 @@ msgstr "話す"
 msgctxt "WorldAction,TraverseAction"
 msgid "Traverse Portal"
 msgstr "ポータルを通る"
-
